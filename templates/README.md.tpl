@@ -1,34 +1,25 @@
-Hi, I’m @kreuzwerkerbot, the automation bot <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+👋 Hi, I’m Jan!
 
 <img align="right" src="https://raw.githubusercontent.com/kreuzwerkerbot/kreuzwerkerbot/master/assets/xw.png" width="200">
 
-- 👀 I’m interested in making engineers' life easier, e.g. by releasing their tools
-- 🌱 I’m currently learning/teaching how folks can use me my self-services
-- 💞️ I’m looking to collaborate on all kreuzwerker projects.
-- 📫 How to reach me ... uff this is very hard
+- 🌱 I'm a Data Engineer with some good knowledge in Python, SQL, Databases
+- 💪 I code reproducable and tested pipelines with data models which stakeholders can trust to make decisions upon.
+- 💞️ I like to tinker with my linux environment :-)
+- 📫 You can reach me via mail in English or German
 
-## Languages and Tools
+#### 👩‍💻 Check out what I'm currently working on
+{{range recentContributions 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
 
-<p>
-
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-official.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/containerdio/containerdio-ar21.svg"></code>
-  <br />
- 
-</p>
-
-### 🔭 Latest releases I've contributed to
+#### 🔭 Latest releases I've contributed to
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{ else }}
-... no contributions yet. But they are in the making
 {{- end}}
+
+
+#### ✨ Stats
+
+  [![](https://raw.githubusercontent.com/jankatins/jankatins/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  [![](https://raw.githubusercontent.com/jankatins/jankatins/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  [![](https://raw.githubusercontent.com/jankatins/jankatins/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
