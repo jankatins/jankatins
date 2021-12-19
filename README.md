@@ -17,7 +17,7 @@
 - [jankatins/knitpy](https://github.com/jankatins/knitpy) - knitpy: Elegant, flexible and fast dynamic report generation with python (7 months ago)
 - [aiven/aiven-client](https://github.com/aiven/aiven-client) - aiven-client (avn) is the official command-line client for Aiven (8 months ago)
 - [mara/mara-pipelines](https://github.com/mara/mara-pipelines) - A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow (9 months ago)
-- [mara/mara-metabase](https://github.com/mara/mara-metabase) - Configuration and schema sync for Metabase from Python (10 months ago)
+- [mara/mara-metabase](https://github.com/mara/mara-metabase) - Configuration and schema sync for Metabase from Python (11 months ago)
 - [mara/mara-markdown-docs](https://github.com/mara/mara-markdown-docs) - Display markdown documentation in mara (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
