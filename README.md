@@ -12,9 +12,9 @@
 - [aiven/aiven-extras](https://github.com/aiven/aiven-extras) - Aiven PostgreSQL extras (1 month ago)
 - [jankatins/conda-build-wheel](https://github.com/jankatins/conda-build-wheel) - build wheels in conda environments (2 months ago)
 - [aiven/pghoard](https://github.com/aiven/pghoard) - PostgreSQL backup and restore service (2 months ago)
-- [aiven/pglookout](https://github.com/aiven/pglookout) - PostgreSQL replication monitoring and failover daemon (2 months ago)
+- [aiven/pglookout](https://github.com/aiven/pglookout) - PostgreSQL replication monitoring and failover daemon (3 months ago)
 - [mara/mara-schema](https://github.com/mara/mara-schema) - Mapping of DWH database tables to business entities, attributes &amp; metrics in Python, with automatic creation of flattened tables (7 months ago)
-- [jankatins/knitpy](https://github.com/jankatins/knitpy) - knitpy: Elegant, flexible and fast dynamic report generation with python (7 months ago)
+- [jankatins/knitpy](https://github.com/jankatins/knitpy) - knitpy: Elegant, flexible and fast dynamic report generation with python (8 months ago)
 - [aiven/aiven-client](https://github.com/aiven/aiven-client) - aiven-client (avn) is the official command-line client for Aiven (8 months ago)
 - [mara/mara-pipelines](https://github.com/mara/mara-pipelines) - A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow (9 months ago)
 - [mara/mara-metabase](https://github.com/mara/mara-metabase) - Configuration and schema sync for Metabase from Python (11 months ago)
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aiven/aiven-client](https://github.com/aiven/aiven-client) ([2.14.5](https://github.com/aiven/aiven-client/releases/tag/2.14.5), today) - aiven-client (avn) is the official command-line client for Aiven
+- [aiven/aiven-client](https://github.com/aiven/aiven-client) ([2.14.5](https://github.com/aiven/aiven-client/releases/tag/2.14.5), 1 day ago) - aiven-client (avn) is the official command-line client for Aiven
 - [aiven/pghoard](https://github.com/aiven/pghoard) ([2.2.1](https://github.com/aiven/pghoard/releases/tag/2.2.1), 7 months ago) - PostgreSQL backup and restore service
 - [mara/mara-pipelines](https://github.com/mara/mara-pipelines) ([3.1.1](https://github.com/mara/mara-pipelines/releases/tag/3.1.1), 1 year ago) - A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow
 
