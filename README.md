@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aiven/aiven-client](https://github.com/aiven/aiven-client) ([2.14.5](https://github.com/aiven/aiven-client/releases/tag/2.14.5), 1 day ago) - aiven-client (avn) is the official command-line client for Aiven
+- [aiven/aiven-client](https://github.com/aiven/aiven-client) ([2.14.5](https://github.com/aiven/aiven-client/releases/tag/2.14.5), 2 days ago) - aiven-client (avn) is the official command-line client for Aiven
 - [aiven/pghoard](https://github.com/aiven/pghoard) ([2.2.1](https://github.com/aiven/pghoard/releases/tag/2.2.1), 7 months ago) - PostgreSQL backup and restore service
 - [mara/mara-pipelines](https://github.com/mara/mara-pipelines) ([3.1.1](https://github.com/mara/mara-pipelines/releases/tag/3.1.1), 1 year ago) - A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow
 
