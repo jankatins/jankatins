@@ -9,11 +9,11 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (4 days ago)
-- [wez/homebrew-wezterm](https://github.com/wez/homebrew-wezterm) -  A Homebrew Tap for installing wezterm (4 days ago)
+- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (5 days ago)
+- [wez/homebrew-wezterm](https://github.com/wez/homebrew-wezterm) -  A Homebrew Tap for installing wezterm (5 days ago)
 - [aiven/aiven-extras](https://github.com/aiven/aiven-extras) - Aiven PostgreSQL extras (2 months ago)
 - [jankatins/conda-build-wheel](https://github.com/jankatins/conda-build-wheel) - build wheels in conda environments (2 months ago)
-- [aiven/pghoard](https://github.com/aiven/pghoard) - PostgreSQL backup and restore service (2 months ago)
+- [aiven/pghoard](https://github.com/aiven/pghoard) - PostgreSQL backup and restore service (3 months ago)
 - [aiven/pglookout](https://github.com/aiven/pglookout) - PostgreSQL replication monitoring and failover daemon (3 months ago)
 - [mara/mara-schema](https://github.com/mara/mara-schema) - Mapping of DWH database tables to business entities, attributes &amp; metrics in Python, with automatic creation of flattened tables (8 months ago)
 - [jankatins/knitpy](https://github.com/jankatins/knitpy) - knitpy: Elegant, flexible and fast dynamic report generation with python (8 months ago)
