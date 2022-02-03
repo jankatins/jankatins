@@ -9,8 +9,8 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (4 weeks ago)
-- [wez/homebrew-wezterm](https://github.com/wez/homebrew-wezterm) -  A Homebrew Tap for installing wezterm (4 weeks ago)
+- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (1 month ago)
+- [wez/homebrew-wezterm](https://github.com/wez/homebrew-wezterm) -  A Homebrew Tap for installing wezterm (1 month ago)
 - [aiven/aiven-extras](https://github.com/aiven/aiven-extras) - Aiven PostgreSQL® extras (2 months ago)
 - [jankatins/conda-build-wheel](https://github.com/jankatins/conda-build-wheel) - build wheels in conda environments (3 months ago)
 - [aiven/pghoard](https://github.com/aiven/pghoard) - PostgreSQL® backup and restore service (3 months ago)
