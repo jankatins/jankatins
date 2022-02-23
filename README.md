@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aiven/aiven-client](https://github.com/aiven/aiven-client) ([2.14.8](https://github.com/aiven/aiven-client/releases/tag/2.14.8), 6 days ago) - aiven-client (avn) is the official command-line client for Aiven
+- [aiven/aiven-client](https://github.com/aiven/aiven-client) ([2.14.8](https://github.com/aiven/aiven-client/releases/tag/2.14.8), 1 week ago) - aiven-client (avn) is the official command-line client for Aiven
 - [wez/wezterm](https://github.com/wez/wezterm) ([20220101-133340-7edc5b5a](https://github.com/wez/wezterm/releases/tag/20220101-133340-7edc5b5a), 1 month ago) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [aiven/pghoard](https://github.com/aiven/pghoard) ([2.2.1](https://github.com/aiven/pghoard/releases/tag/2.2.1), 10 months ago) - PostgreSQL® backup and restore service
 - [mara/mara-pipelines](https://github.com/mara/mara-pipelines) ([3.1.1](https://github.com/mara/mara-pipelines/releases/tag/3.1.1), 2 years ago) - A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow
