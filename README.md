@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [wez/wezterm](https://github.com/wez/wezterm) ([20220319-142410-0fcdea07](https://github.com/wez/wezterm/releases/tag/20220319-142410-0fcdea07), 4 days ago) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [wez/wezterm](https://github.com/wez/wezterm) ([20220319-142410-0fcdea07](https://github.com/wez/wezterm/releases/tag/20220319-142410-0fcdea07), 5 days ago) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [aiven/aiven-client](https://github.com/aiven/aiven-client) ([2.14.8](https://github.com/aiven/aiven-client/releases/tag/2.14.8), 1 month ago) - aiven-client (avn) is the official command-line client for Aiven
-- [aiven/pghoard](https://github.com/aiven/pghoard) ([2.2.1](https://github.com/aiven/pghoard/releases/tag/2.2.1), 10 months ago) - PostgreSQL® backup and restore service
+- [aiven/pghoard](https://github.com/aiven/pghoard) ([2.2.1](https://github.com/aiven/pghoard/releases/tag/2.2.1), 11 months ago) - PostgreSQL® backup and restore service
 
 
 #### ✨ Stats
