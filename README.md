@@ -18,7 +18,7 @@
 - [aiven/pglookout](https://github.com/aiven/pglookout) - PostgreSQL replication monitoring and failover daemon (6 months ago)
 - [mara/mara-schema](https://github.com/mara/mara-schema) - Mapping of DWH database tables to business entities, attributes &amp; metrics in Python, with automatic creation of flattened tables (10 months ago)
 - [jankatins/knitpy](https://github.com/jankatins/knitpy) - knitpy: Elegant, flexible and fast dynamic report generation with python (11 months ago)
-- [aiven/aiven-client](https://github.com/aiven/aiven-client) - aiven-client (avn) is the official command-line client for Aiven (11 months ago)
+- [aiven/aiven-client](https://github.com/aiven/aiven-client) - aiven-client (avn) is the official command-line client for Aiven (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
