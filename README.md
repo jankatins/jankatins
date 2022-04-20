@@ -15,9 +15,9 @@
 - [aiven/aiven-extras](https://github.com/aiven/aiven-extras) - Aiven PostgreSQL® extras (5 months ago)
 - [jankatins/conda-build-wheel](https://github.com/jankatins/conda-build-wheel) - build wheels in conda environments (6 months ago)
 - [aiven/pghoard](https://github.com/aiven/pghoard) - PostgreSQL® backup and restore service (6 months ago)
-- [aiven/pglookout](https://github.com/aiven/pglookout) - PostgreSQL replication monitoring and failover daemon (6 months ago)
+- [aiven/pglookout](https://github.com/aiven/pglookout) - PostgreSQL replication monitoring and failover daemon (7 months ago)
 - [mara/mara-schema](https://github.com/mara/mara-schema) - Mapping of DWH database tables to business entities, attributes &amp; metrics in Python, with automatic creation of flattened tables (11 months ago)
-- [jankatins/knitpy](https://github.com/jankatins/knitpy) - knitpy: Elegant, flexible and fast dynamic report generation with python (11 months ago)
+- [jankatins/knitpy](https://github.com/jankatins/knitpy) - knitpy: Elegant, flexible and fast dynamic report generation with python (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
