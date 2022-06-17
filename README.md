@@ -9,7 +9,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic (1 week ago)
+- [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic (2 weeks ago)
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (1 month ago)
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (4 months ago)
 - [wez/homebrew-wezterm](https://github.com/wez/homebrew-wezterm) -  A Homebrew Tap for installing wezterm (5 months ago)
