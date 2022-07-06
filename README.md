@@ -14,7 +14,7 @@
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (4 months ago)
 - [wez/homebrew-wezterm](https://github.com/wez/homebrew-wezterm) -  A Homebrew Tap for installing wezterm (6 months ago)
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (6 months ago)
-- [aiven/aiven-extras](https://github.com/aiven/aiven-extras) - Aiven PostgreSQL® extras (7 months ago)
+- [aiven/aiven-extras](https://github.com/aiven/aiven-extras) - Aiven PostgreSQL® extras (8 months ago)
 - [jankatins/conda-build-wheel](https://github.com/jankatins/conda-build-wheel) - build wheels in conda environments (8 months ago)
 - [aiven/pghoard](https://github.com/aiven/pghoard) - PostgreSQL® backup and restore service (8 months ago)
 - [aiven/pglookout](https://github.com/aiven/pglookout) - PostgreSQL replication monitoring and failover daemon (9 months ago)
