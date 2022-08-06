@@ -9,9 +9,9 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (today)
 - [jankatins/yep](https://github.com/jankatins/yep) - yapm: yet another package manager for local cli commands (3 days ago)
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic (2 months ago)
-- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (3 months ago)
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (5 months ago)
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (7 months ago)
 - [wez/homebrew-wezterm](https://github.com/wez/homebrew-wezterm) -  A Homebrew Tap for installing wezterm (7 months ago)
