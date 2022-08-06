@@ -9,7 +9,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [jankatins/yep](https://github.com/jankatins/yep) - yapm: yet another package manager for local cli commands (2 days ago)
+- [jankatins/yep](https://github.com/jankatins/yep) - yapm: yet another package manager for local cli commands (3 days ago)
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic (2 months ago)
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (3 months ago)
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (5 months ago)
