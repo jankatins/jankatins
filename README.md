@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [wez/wezterm](https://github.com/wez/wezterm) ([20220807-081338-e2bf4683](https://github.com/wez/wezterm/releases/tag/20220807-081338-e2bf4683), today) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [wez/wezterm](https://github.com/wez/wezterm) ([20220807-093823-56aa7133](https://github.com/wez/wezterm/releases/tag/20220807-093823-56aa7133), today) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) ([0.6.7](https://github.com/tummychow/git-absorb/releases/tag/0.6.7), 2 months ago) - git commit --fixup, but automatic
 - [aiven/pghoard](https://github.com/aiven/pghoard) ([2.2.1](https://github.com/aiven/pghoard/releases/tag/2.2.1), 1 year ago) - PostgreSQL® backup and restore service
 
