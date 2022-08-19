@@ -9,6 +9,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
+- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (today)
 - [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (1 day ago)
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (1 week ago)
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic (2 months ago)
@@ -18,7 +19,6 @@
 - [aiven/aiven-extras](https://github.com/aiven/aiven-extras) - Aiven PostgreSQL® extras (9 months ago)
 - [jankatins/conda-build-wheel](https://github.com/jankatins/conda-build-wheel) - build wheels in conda environments (10 months ago)
 - [aiven/pghoard](https://github.com/aiven/pghoard) - PostgreSQL® backup and restore service (10 months ago)
-- [aiven/pglookout](https://github.com/aiven/pglookout) - PostgreSQL replication monitoring and failover daemon (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
