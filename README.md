@@ -9,7 +9,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (1 day ago)
+- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (today)
 - [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (4 days ago)
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (3 weeks ago)
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic (3 months ago)
