@@ -9,21 +9,21 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (1 day ago)
-- [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (5 days ago)
+- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (2 days ago)
+- [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (6 days ago)
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (4 weeks ago)
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic (3 months ago)
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (6 months ago)
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (8 months ago)
 - [wez/homebrew-wezterm](https://github.com/wez/homebrew-wezterm) -  A Homebrew Tap for installing wezterm (8 months ago)
-- [aiven/aiven-extras](https://github.com/aiven/aiven-extras) - Aiven PostgreSQL® extras (9 months ago)
+- [aiven/aiven-extras](https://github.com/aiven/aiven-extras) - Aiven PostgreSQL® extras (10 months ago)
 - [jankatins/conda-build-wheel](https://github.com/jankatins/conda-build-wheel) - build wheels in conda environments (10 months ago)
 - [aiven/pghoard](https://github.com/aiven/pghoard) - PostgreSQL® backup and restore service (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) ([1.0.1](https://github.com/jankatins/pr-workflow-example/releases/tag/1.0.1), 1 week ago) - 
-- [wez/wezterm](https://github.com/wez/wezterm) ([20220807-113146-c2fee766](https://github.com/wez/wezterm/releases/tag/20220807-113146-c2fee766), 3 weeks ago) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [wez/wezterm](https://github.com/wez/wezterm) ([20220807-113146-c2fee766](https://github.com/wez/wezterm/releases/tag/20220807-113146-c2fee766), 4 weeks ago) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) ([0.6.7](https://github.com/tummychow/git-absorb/releases/tag/0.6.7), 3 months ago) - git commit --fixup, but automatic
 - [aiven/pghoard](https://github.com/aiven/pghoard) ([2.2.1](https://github.com/aiven/pghoard/releases/tag/2.2.1), 1 year ago) - PostgreSQL® backup and restore service
 
