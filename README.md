@@ -9,9 +9,9 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (2 days ago)
-- [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (6 days ago)
-- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (4 weeks ago)
+- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (3 days ago)
+- [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (1 week ago)
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (1 month ago)
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic (3 months ago)
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (6 months ago)
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (8 months ago)
@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [wez/wezterm](https://github.com/wez/wezterm) ([20220904-064125-9a6cee2b](https://github.com/wez/wezterm/releases/tag/20220904-064125-9a6cee2b), today) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) ([1.0.1](https://github.com/jankatins/pr-workflow-example/releases/tag/1.0.1), 1 week ago) - 
+- [wez/wezterm](https://github.com/wez/wezterm) ([20220904-064125-9a6cee2b](https://github.com/wez/wezterm/releases/tag/20220904-064125-9a6cee2b), 1 day ago) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) ([1.0.1](https://github.com/jankatins/pr-workflow-example/releases/tag/1.0.1), 2 weeks ago) - 
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) ([0.6.7](https://github.com/tummychow/git-absorb/releases/tag/0.6.7), 3 months ago) - git commit --fixup, but automatic
 - [aiven/pghoard](https://github.com/aiven/pghoard) ([2.2.1](https://github.com/aiven/pghoard/releases/tag/2.2.1), 1 year ago) - PostgreSQL® backup and restore service
 
