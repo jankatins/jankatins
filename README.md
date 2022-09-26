@@ -22,7 +22,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jankatins/yep](https://github.com/jankatins/yep) ([0.1.5](https://github.com/jankatins/yep/releases/tag/0.1.5), today) - yep: yet another package manager for local cli commands
 - [aiven/pghoard](https://github.com/aiven/pghoard) ([2.2.2a](https://github.com/aiven/pghoard/releases/tag/2.2.2a), 1 week ago) - PostgreSQL® backup and restore service
 - [wez/wezterm](https://github.com/wez/wezterm) ([20220905-102802-7d4b8249](https://github.com/wez/wezterm/releases/tag/20220905-102802-7d4b8249), 3 weeks ago) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) ([1.0.1](https://github.com/jankatins/pr-workflow-example/releases/tag/1.0.1), 1 month ago) - 
