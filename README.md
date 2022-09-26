@@ -9,9 +9,9 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
+- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (today)
+- [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (today)
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (3 weeks ago)
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (3 weeks ago)
-- [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (4 weeks ago)
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (1 month ago)
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic (3 months ago)
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (7 months ago)
