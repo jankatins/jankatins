@@ -9,6 +9,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
+- [astronomer/airflow-provider-kafka](https://github.com/astronomer/airflow-provider-kafka) - A provider package for kafka (today)
 - [isotopp/isotopp.github.io](https://github.com/isotopp/isotopp.github.io) - https://blog.koehntopp.info, previously named https://isotopp.github.io (1 week ago)
 - [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (2 weeks ago)
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (2 weeks ago)
@@ -18,13 +19,13 @@
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (7 months ago)
 - [wez/homebrew-wezterm](https://github.com/wez/homebrew-wezterm) -  A Homebrew Tap for installing wezterm (9 months ago)
 - [aiven/aiven-extras](https://github.com/aiven/aiven-extras) - Aiven PostgreSQL® extras (11 months ago)
-- [jankatins/conda-build-wheel](https://github.com/jankatins/conda-build-wheel) - build wheels in conda environments (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [jankatins/yep](https://github.com/jankatins/yep) ([0.0.2](https://github.com/jankatins/yep/releases/tag/0.0.2), 2 weeks ago) - yep: yet another package manager for local cli commands
 - [wez/wezterm](https://github.com/wez/wezterm) ([20220905-102802-7d4b8249](https://github.com/wez/wezterm/releases/tag/20220905-102802-7d4b8249), 1 month ago) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) ([1.0.1](https://github.com/jankatins/pr-workflow-example/releases/tag/1.0.1), 1 month ago) - 
+- [astronomer/airflow-provider-kafka](https://github.com/astronomer/airflow-provider-kafka) ([0.1.1](https://github.com/astronomer/airflow-provider-kafka/releases/tag/0.1.1), 2 months ago) - A provider package for kafka
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) ([0.6.7](https://github.com/tummychow/git-absorb/releases/tag/0.6.7), 4 months ago) - git commit --fixup, but automatic
 
 
