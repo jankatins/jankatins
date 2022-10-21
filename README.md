@@ -24,7 +24,7 @@
 
 - [jankatins/yep](https://github.com/jankatins/yep) ([0.0.2](https://github.com/jankatins/yep/releases/tag/0.0.2), 3 weeks ago) - yep: yet another package manager for local cli commands
 - [wez/wezterm](https://github.com/wez/wezterm) ([20220905-102802-7d4b8249](https://github.com/wez/wezterm/releases/tag/20220905-102802-7d4b8249), 1 month ago) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) ([1.0.1](https://github.com/jankatins/pr-workflow-example/releases/tag/1.0.1), 1 month ago) - 
+- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) ([1.0.1](https://github.com/jankatins/pr-workflow-example/releases/tag/1.0.1), 2 months ago) - 
 - [astronomer/airflow-provider-kafka](https://github.com/astronomer/airflow-provider-kafka) ([0.1.1](https://github.com/astronomer/airflow-provider-kafka/releases/tag/0.1.1), 2 months ago) - A provider package for kafka
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) ([0.6.7](https://github.com/tummychow/git-absorb/releases/tag/0.6.7), 4 months ago) - git commit --fixup, but automatic
 
