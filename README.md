@@ -11,7 +11,7 @@
 
 - [astronomer/airflow-provider-kafka](https://github.com/astronomer/airflow-provider-kafka) - A provider package for kafka (2 weeks ago)
 - [isotopp/isotopp.github.io](https://github.com/isotopp/isotopp.github.io) - https://blog.koehntopp.info, previously named https://isotopp.github.io (3 weeks ago)
-- [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (4 weeks ago)
+- [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (1 month ago)
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (1 month ago)
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (1 month ago)
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (2 months ago)
