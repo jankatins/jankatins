@@ -34,3 +34,5 @@
   [![](https://raw.githubusercontent.com/jankatins/jankatins/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   [![](https://raw.githubusercontent.com/jankatins/jankatins/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   [![](https://raw.githubusercontent.com/jankatins/jankatins/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+I'm on <a rel="me" href="https://fosstodon.org/@jankatins">Mastodon</a>.
