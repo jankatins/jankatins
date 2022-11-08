@@ -9,7 +9,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (1 day ago)
+- [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (2 days ago)
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (1 week ago)
 - [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) - Thin wrapper for &#34;pandoc&#34; (MIT) (1 week ago)
 - [astronomer/airflow-provider-kafka](https://github.com/astronomer/airflow-provider-kafka) - A provider package for kafka (3 weeks ago)
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.8.0](https://github.com/zdharma-continuum/zinit/releases/tag/v3.8.0), today) - 🌻 Flexible and fast ZSH plugin manager
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.8.0](https://github.com/zdharma-continuum/zinit/releases/tag/v3.8.0), 1 day ago) - 🌻 Flexible and fast ZSH plugin manager
 - [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) ([v1.10](https://github.com/JessicaTegner/pypandoc/releases/tag/v1.10), 1 week ago) - Thin wrapper for &#34;pandoc&#34; (MIT)
 - [jankatins/yep](https://github.com/jankatins/yep) ([0.0.2](https://github.com/jankatins/yep/releases/tag/0.0.2), 1 month ago) - yep: yet another package manager for local cli commands
 - [wez/wezterm](https://github.com/wez/wezterm) ([20220905-102802-7d4b8249](https://github.com/wez/wezterm/releases/tag/20220905-102802-7d4b8249), 2 months ago) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
