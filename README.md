@@ -9,10 +9,10 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (4 days ago)
+- [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (5 days ago)
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (1 week ago)
-- [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) - Thin wrapper for &#34;pandoc&#34; (MIT) (1 week ago)
-- [astronomer/airflow-provider-kafka](https://github.com/astronomer/airflow-provider-kafka) - A provider package for kafka (4 weeks ago)
+- [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) - Thin wrapper for &#34;pandoc&#34; (MIT) (2 weeks ago)
+- [astronomer/airflow-provider-kafka](https://github.com/astronomer/airflow-provider-kafka) - A provider package for kafka (1 month ago)
 - [isotopp/isotopp.github.io](https://github.com/isotopp/isotopp.github.io) - https://blog.koehntopp.info, previously named https://isotopp.github.io (1 month ago)
 - [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (1 month ago)
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (1 month ago)
@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.8.0](https://github.com/zdharma-continuum/zinit/releases/tag/v3.8.0), 3 days ago) - 🌻 Flexible and fast ZSH plugin manager
-- [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) ([v1.10](https://github.com/JessicaTegner/pypandoc/releases/tag/v1.10), 1 week ago) - Thin wrapper for &#34;pandoc&#34; (MIT)
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.8.0](https://github.com/zdharma-continuum/zinit/releases/tag/v3.8.0), 4 days ago) - 🌻 Flexible and fast ZSH plugin manager
+- [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) ([v1.10](https://github.com/JessicaTegner/pypandoc/releases/tag/v1.10), 2 weeks ago) - Thin wrapper for &#34;pandoc&#34; (MIT)
 - [jankatins/yep](https://github.com/jankatins/yep) ([0.0.2](https://github.com/jankatins/yep/releases/tag/0.0.2), 1 month ago) - yep: yet another package manager for local cli commands
 - [wez/wezterm](https://github.com/wez/wezterm) ([20220905-102802-7d4b8249](https://github.com/wez/wezterm/releases/tag/20220905-102802-7d4b8249), 2 months ago) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) ([1.0.1](https://github.com/jankatins/pr-workflow-example/releases/tag/1.0.1), 2 months ago) - 
