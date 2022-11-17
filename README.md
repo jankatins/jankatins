@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [tummychow/git-absorb](https://github.com/tummychow/git-absorb) ([0.6.8](https://github.com/tummychow/git-absorb/releases/tag/0.6.8), today) - git commit --fixup, but automatic
+- [tummychow/git-absorb](https://github.com/tummychow/git-absorb) ([0.6.9](https://github.com/tummychow/git-absorb/releases/tag/0.6.9), today) - git commit --fixup, but automatic
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.8.0](https://github.com/zdharma-continuum/zinit/releases/tag/v3.8.0), 1 week ago) - 🌻 Flexible and fast ZSH plugin manager
 - [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) ([v1.10](https://github.com/JessicaTegner/pypandoc/releases/tag/v1.10), 2 weeks ago) - Thin wrapper for &#34;pandoc&#34; (MIT)
 - [jankatins/yep](https://github.com/jankatins/yep) ([0.0.2](https://github.com/jankatins/yep/releases/tag/0.0.2), 1 month ago) - yep: yet another package manager for local cli commands
