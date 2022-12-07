@@ -9,7 +9,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (1 day ago)
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (2 days ago)
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (1 month ago)
 - [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) - Thin wrapper for &#34;pandoc&#34; (MIT) (1 month ago)
 - [astronomer/airflow-provider-kafka](https://github.com/astronomer/airflow-provider-kafka) - A provider package for kafka (1 month ago)
@@ -24,7 +24,7 @@
 
 - [wez/wezterm](https://github.com/wez/wezterm) ([20221119-145034-49b9839f](https://github.com/wez/wezterm/releases/tag/20221119-145034-49b9839f), 2 weeks ago) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) ([0.6.9](https://github.com/tummychow/git-absorb/releases/tag/0.6.9), 2 weeks ago) - git commit --fixup, but automatic
-- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.8.0](https://github.com/zdharma-continuum/zinit/releases/tag/v3.8.0), 4 weeks ago) - 🌻 Flexible and fast ZSH plugin manager
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.8.0](https://github.com/zdharma-continuum/zinit/releases/tag/v3.8.0), 1 month ago) - 🌻 Flexible and fast ZSH plugin manager
 - [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) ([v1.10](https://github.com/JessicaTegner/pypandoc/releases/tag/v1.10), 1 month ago) - Thin wrapper for &#34;pandoc&#34; (MIT)
 - [jankatins/yep](https://github.com/jankatins/yep) ([0.0.2](https://github.com/jankatins/yep/releases/tag/0.0.2), 2 months ago) - yep: yet another package manager for local cli commands
 
