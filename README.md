@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.9.0](https://github.com/zdharma-continuum/zinit/releases/tag/v3.9.0), today) - 🌻 Flexible and fast ZSH plugin manager
 - [apache/superset](https://github.com/apache/superset) ([2.0.1rc6](https://github.com/apache/superset/releases/tag/2.0.1rc6), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [astronomer/airflow-provider-kafka](https://github.com/astronomer/airflow-provider-kafka) ([0.2.1](https://github.com/astronomer/airflow-provider-kafka/releases/tag/0.2.1), 2 days ago) - A provider package for kafka
 - [wez/wezterm](https://github.com/wez/wezterm) ([20221119-145034-49b9839f](https://github.com/wez/wezterm/releases/tag/20221119-145034-49b9839f), 3 weeks ago) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) ([0.6.9](https://github.com/tummychow/git-absorb/releases/tag/0.6.9), 1 month ago) - git commit --fixup, but automatic
-- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.8.0](https://github.com/zdharma-continuum/zinit/releases/tag/v3.8.0), 1 month ago) - 🌻 Flexible and fast ZSH plugin manager
 
 
 #### ✨ Stats
