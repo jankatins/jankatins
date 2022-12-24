@@ -10,7 +10,7 @@
 #### 👩‍💻 Check out what I'm currently working on
 
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (1 week ago)
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (1 week ago)
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (2 weeks ago)
 - [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (2 weeks ago)
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (2 weeks ago)
 - [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) - Thin wrapper for &#34;pandoc&#34; (MIT) (1 month ago)
@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([2.0.1](https://github.com/apache/superset/releases/tag/2.0.1), 3 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.9.0](https://github.com/zdharma-continuum/zinit/releases/tag/v3.9.0), 6 days ago) - 🌻 Flexible and fast ZSH plugin manager
+- [apache/superset](https://github.com/apache/superset) ([2.0.1](https://github.com/apache/superset/releases/tag/2.0.1), 4 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.9.0](https://github.com/zdharma-continuum/zinit/releases/tag/v3.9.0), 1 week ago) - 🌻 Flexible and fast ZSH plugin manager
 - [astronomer/airflow-provider-kafka](https://github.com/astronomer/airflow-provider-kafka) ([0.2.1](https://github.com/astronomer/airflow-provider-kafka/releases/tag/0.2.1), 1 week ago) - A provider package for kafka
 - [wez/wezterm](https://github.com/wez/wezterm) ([20221119-145034-49b9839f](https://github.com/wez/wezterm/releases/tag/20221119-145034-49b9839f), 1 month ago) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) ([0.6.9](https://github.com/tummychow/git-absorb/releases/tag/0.6.9), 1 month ago) - git commit --fixup, but automatic
