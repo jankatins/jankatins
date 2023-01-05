@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([2.0.1](https://github.com/apache/superset/releases/tag/2.0.1), 2 weeks ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.8.0](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.8.0), today) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.9.0](https://github.com/zdharma-continuum/zinit/releases/tag/v3.9.0), 2 weeks ago) - 🌻 Flexible and fast ZSH plugin manager
 - [astronomer/airflow-provider-kafka](https://github.com/astronomer/airflow-provider-kafka) ([0.2.1](https://github.com/astronomer/airflow-provider-kafka/releases/tag/0.2.1), 3 weeks ago) - A provider package for kafka
 - [starship/starship](https://github.com/starship/starship) ([v1.12.0](https://github.com/starship/starship/releases/tag/v1.12.0), 3 weeks ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
