@@ -9,10 +9,10 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 day ago)
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (2 days ago)
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (3 weeks ago)
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (3 weeks ago)
-- [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (3 weeks ago)
+- [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (4 weeks ago)
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (1 month ago)
 - [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) - Thin wrapper for &#34;pandoc&#34; (MIT) (2 months ago)
 - [astronomer/airflow-provider-kafka](https://github.com/astronomer/airflow-provider-kafka) - A provider package for kafka (2 months ago)
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.8.2](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.8.2), today) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.8.2](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.8.2), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.9.0](https://github.com/zdharma-continuum/zinit/releases/tag/v3.9.0), 2 weeks ago) - 🌻 Flexible and fast ZSH plugin manager
 - [astronomer/airflow-provider-kafka](https://github.com/astronomer/airflow-provider-kafka) ([0.2.1](https://github.com/astronomer/airflow-provider-kafka/releases/tag/0.2.1), 3 weeks ago) - A provider package for kafka
 - [starship/starship](https://github.com/starship/starship) ([v1.12.0](https://github.com/starship/starship/releases/tag/v1.12.0), 3 weeks ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
