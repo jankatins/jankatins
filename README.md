@@ -9,7 +9,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (1 day ago)
+- [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (2 days ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 week ago)
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (1 month ago)
 - [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (1 month ago)
@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([1.5.3rc1](https://github.com/apache/superset/releases/tag/1.5.3rc1), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [apache/superset](https://github.com/apache/superset) ([1.5.3rc1](https://github.com/apache/superset/releases/tag/1.5.3rc1), 3 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.9.0](https://github.com/zdharma-continuum/zinit/releases/tag/v3.9.0), 3 weeks ago) - 🌻 Flexible and fast ZSH plugin manager
-- [astronomer/airflow-provider-kafka](https://github.com/astronomer/airflow-provider-kafka) ([0.2.1](https://github.com/astronomer/airflow-provider-kafka/releases/tag/0.2.1), 3 weeks ago) - A provider package for kafka
-- [starship/starship](https://github.com/starship/starship) ([v1.12.0](https://github.com/starship/starship/releases/tag/v1.12.0), 4 weeks ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [astronomer/airflow-provider-kafka](https://github.com/astronomer/airflow-provider-kafka) ([0.2.1](https://github.com/astronomer/airflow-provider-kafka/releases/tag/0.2.1), 4 weeks ago) - A provider package for kafka
+- [starship/starship](https://github.com/starship/starship) ([v1.12.0](https://github.com/starship/starship/releases/tag/v1.12.0), 1 month ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [wez/wezterm](https://github.com/wez/wezterm) ([20221119-145034-49b9839f](https://github.com/wez/wezterm/releases/tag/20221119-145034-49b9839f), 1 month ago) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 
 
