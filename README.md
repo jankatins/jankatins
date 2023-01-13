@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([1.5.3](https://github.com/apache/superset/releases/tag/1.5.3), today) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.8.3](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.8.3), today) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.220](https://github.com/charliermarsh/ruff/releases/tag/v0.0.220), 1 day ago) - An extremely fast Python linter, written in Rust.
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.4.1](https://github.com/linkml/linkml/releases/tag/v1.4.1), 1 week ago) - Linked Open Data Modeling Language
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.9.0](https://github.com/zdharma-continuum/zinit/releases/tag/v3.9.0), 3 weeks ago) - 🌻 Flexible and fast ZSH plugin manager
