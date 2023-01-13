@@ -9,6 +9,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
+- [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language (today)
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust. (today)
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (3 days ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 week ago)
@@ -18,15 +19,14 @@
 - [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) - Thin wrapper for &#34;pandoc&#34; (MIT) (2 months ago)
 - [astronomer/airflow-provider-kafka](https://github.com/astronomer/airflow-provider-kafka) - A provider package for kafka (3 months ago)
 - [isotopp/isotopp.github.io](https://github.com/isotopp/isotopp.github.io) - https://blog.koehntopp.info, previously named https://isotopp.github.io (3 months ago)
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [apache/superset](https://github.com/apache/superset) ([1.5.3](https://github.com/apache/superset/releases/tag/1.5.3), today) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.220](https://github.com/charliermarsh/ruff/releases/tag/v0.0.220), 1 day ago) - An extremely fast Python linter, written in Rust.
+- [linkml/linkml](https://github.com/linkml/linkml) ([v1.4.1](https://github.com/linkml/linkml/releases/tag/v1.4.1), 1 week ago) - Linked Open Data Modeling Language
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.9.0](https://github.com/zdharma-continuum/zinit/releases/tag/v3.9.0), 3 weeks ago) - 🌻 Flexible and fast ZSH plugin manager
 - [astronomer/airflow-provider-kafka](https://github.com/astronomer/airflow-provider-kafka) ([0.2.1](https://github.com/astronomer/airflow-provider-kafka/releases/tag/0.2.1), 4 weeks ago) - A provider package for kafka
-- [starship/starship](https://github.com/starship/starship) ([v1.12.0](https://github.com/starship/starship/releases/tag/v1.12.0), 1 month ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
 
 #### ✨ Stats
