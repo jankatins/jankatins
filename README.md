@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [apache/superset](https://github.com/apache/superset) ([1.5.3](https://github.com/apache/superset/releases/tag/1.5.3), today) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.220](https://github.com/charliermarsh/ruff/releases/tag/v0.0.220), 1 day ago) - An extremely fast Python linter, written in Rust.
-- [apache/superset](https://github.com/apache/superset) ([1.5.3rc1](https://github.com/apache/superset/releases/tag/1.5.3rc1), 4 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.9.0](https://github.com/zdharma-continuum/zinit/releases/tag/v3.9.0), 3 weeks ago) - 🌻 Flexible and fast ZSH plugin manager
 - [astronomer/airflow-provider-kafka](https://github.com/astronomer/airflow-provider-kafka) ([0.2.1](https://github.com/astronomer/airflow-provider-kafka/releases/tag/0.2.1), 4 weeks ago) - A provider package for kafka
 - [starship/starship](https://github.com/starship/starship) ([v1.12.0](https://github.com/starship/starship/releases/tag/v1.12.0), 1 month ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
