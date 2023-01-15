@@ -9,6 +9,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
+- [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust (today)
 - [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language (2 days ago)
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust. (2 days ago)
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (5 days ago)
@@ -18,7 +19,6 @@
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (1 month ago)
 - [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) - Thin wrapper for &#34;pandoc&#34; (MIT) (2 months ago)
 - [astronomer/airflow-provider-kafka](https://github.com/astronomer/airflow-provider-kafka) - A provider package for kafka (3 months ago)
-- [isotopp/isotopp.github.io](https://github.com/isotopp/isotopp.github.io) - https://blog.koehntopp.info, previously named https://isotopp.github.io (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
