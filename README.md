@@ -9,10 +9,10 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust (today)
-- [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language (2 days ago)
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust. (2 days ago)
-- [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (5 days ago)
+- [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust (1 day ago)
+- [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language (3 days ago)
+- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust. (3 days ago)
+- [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (6 days ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 week ago)
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (1 month ago)
 - [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (1 month ago)
@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.222](https://github.com/charliermarsh/ruff/releases/tag/v0.0.222), today) - An extremely fast Python linter, written in Rust.
-- [linkml/linkml](https://github.com/linkml/linkml) ([v1.4.2](https://github.com/linkml/linkml/releases/tag/v1.4.2), 1 day ago) - Linked Open Data Modeling Language
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.8.3](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.8.3), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.9.0](https://github.com/zdharma-continuum/zinit/releases/tag/v3.9.0), 4 weeks ago) - 🌻 Flexible and fast ZSH plugin manager
+- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.222](https://github.com/charliermarsh/ruff/releases/tag/v0.0.222), 1 day ago) - An extremely fast Python linter, written in Rust.
+- [linkml/linkml](https://github.com/linkml/linkml) ([v1.4.2](https://github.com/linkml/linkml/releases/tag/v1.4.2), 2 days ago) - Linked Open Data Modeling Language
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.8.3](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.8.3), 3 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.9.0](https://github.com/zdharma-continuum/zinit/releases/tag/v3.9.0), 1 month ago) - 🌻 Flexible and fast ZSH plugin manager
 - [astronomer/airflow-provider-kafka](https://github.com/astronomer/airflow-provider-kafka) ([0.2.1](https://github.com/astronomer/airflow-provider-kafka/releases/tag/0.2.1), 1 month ago) - A provider package for kafka
 
 
