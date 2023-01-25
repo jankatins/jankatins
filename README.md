@@ -9,6 +9,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (today)
 - [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language (6 days ago)
 - [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust (1 week ago)
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust. (1 week ago)
@@ -18,15 +19,14 @@
 - [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (1 month ago)
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (1 month ago)
 - [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) - Thin wrapper for &#34;pandoc&#34; (MIT) (2 months ago)
-- [astronomer/airflow-provider-kafka](https://github.com/astronomer/airflow-provider-kafka) - A provider package for kafka (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.233](https://github.com/charliermarsh/ruff/releases/tag/v0.0.233), 1 day ago) - An extremely fast Python linter, written in Rust.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.8.4](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.8.4), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) ([v1.1.2](https://github.com/orhun/git-cliff/releases/tag/v1.1.2), 5 days ago) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.4.2](https://github.com/linkml/linkml/releases/tag/v1.4.2), 1 week ago) - Linked Open Data Modeling Language
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.9.0](https://github.com/zdharma-continuum/zinit/releases/tag/v3.9.0), 1 month ago) - 🌻 Flexible and fast ZSH plugin manager
-- [astronomer/airflow-provider-kafka](https://github.com/astronomer/airflow-provider-kafka) ([0.2.1](https://github.com/astronomer/airflow-provider-kafka/releases/tag/0.2.1), 1 month ago) - A provider package for kafka
 
 
 #### ✨ Stats
