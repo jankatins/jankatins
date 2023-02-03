@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [astronomer/airflow-provider-kafka](https://github.com/astronomer/airflow-provider-kafka) ([0.2.2](https://github.com/astronomer/airflow-provider-kafka/releases/tag/0.2.2), today) - A provider package for kafka
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.240](https://github.com/charliermarsh/ruff/releases/tag/v0.0.240), 1 day ago) - An extremely fast Python linter, written in Rust.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.8.5](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.8.5), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.4.3](https://github.com/linkml/linkml/releases/tag/v1.4.3), 6 days ago) - Linked Open Data Modeling Language
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) ([v1.1.2](https://github.com/orhun/git-cliff/releases/tag/v1.1.2), 2 weeks ago) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
-- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.9.0](https://github.com/zdharma-continuum/zinit/releases/tag/v3.9.0), 1 month ago) - 🌻 Flexible and fast ZSH plugin manager
 
 
 #### ✨ Stats
