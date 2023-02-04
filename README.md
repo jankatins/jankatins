@@ -9,11 +9,11 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
+- [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (today)
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (1 week ago)
 - [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language (2 weeks ago)
 - [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust (2 weeks ago)
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust. (3 weeks ago)
-- [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (3 weeks ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 month ago)
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (1 month ago)
 - [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (1 month ago)
