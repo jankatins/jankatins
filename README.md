@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.245](https://github.com/charliermarsh/ruff/releases/tag/v0.0.245), 1 day ago) - An extremely fast Python linter, written in Rust.
+- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.245](https://github.com/charliermarsh/ruff/releases/tag/v0.0.245), 2 days ago) - An extremely fast Python linter, written in Rust.
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.4.4](https://github.com/linkml/linkml/releases/tag/v1.4.4), 1 week ago) - Linked Open Data Modeling Language
 - [astronomer/airflow-provider-kafka](https://github.com/astronomer/airflow-provider-kafka) ([0.2.2](https://github.com/astronomer/airflow-provider-kafka/releases/tag/0.2.2), 1 week ago) - A provider package for kafka
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.8.5](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.8.5), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
