@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.247](https://github.com/charliermarsh/ruff/releases/tag/v0.0.247), 3 days ago) - An extremely fast Python linter, written in Rust.
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.8.6](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.8.6), 4 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.247](https://github.com/charliermarsh/ruff/releases/tag/v0.0.247), 4 days ago) - An extremely fast Python linter, written in Rust.
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.8.6](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.8.6), 5 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.4.4](https://github.com/linkml/linkml/releases/tag/v1.4.4), 2 weeks ago) - Linked Open Data Modeling Language
 - [astronomer/airflow-provider-kafka](https://github.com/astronomer/airflow-provider-kafka) ([0.2.2](https://github.com/astronomer/airflow-provider-kafka/releases/tag/0.2.2), 2 weeks ago) - A provider package for kafka
-- [orhun/git-cliff](https://github.com/orhun/git-cliff) ([v1.1.2](https://github.com/orhun/git-cliff/releases/tag/v1.1.2), 4 weeks ago) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) ([v1.1.2](https://github.com/orhun/git-cliff/releases/tag/v1.1.2), 1 month ago) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
 
 
 #### ✨ Stats
