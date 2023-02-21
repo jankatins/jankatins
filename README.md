@@ -9,9 +9,9 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
+- [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language (today)
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (2 weeks ago)
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (3 weeks ago)
-- [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language (1 month ago)
 - [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust (1 month ago)
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust. (1 month ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 month ago)
