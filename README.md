@@ -9,9 +9,9 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language (today)
+- [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language (1 day ago)
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (2 weeks ago)
-- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (3 weeks ago)
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (4 weeks ago)
 - [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust (1 month ago)
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust. (1 month ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 month ago)
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.250](https://github.com/charliermarsh/ruff/releases/tag/v0.0.250), today) - An extremely fast Python linter, written in Rust.
+- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.251](https://github.com/charliermarsh/ruff/releases/tag/v0.0.251), 1 day ago) - An extremely fast Python linter, written in Rust.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.8.6](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.8.6), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.4.4](https://github.com/linkml/linkml/releases/tag/v1.4.4), 2 weeks ago) - Linked Open Data Modeling Language
 - [astronomer/airflow-provider-kafka](https://github.com/astronomer/airflow-provider-kafka) ([0.2.2](https://github.com/astronomer/airflow-provider-kafka/releases/tag/0.2.2), 2 weeks ago) - A provider package for kafka
