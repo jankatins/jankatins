@@ -9,6 +9,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
+- [zdharma-continuum/zinit-annex-patch-dl](https://github.com/zdharma-continuum/zinit-annex-patch-dl) - Unmaintained mirror of zinit-zsh/z-a-patch-dl (today)
 - [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language (2 days ago)
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (3 weeks ago)
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (1 month ago)
@@ -18,7 +19,6 @@
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (2 months ago)
 - [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (2 months ago)
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (2 months ago)
-- [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) - Thin wrapper for &#34;pandoc&#34; (MIT) (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
