@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [linkml/linkml](https://github.com/linkml/linkml) ([v1.4.6](https://github.com/linkml/linkml/releases/tag/v1.4.6), today) - Linked Open Data Modeling Language
 - [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) ([latest](https://github.com/JessicaTegner/pypandoc/releases/tag/latest), 1 day ago) - Thin wrapper for &#34;pandoc&#34; (MIT)
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.253](https://github.com/charliermarsh/ruff/releases/tag/v0.0.253), 2 days ago) - An extremely fast Python linter, written in Rust.
 - [starship/starship](https://github.com/starship/starship) ([v1.13.1](https://github.com/starship/starship/releases/tag/v1.13.1), 3 days ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.8.7](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.8.7), 6 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [linkml/linkml](https://github.com/linkml/linkml) ([v1.4.5](https://github.com/linkml/linkml/releases/tag/v1.4.5), 6 days ago) - Linked Open Data Modeling Language
 
 
 #### ✨ Stats
