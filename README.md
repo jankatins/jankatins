@@ -9,8 +9,8 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [zdharma-continuum/zinit-annex-patch-dl](https://github.com/zdharma-continuum/zinit-annex-patch-dl) - Unmaintained mirror of zinit-zsh/z-a-patch-dl (3 days ago)
-- [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language (5 days ago)
+- [zdharma-continuum/zinit-annex-patch-dl](https://github.com/zdharma-continuum/zinit-annex-patch-dl) - Unmaintained mirror of zinit-zsh/z-a-patch-dl (4 days ago)
+- [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language (6 days ago)
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (3 weeks ago)
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (1 month ago)
 - [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust (1 month ago)
@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [linkml/linkml](https://github.com/linkml/linkml) ([v1.4.6](https://github.com/linkml/linkml/releases/tag/v1.4.6), 1 day ago) - Linked Open Data Modeling Language
-- [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) ([latest](https://github.com/JessicaTegner/pypandoc/releases/tag/latest), 2 days ago) - Thin wrapper for &#34;pandoc&#34; (MIT)
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.253](https://github.com/charliermarsh/ruff/releases/tag/v0.0.253), 3 days ago) - An extremely fast Python linter, written in Rust.
-- [starship/starship](https://github.com/starship/starship) ([v1.13.1](https://github.com/starship/starship/releases/tag/v1.13.1), 4 days ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [linkml/linkml](https://github.com/linkml/linkml) ([v1.4.6](https://github.com/linkml/linkml/releases/tag/v1.4.6), 2 days ago) - Linked Open Data Modeling Language
+- [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) ([latest](https://github.com/JessicaTegner/pypandoc/releases/tag/latest), 3 days ago) - Thin wrapper for &#34;pandoc&#34; (MIT)
+- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.253](https://github.com/charliermarsh/ruff/releases/tag/v0.0.253), 4 days ago) - An extremely fast Python linter, written in Rust.
+- [starship/starship](https://github.com/starship/starship) ([v1.13.1](https://github.com/starship/starship/releases/tag/v1.13.1), 5 days ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.8.7](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.8.7), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 
 
