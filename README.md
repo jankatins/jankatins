@@ -9,6 +9,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
+- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) - A database migrations tool for SQLAlchemy. (1 day ago)
 - [zdharma-continuum/zinit-annex-patch-dl](https://github.com/zdharma-continuum/zinit-annex-patch-dl) - Unmaintained mirror of zinit-zsh/z-a-patch-dl (1 week ago)
 - [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language (1 week ago)
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (1 month ago)
@@ -18,15 +19,14 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (2 months ago)
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (2 months ago)
 - [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (2 months ago)
-- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_10_1](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_10_1), today) - A database migrations tool for SQLAlchemy.
+- [linkml/linkml](https://github.com/linkml/linkml) ([v1.4.7](https://github.com/linkml/linkml/releases/tag/v1.4.7), today) - Linked Open Data Modeling Language
 - [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) ([latest](https://github.com/JessicaTegner/pypandoc/releases/tag/latest), 3 days ago) - Thin wrapper for &#34;pandoc&#34; (MIT)
 - [Textualize/rich](https://github.com/Textualize/rich) ([v13.3.2](https://github.com/Textualize/rich/releases/tag/v13.3.2), 3 days ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.254](https://github.com/charliermarsh/ruff/releases/tag/v0.0.254), 3 days ago) - An extremely fast Python linter, written in Rust.
-- [linkml/linkml](https://github.com/linkml/linkml) ([v1.4.6](https://github.com/linkml/linkml/releases/tag/v1.4.6), 6 days ago) - Linked Open Data Modeling Language
-- [starship/starship](https://github.com/starship/starship) ([v1.13.1](https://github.com/starship/starship/releases/tag/v1.13.1), 1 week ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
 
 #### ✨ Stats
