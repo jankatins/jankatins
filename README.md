@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_10_1](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_10_1), 1 day ago) - A database migrations tool for SQLAlchemy.
+- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_10_2](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_10_2), today) - A database migrations tool for SQLAlchemy.
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.4.7](https://github.com/linkml/linkml/releases/tag/v1.4.7), 1 day ago) - Linked Open Data Modeling Language
 - [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) ([latest](https://github.com/JessicaTegner/pypandoc/releases/tag/latest), 4 days ago) - Thin wrapper for &#34;pandoc&#34; (MIT)
 - [Textualize/rich](https://github.com/Textualize/rich) ([v13.3.2](https://github.com/Textualize/rich/releases/tag/v13.3.2), 4 days ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
