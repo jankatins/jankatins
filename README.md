@@ -14,7 +14,7 @@
 - [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language (2 weeks ago)
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (1 month ago)
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (1 month ago)
-- [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust (1 month ago)
+- [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust (2 months ago)
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust. (2 months ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (2 months ago)
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (3 months ago)
@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.256](https://github.com/charliermarsh/ruff/releases/tag/v0.0.256), today) - An extremely fast Python linter, written in Rust.
-- [linkml/linkml](https://github.com/linkml/linkml) ([v1.4.8](https://github.com/linkml/linkml/releases/tag/v1.4.8), 1 day ago) - Linked Open Data Modeling Language
-- [apache/superset](https://github.com/apache/superset) ([2.1.0rc2](https://github.com/apache/superset/releases/tag/2.1.0rc2), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) ([latest](https://github.com/JessicaTegner/pypandoc/releases/tag/latest), 6 days ago) - Thin wrapper for &#34;pandoc&#34; (MIT)
+- [linkml/linkml](https://github.com/linkml/linkml) ([v1.4.9](https://github.com/linkml/linkml/releases/tag/v1.4.9), 1 day ago) - Linked Open Data Modeling Language
+- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.256](https://github.com/charliermarsh/ruff/releases/tag/v0.0.256), 1 day ago) - An extremely fast Python linter, written in Rust.
+- [apache/superset](https://github.com/apache/superset) ([2.1.0rc2](https://github.com/apache/superset/releases/tag/2.1.0rc2), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) ([latest](https://github.com/JessicaTegner/pypandoc/releases/tag/latest), 1 week ago) - Thin wrapper for &#34;pandoc&#34; (MIT)
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_10_2](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_10_2), 1 week ago) - A database migrations tool for SQLAlchemy.
 
 
