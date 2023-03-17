@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [linkml/linkml](https://github.com/linkml/linkml) ([v1.4.10](https://github.com/linkml/linkml/releases/tag/v1.4.10), today) - Linked Open Data Modeling Language
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.256](https://github.com/charliermarsh/ruff/releases/tag/v0.0.256), 1 day ago) - An extremely fast Python linter, written in Rust.
-- [apache/superset](https://github.com/apache/superset) ([2.1.0rc2](https://github.com/apache/superset/releases/tag/2.1.0rc2), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [linkml/linkml](https://github.com/linkml/linkml) ([v1.4.10](https://github.com/linkml/linkml/releases/tag/v1.4.10), 1 day ago) - Linked Open Data Modeling Language
+- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.256](https://github.com/charliermarsh/ruff/releases/tag/v0.0.256), 2 days ago) - An extremely fast Python linter, written in Rust.
+- [apache/superset](https://github.com/apache/superset) ([2.1.0rc2](https://github.com/apache/superset/releases/tag/2.1.0rc2), 3 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) ([latest](https://github.com/JessicaTegner/pypandoc/releases/tag/latest), 1 week ago) - Thin wrapper for &#34;pandoc&#34; (MIT)
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_10_2](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_10_2), 1 week ago) - A database migrations tool for SQLAlchemy.
 
