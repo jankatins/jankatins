@@ -10,7 +10,7 @@
 #### 👩‍💻 Check out what I'm currently working on
 
 - [dalibo/pev2](https://github.com/dalibo/pev2) - Postgres Explain Visualizer 2 (today)
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (4 days ago)
+- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (today)
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) - A database migrations tool for SQLAlchemy. (2 weeks ago)
 - [zdharma-continuum/zinit-annex-patch-dl](https://github.com/zdharma-continuum/zinit-annex-patch-dl) - Unmaintained mirror of zinit-zsh/z-a-patch-dl (3 weeks ago)
 - [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language (3 weeks ago)
