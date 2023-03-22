@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.258](https://github.com/charliermarsh/ruff/releases/tag/v0.0.258), today) - An extremely fast Python linter, written in Rust.
 - [dalibo/pev2](https://github.com/dalibo/pev2) ([v1.8.0](https://github.com/dalibo/pev2/releases/tag/v1.8.0), 1 day ago) - Postgres Explain Visualizer 2
 - [wez/wezterm](https://github.com/wez/wezterm) ([20230320-124340-559cb7b0](https://github.com/wez/wezterm/releases/tag/20230320-124340-559cb7b0), 2 days ago) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [apache/superset](https://github.com/apache/superset) ([2.1.0rc3](https://github.com/apache/superset/releases/tag/2.1.0rc3), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.257](https://github.com/charliermarsh/ruff/releases/tag/v0.0.257), 4 days ago) - An extremely fast Python linter, written in Rust.
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.4.10](https://github.com/linkml/linkml/releases/tag/v1.4.10), 6 days ago) - Linked Open Data Modeling Language
 
 
