@@ -9,8 +9,9 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [dalibo/pev2](https://github.com/dalibo/pev2) - Postgres Explain Visualizer 2 (2 days ago)
+- [mara/mara-metabase](https://github.com/mara/mara-metabase) - Configuration and schema sync for Metabase from Python (today)
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (2 days ago)
+- [dalibo/pev2](https://github.com/dalibo/pev2) - Postgres Explain Visualizer 2 (2 days ago)
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) - A database migrations tool for SQLAlchemy. (2 weeks ago)
 - [zdharma-continuum/zinit-annex-patch-dl](https://github.com/zdharma-continuum/zinit-annex-patch-dl) - Unmaintained mirror of zinit-zsh/z-a-patch-dl (3 weeks ago)
 - [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language (3 weeks ago)
@@ -18,7 +19,6 @@
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (1 month ago)
 - [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust (2 months ago)
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust. (2 months ago)
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
