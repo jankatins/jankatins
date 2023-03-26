@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [wez/wezterm](https://github.com/wez/wezterm) ([20230326-111934-3666303c](https://github.com/wez/wezterm/releases/tag/20230326-111934-3666303c), today) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.0](https://github.com/linkml/linkml/releases/tag/v1.5.0), 2 days ago) - Linked Open Data Modeling Language
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.8.10](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.8.10), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.259](https://github.com/charliermarsh/ruff/releases/tag/v0.0.259), 3 days ago) - An extremely fast Python linter, written in Rust.
 - [dalibo/pev2](https://github.com/dalibo/pev2) ([v1.8.0](https://github.com/dalibo/pev2/releases/tag/v1.8.0), 5 days ago) - Postgres Explain Visualizer 2
-- [wez/wezterm](https://github.com/wez/wezterm) ([20230320-124340-559cb7b0](https://github.com/wez/wezterm/releases/tag/20230320-124340-559cb7b0), 6 days ago) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 
 
 #### ✨ Stats
