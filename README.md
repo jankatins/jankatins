@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Textualize/rich](https://github.com/Textualize/rich) ([v13.3.3](https://github.com/Textualize/rich/releases/tag/v13.3.3), today) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [wez/wezterm](https://github.com/wez/wezterm) ([20230326-111934-3666303c](https://github.com/wez/wezterm/releases/tag/20230326-111934-3666303c), 1 day ago) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.0](https://github.com/linkml/linkml/releases/tag/v1.5.0), 3 days ago) - Linked Open Data Modeling Language
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.8.10](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.8.10), 3 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.259](https://github.com/charliermarsh/ruff/releases/tag/v0.0.259), 4 days ago) - An extremely fast Python linter, written in Rust.
-- [dalibo/pev2](https://github.com/dalibo/pev2) ([v1.8.0](https://github.com/dalibo/pev2/releases/tag/v1.8.0), 6 days ago) - Postgres Explain Visualizer 2
 
 
 #### ✨ Stats
