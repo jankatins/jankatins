@@ -9,6 +9,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
+- [zdharma-continuum/zinit-annex-bin-gem-node](https://github.com/zdharma-continuum/zinit-annex-bin-gem-node) - Unmaintained mirror of zinit-zsh/z-a-bin-gem-node (today)
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (2 days ago)
 - [mara/mara-metabase](https://github.com/mara/mara-metabase) - Configuration and schema sync for Metabase from Python (5 days ago)
 - [dalibo/pev2](https://github.com/dalibo/pev2) - Postgres Explain Visualizer 2 (1 week ago)
@@ -18,7 +19,6 @@
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (1 month ago)
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (2 months ago)
 - [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust (2 months ago)
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust. (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
