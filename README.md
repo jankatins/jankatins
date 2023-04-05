@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.261](https://github.com/charliermarsh/ruff/releases/tag/v0.0.261), today) - An extremely fast Python linter, written in Rust.
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.10.0](https://github.com/zdharma-continuum/zinit/releases/tag/v3.10.0), 3 days ago) - 🌻 Flexible and fast ZSH plugin manager
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.260](https://github.com/charliermarsh/ruff/releases/tag/v0.0.260), 1 week ago) - An extremely fast Python linter, written in Rust.
 - [Textualize/rich](https://github.com/Textualize/rich) ([v13.3.3](https://github.com/Textualize/rich/releases/tag/v13.3.3), 1 week ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [wez/wezterm](https://github.com/wez/wezterm) ([20230326-111934-3666303c](https://github.com/wez/wezterm/releases/tag/20230326-111934-3666303c), 1 week ago) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.0](https://github.com/linkml/linkml/releases/tag/v1.5.0), 1 week ago) - Linked Open Data Modeling Language
