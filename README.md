@@ -9,7 +9,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (6 days ago)
+- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (1 week ago)
 - [zdharma-continuum/zinit-annex-bin-gem-node](https://github.com/zdharma-continuum/zinit-annex-bin-gem-node) - Unmaintained mirror of zinit-zsh/z-a-bin-gem-node (1 week ago)
 - [mara/mara-metabase](https://github.com/mara/mara-metabase) - Configuration and schema sync for Metabase from Python (2 weeks ago)
 - [dalibo/pev2](https://github.com/dalibo/pev2) - Postgres Explain Visualizer 2 (2 weeks ago)
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [tummychow/git-absorb](https://github.com/tummychow/git-absorb) ([0.6.10](https://github.com/tummychow/git-absorb/releases/tag/0.6.10), 1 day ago) - git commit --fixup, but automatic
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.9.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.9.1), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_10_3](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_10_3), 2 days ago) - A database migrations tool for SQLAlchemy.
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.261](https://github.com/charliermarsh/ruff/releases/tag/v0.0.261), 2 days ago) - An extremely fast Python linter, written in Rust.
-- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.10.0](https://github.com/zdharma-continuum/zinit/releases/tag/v3.10.0), 5 days ago) - 🌻 Flexible and fast ZSH plugin manager
+- [tummychow/git-absorb](https://github.com/tummychow/git-absorb) ([0.6.10](https://github.com/tummychow/git-absorb/releases/tag/0.6.10), 2 days ago) - git commit --fixup, but automatic
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.9.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.9.1), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_10_3](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_10_3), 3 days ago) - A database migrations tool for SQLAlchemy.
+- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.261](https://github.com/charliermarsh/ruff/releases/tag/v0.0.261), 3 days ago) - An extremely fast Python linter, written in Rust.
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.10.0](https://github.com/zdharma-continuum/zinit/releases/tag/v3.10.0), 6 days ago) - 🌻 Flexible and fast ZSH plugin manager
 
 
 #### ✨ Stats
