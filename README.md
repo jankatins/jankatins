@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Textualize/rich](https://github.com/Textualize/rich) ([v13.3.4](https://github.com/Textualize/rich/releases/tag/v13.3.4), today) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [starship/starship](https://github.com/starship/starship) ([v1.14.1](https://github.com/starship/starship/releases/tag/v1.14.1), 1 day ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [wez/wezterm](https://github.com/wez/wezterm) ([20230408-112425-69ae8472](https://github.com/wez/wezterm/releases/tag/20230408-112425-69ae8472), 4 days ago) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) ([0.6.10](https://github.com/tummychow/git-absorb/releases/tag/0.6.10), 6 days ago) - git commit --fixup, but automatic
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.9.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.9.1), 6 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_10_3](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_10_3), 1 week ago) - A database migrations tool for SQLAlchemy.
 
 
 #### ✨ Stats
