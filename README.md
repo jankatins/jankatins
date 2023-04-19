@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.262](https://github.com/charliermarsh/ruff/releases/tag/v0.0.262), today) - An extremely fast Python linter, written in Rust.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.9.2](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.9.2), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [starship/starship](https://github.com/starship/starship) ([v1.14.2](https://github.com/starship/starship/releases/tag/v1.14.2), 1 week ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [Textualize/rich](https://github.com/Textualize/rich) ([v13.3.4](https://github.com/Textualize/rich/releases/tag/v13.3.4), 1 week ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [wez/wezterm](https://github.com/wez/wezterm) ([20230408-112425-69ae8472](https://github.com/wez/wezterm/releases/tag/20230408-112425-69ae8472), 1 week ago) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-- [tummychow/git-absorb](https://github.com/tummychow/git-absorb) ([0.6.10](https://github.com/tummychow/git-absorb/releases/tag/0.6.10), 1 week ago) - git commit --fixup, but automatic
 
 
 #### ✨ Stats
