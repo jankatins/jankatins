@@ -15,30 +15,20 @@
 ### Each card usage
 ---
 
-![](./0-profile-details.svg)
-
-```
-![](https://raw.githubusercontent.com/jankatins/jankatins/main/profile-summary-card-output/yeblu/0-profile-details.svg)
-```
-
-    
-
----
-
-![](./1-repos-per-language.svg)
-
-```
-![](https://raw.githubusercontent.com/jankatins/jankatins/main/profile-summary-card-output/yeblu/1-repos-per-language.svg)
-```
-
-    
-
----
-
 ![](./2-most-commit-language.svg)
 
 ```
 ![](https://raw.githubusercontent.com/jankatins/jankatins/main/profile-summary-card-output/yeblu/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/jankatins/jankatins/main/profile-summary-card-output/yeblu/4-productive-time.svg)
 ```
 
     
