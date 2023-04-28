@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.9.3](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.9.3), today) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [Textualize/rich](https://github.com/Textualize/rich) ([v13.3.5](https://github.com/Textualize/rich/releases/tag/v13.3.5), 1 day ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.1](https://github.com/linkml/linkml/releases/tag/v1.5.1), 3 days ago) - Linked Open Data Modeling Language
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.263](https://github.com/charliermarsh/ruff/releases/tag/v0.0.263), 3 days ago) - An extremely fast Python linter, written in Rust.
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_10_4](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_10_4), 4 days ago) - A database migrations tool for SQLAlchemy.
-- [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) ([latest](https://github.com/JessicaTegner/pypandoc/releases/tag/latest), 4 days ago) - Thin wrapper for &#34;pandoc&#34; (MIT)
 
 
 #### ✨ Stats
