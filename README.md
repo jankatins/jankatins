@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.264](https://github.com/charliermarsh/ruff/releases/tag/v0.0.264), today) - An extremely fast Python linter, written in Rust.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) ([v1.2.0](https://github.com/orhun/git-cliff/releases/tag/v1.2.0), 4 days ago) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.9.3](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.9.3), 4 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [Textualize/rich](https://github.com/Textualize/rich) ([v13.3.5](https://github.com/Textualize/rich/releases/tag/v13.3.5), 5 days ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.1](https://github.com/linkml/linkml/releases/tag/v1.5.1), 1 week ago) - Linked Open Data Modeling Language
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.263](https://github.com/charliermarsh/ruff/releases/tag/v0.0.263), 1 week ago) - An extremely fast Python linter, written in Rust.
 
 
 #### ✨ Stats
