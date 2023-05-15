@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_11_0](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_11_0), today) - A database migrations tool for SQLAlchemy.
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.267](https://github.com/charliermarsh/ruff/releases/tag/v0.0.267), 3 days ago) - An extremely fast Python linter, written in Rust.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.9.4](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.9.4), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.2](https://github.com/linkml/linkml/releases/tag/v1.5.2), 1 week ago) - Linked Open Data Modeling Language
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.11.0](https://github.com/zdharma-continuum/zinit/releases/tag/v3.11.0), 1 week ago) - 🌻 Flexible and fast ZSH plugin manager
-- [orhun/git-cliff](https://github.com/orhun/git-cliff) ([v1.2.0](https://github.com/orhun/git-cliff/releases/tag/v1.2.0), 2 weeks ago) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
 
 
 #### ✨ Stats
