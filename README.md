@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.268](https://github.com/charliermarsh/ruff/releases/tag/v0.0.268), today) - An extremely fast Python linter, written in Rust.
+- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.269](https://github.com/charliermarsh/ruff/releases/tag/v0.0.269), today) - An extremely fast Python linter, written in Rust.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.0](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.0), today) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_11_1](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_11_1), 1 day ago) - A database migrations tool for SQLAlchemy.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.47.0](https://github.com/Wilfred/difftastic/releases/tag/0.47.0), 1 day ago) - a structural diff that understands syntax 🟥🟩
