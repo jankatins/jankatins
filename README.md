@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.3](https://github.com/linkml/linkml/releases/tag/v1.5.3), today) - Linked Open Data Modeling Language
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.269](https://github.com/charliermarsh/ruff/releases/tag/v0.0.269), 5 days ago) - An extremely fast Python linter, written in Rust.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.0](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.0), 5 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_11_1](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_11_1), 6 days ago) - A database migrations tool for SQLAlchemy.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.47.0](https://github.com/Wilfred/difftastic/releases/tag/0.47.0), 6 days ago) - a structural diff that understands syntax 🟥🟩
-- [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.2](https://github.com/linkml/linkml/releases/tag/v1.5.2), 2 weeks ago) - Linked Open Data Modeling Language
 
 
 #### ✨ Stats
