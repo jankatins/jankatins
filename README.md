@@ -16,14 +16,14 @@
 - [mara/mara-metabase](https://github.com/mara/mara-metabase) - Configuration and schema sync for Metabase from Python (2 months ago)
 - [dalibo/pev2](https://github.com/dalibo/pev2) - Postgres Explain Visualizer 2 (2 months ago)
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) - A database migrations tool for SQLAlchemy. (2 months ago)
-- [zdharma-continuum/zinit-annex-patch-dl](https://github.com/zdharma-continuum/zinit-annex-patch-dl) - Unmaintained mirror of zinit-zsh/z-a-patch-dl (2 months ago)
+- [zdharma-continuum/zinit-annex-patch-dl](https://github.com/zdharma-continuum/zinit-annex-patch-dl) - Unmaintained mirror of zinit-zsh/z-a-patch-dl (3 months ago)
 - [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language (3 months ago)
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.5](https://github.com/linkml/linkml/releases/tag/v1.5.5), today) - Linked Open Data Modeling Language
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.270](https://github.com/charliermarsh/ruff/releases/tag/v0.0.270), 3 days ago) - An extremely fast Python linter, written in Rust.
+- [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.5](https://github.com/linkml/linkml/releases/tag/v1.5.5), 1 day ago) - Linked Open Data Modeling Language
+- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.270](https://github.com/charliermarsh/ruff/releases/tag/v0.0.270), 4 days ago) - An extremely fast Python linter, written in Rust.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.0](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.0), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_11_1](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_11_1), 1 week ago) - A database migrations tool for SQLAlchemy.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.47.0](https://github.com/Wilfred/difftastic/releases/tag/0.47.0), 1 week ago) - a structural diff that understands syntax 🟥🟩
