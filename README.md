@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.5.0](https://github.com/mitsuhiko/rye/releases/tag/0.5.0), today) - An Experimental Package Management Solution for Python
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.1), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.4.0](https://github.com/mitsuhiko/rye/releases/tag/0.4.0), 2 days ago) - An Experimental Package Management Solution for Python
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.5](https://github.com/linkml/linkml/releases/tag/v1.5.5), 4 days ago) - Linked Open Data Modeling Language
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.270](https://github.com/charliermarsh/ruff/releases/tag/v0.0.270), 1 week ago) - An extremely fast Python linter, written in Rust.
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_11_1](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_11_1), 2 weeks ago) - A database migrations tool for SQLAlchemy.
