@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Textualize/rich](https://github.com/Textualize/rich) ([v13.4.0](https://github.com/Textualize/rich/releases/tag/v13.4.0), today) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [Textualize/rich](https://github.com/Textualize/rich) ([v13.4.1](https://github.com/Textualize/rich/releases/tag/v13.4.1), today) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.5.0](https://github.com/mitsuhiko/rye/releases/tag/0.5.0), today) - An Experimental Package Management Solution for Python
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.1), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.5](https://github.com/linkml/linkml/releases/tag/v1.5.5), 4 days ago) - Linked Open Data Modeling Language
