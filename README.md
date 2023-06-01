@@ -9,9 +9,9 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python (3 days ago)
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python (4 days ago)
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file). (1 week ago)
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (1 week ago)
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (2 weeks ago)
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (2 months ago)
 - [zdharma-continuum/zinit-annex-bin-gem-node](https://github.com/zdharma-continuum/zinit-annex-bin-gem-node) - Unmaintained mirror of zinit-zsh/z-a-bin-gem-node (2 months ago)
 - [mara/mara-metabase](https://github.com/mara/mara-metabase) - Configuration and schema sync for Metabase from Python (2 months ago)
@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Textualize/rich](https://github.com/Textualize/rich) ([v13.4.1](https://github.com/Textualize/rich/releases/tag/v13.4.1), today) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.5.0](https://github.com/mitsuhiko/rye/releases/tag/0.5.0), today) - An Experimental Package Management Solution for Python
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.1), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.5](https://github.com/linkml/linkml/releases/tag/v1.5.5), 4 days ago) - Linked Open Data Modeling Language
+- [Textualize/rich](https://github.com/Textualize/rich) ([v13.4.1](https://github.com/Textualize/rich/releases/tag/v13.4.1), 1 day ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.5.0](https://github.com/mitsuhiko/rye/releases/tag/0.5.0), 1 day ago) - An Experimental Package Management Solution for Python
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.1), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.5](https://github.com/linkml/linkml/releases/tag/v1.5.5), 5 days ago) - Linked Open Data Modeling Language
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.270](https://github.com/charliermarsh/ruff/releases/tag/v0.0.270), 1 week ago) - An extremely fast Python linter, written in Rust.
 
 
