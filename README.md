@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.6.0](https://github.com/mitsuhiko/rye/releases/tag/0.6.0), 1 day ago) - An Experimental Package Management Solution for Python
-- [Textualize/rich](https://github.com/Textualize/rich) ([v13.4.1](https://github.com/Textualize/rich/releases/tag/v13.4.1), 4 days ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.1), 5 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.6.0](https://github.com/mitsuhiko/rye/releases/tag/0.6.0), 2 days ago) - An Experimental Package Management Solution for Python
+- [Textualize/rich](https://github.com/Textualize/rich) ([v13.4.1](https://github.com/Textualize/rich/releases/tag/v13.4.1), 5 days ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.1), 6 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.5](https://github.com/linkml/linkml/releases/tag/v1.5.5), 1 week ago) - Linked Open Data Modeling Language
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.270](https://github.com/charliermarsh/ruff/releases/tag/v0.0.270), 1 week ago) - An extremely fast Python linter, written in Rust.
 
