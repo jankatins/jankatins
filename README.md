@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.271](https://github.com/charliermarsh/ruff/releases/tag/v0.0.271), today) - An extremely fast Python linter, written in Rust.
 - [starship/starship](https://github.com/starship/starship) ([v1.15.0](https://github.com/starship/starship/releases/tag/v1.15.0), today) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.1](https://github.com/cantino/mcfly/releases/tag/v0.8.1), 3 days ago) - Fly through your shell history. Great Scott!
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.6.0](https://github.com/mitsuhiko/rye/releases/tag/0.6.0), 3 days ago) - An Experimental Package Management Solution for Python
 - [Textualize/rich](https://github.com/Textualize/rich) ([v13.4.1](https://github.com/Textualize/rich/releases/tag/v13.4.1), 6 days ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.1), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 
 
 #### ✨ Stats
