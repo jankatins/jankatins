@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.271](https://github.com/charliermarsh/ruff/releases/tag/v0.0.271), 2 days ago) - An extremely fast Python linter, written in Rust.
+- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) ([v0.0.272](https://github.com/charliermarsh/ruff/releases/tag/v0.0.272), today) - An extremely fast Python linter, written in Rust.
 - [starship/starship](https://github.com/starship/starship) ([v1.15.0](https://github.com/starship/starship/releases/tag/v1.15.0), 2 days ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.1](https://github.com/cantino/mcfly/releases/tag/v0.8.1), 5 days ago) - Fly through your shell history. Great Scott!
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.6.0](https://github.com/mitsuhiko/rye/releases/tag/0.6.0), 5 days ago) - An Experimental Package Management Solution for Python
