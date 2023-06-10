@@ -9,8 +9,8 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (1 day ago)
-- [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (5 days ago)
+- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (2 days ago)
+- [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (6 days ago)
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python (1 week ago)
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file). (3 weeks ago)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (3 weeks ago)
@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.272](https://github.com/astral-sh/ruff/releases/tag/v0.0.272), 1 day ago) - An extremely fast Python linter, written in Rust.
-- [starship/starship](https://github.com/starship/starship) ([v1.15.0](https://github.com/starship/starship/releases/tag/v1.15.0), 3 days ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.1](https://github.com/cantino/mcfly/releases/tag/v0.8.1), 6 days ago) - Fly through your shell history. Great Scott!
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.6.0](https://github.com/mitsuhiko/rye/releases/tag/0.6.0), 6 days ago) - An Experimental Package Management Solution for Python
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.272](https://github.com/astral-sh/ruff/releases/tag/v0.0.272), 2 days ago) - An extremely fast Python linter, written in Rust.
+- [starship/starship](https://github.com/starship/starship) ([v1.15.0](https://github.com/starship/starship/releases/tag/v1.15.0), 4 days ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.1](https://github.com/cantino/mcfly/releases/tag/v0.8.1), 1 week ago) - Fly through your shell history. Great Scott!
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.6.0](https://github.com/mitsuhiko/rye/releases/tag/0.6.0), 1 week ago) - An Experimental Package Management Solution for Python
 - [Textualize/rich](https://github.com/Textualize/rich) ([v13.4.1](https://github.com/Textualize/rich/releases/tag/v13.4.1), 1 week ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 
 
