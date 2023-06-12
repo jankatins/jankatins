@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.7.0](https://github.com/mitsuhiko/rye/releases/tag/0.7.0), today) - An Experimental Package Management Solution for Python
 - [Textualize/rich](https://github.com/Textualize/rich) ([v13.4.2](https://github.com/Textualize/rich/releases/tag/v13.4.2), today) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.272](https://github.com/astral-sh/ruff/releases/tag/v0.0.272), 4 days ago) - An extremely fast Python linter, written in Rust.
 - [starship/starship](https://github.com/starship/starship) ([v1.15.0](https://github.com/starship/starship/releases/tag/v1.15.0), 6 days ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.1](https://github.com/cantino/mcfly/releases/tag/v0.8.1), 1 week ago) - Fly through your shell history. Great Scott!
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.6.0](https://github.com/mitsuhiko/rye/releases/tag/0.6.0), 1 week ago) - An Experimental Package Management Solution for Python
 
 
 #### ✨ Stats
