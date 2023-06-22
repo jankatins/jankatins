@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.275](https://github.com/astral-sh/ruff/releases/tag/v0.0.275), today) - An extremely fast Python linter, written in Rust.
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.9.0](https://github.com/mitsuhiko/rye/releases/tag/0.9.0), 1 day ago) - An Experimental Package Management Solution for Python
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.274](https://github.com/astral-sh/ruff/releases/tag/v0.0.274), 1 day ago) - An extremely fast Python linter, written in Rust.
 - [apache/superset](https://github.com/apache/superset) ([2.1.1rc1](https://github.com/apache/superset/releases/tag/2.1.1rc1), 6 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [Textualize/rich](https://github.com/Textualize/rich) ([v13.4.2](https://github.com/Textualize/rich/releases/tag/v13.4.2), 1 week ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [starship/starship](https://github.com/starship/starship) ([v1.15.0](https://github.com/starship/starship/releases/tag/v1.15.0), 2 weeks ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
