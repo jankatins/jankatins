@@ -9,7 +9,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (6 days ago)
+- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (1 week ago)
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (3 weeks ago)
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python (1 month ago)
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file). (1 month ago)
@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.3](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.3), today) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.6](https://github.com/linkml/linkml/releases/tag/v1.5.6), 3 days ago) - Linked Open Data Modeling Language
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.3](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.3), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.6](https://github.com/linkml/linkml/releases/tag/v1.5.6), 4 days ago) - Linked Open Data Modeling Language
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.275](https://github.com/astral-sh/ruff/releases/tag/v0.0.275), 1 week ago) - An extremely fast Python linter, written in Rust.
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.9.0](https://github.com/mitsuhiko/rye/releases/tag/0.9.0), 1 week ago) - An Experimental Package Management Solution for Python
 - [Textualize/rich](https://github.com/Textualize/rich) ([v13.4.2](https://github.com/Textualize/rich/releases/tag/v13.4.2), 2 weeks ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
