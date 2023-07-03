@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.3](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.3), 4 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [apache/superset](https://github.com/apache/superset) ([3.0.0rc1](https://github.com/apache/superset/releases/tag/3.0.0rc1), today) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.6](https://github.com/linkml/linkml/releases/tag/v1.5.6), 1 week ago) - Linked Open Data Modeling Language
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.275](https://github.com/astral-sh/ruff/releases/tag/v0.0.275), 1 week ago) - An extremely fast Python linter, written in Rust.
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.9.0](https://github.com/mitsuhiko/rye/releases/tag/0.9.0), 1 week ago) - An Experimental Package Management Solution for Python
