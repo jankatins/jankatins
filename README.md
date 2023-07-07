@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.10.0](https://github.com/mitsuhiko/rye/releases/tag/0.10.0), today) - An Experimental Package Management Solution for Python
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.4](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.4), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.277](https://github.com/astral-sh/ruff/releases/tag/v0.0.277), 1 day ago) - An extremely fast Python linter, written in Rust.
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.6](https://github.com/linkml/linkml/releases/tag/v1.5.6), 1 week ago) - Linked Open Data Modeling Language
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.9.0](https://github.com/mitsuhiko/rye/releases/tag/0.9.0), 2 weeks ago) - An Experimental Package Management Solution for Python
 - [Textualize/rich](https://github.com/Textualize/rich) ([v13.4.2](https://github.com/Textualize/rich/releases/tag/v13.4.2), 3 weeks ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 
 
