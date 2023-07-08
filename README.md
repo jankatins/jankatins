@@ -9,6 +9,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
+- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (today)
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (3 days ago)
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (1 month ago)
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python (1 month ago)
@@ -18,7 +19,6 @@
 - [mara/mara-metabase](https://github.com/mara/mara-metabase) - Configuration and schema sync for Metabase from Python (3 months ago)
 - [dalibo/pev2](https://github.com/dalibo/pev2) - Postgres Explain Visualizer 2 (3 months ago)
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) - A database migrations tool for SQLAlchemy. (4 months ago)
-- [zdharma-continuum/zinit-annex-patch-dl](https://github.com/zdharma-continuum/zinit-annex-patch-dl) - Unmaintained mirror of zinit-zsh/z-a-patch-dl (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
