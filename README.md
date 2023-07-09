@@ -9,8 +9,8 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (today)
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (3 days ago)
+- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (1 day ago)
+- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (4 days ago)
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (1 month ago)
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python (1 month ago)
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file). (1 month ago)
@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.10.0](https://github.com/mitsuhiko/rye/releases/tag/0.10.0), 1 day ago) - An Experimental Package Management Solution for Python
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.277](https://github.com/astral-sh/ruff/releases/tag/v0.0.277), 2 days ago) - An extremely fast Python linter, written in Rust.
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.10.0](https://github.com/mitsuhiko/rye/releases/tag/0.10.0), 2 days ago) - An Experimental Package Management Solution for Python
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.277](https://github.com/astral-sh/ruff/releases/tag/v0.0.277), 3 days ago) - An extremely fast Python linter, written in Rust.
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.6](https://github.com/linkml/linkml/releases/tag/v1.5.6), 1 week ago) - Linked Open Data Modeling Language
 - [apache/superset](https://github.com/apache/superset) ([2.1.1rc1](https://github.com/apache/superset/releases/tag/2.1.1rc1), 3 weeks ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [Textualize/rich](https://github.com/Textualize/rich) ([v13.4.2](https://github.com/Textualize/rich/releases/tag/v13.4.2), 3 weeks ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
