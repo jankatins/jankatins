@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.278](https://github.com/astral-sh/ruff/releases/tag/v0.0.278), today) - An extremely fast Python linter, written in Rust.
 - [wez/wezterm](https://github.com/wez/wezterm) ([20230712-072601-f4abf8fd](https://github.com/wez/wezterm/releases/tag/20230712-072601-f4abf8fd), today) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.10.0](https://github.com/mitsuhiko/rye/releases/tag/0.10.0), 5 days ago) - An Experimental Package Management Solution for Python
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.277](https://github.com/astral-sh/ruff/releases/tag/v0.0.277), 6 days ago) - An extremely fast Python linter, written in Rust.
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.6](https://github.com/linkml/linkml/releases/tag/v1.5.6), 2 weeks ago) - Linked Open Data Modeling Language
 - [apache/superset](https://github.com/apache/superset) ([2.1.1rc1](https://github.com/apache/superset/releases/tag/2.1.1rc1), 3 weeks ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 
