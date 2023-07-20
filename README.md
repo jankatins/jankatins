@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.5](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.5), today) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.11.0](https://github.com/mitsuhiko/rye/releases/tag/0.11.0), 1 day ago) - An Experimental Package Management Solution for Python
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.5](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.5), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.11.0](https://github.com/mitsuhiko/rye/releases/tag/0.11.0), 2 days ago) - An Experimental Package Management Solution for Python
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.48.0](https://github.com/Wilfred/difftastic/releases/tag/0.48.0), 1 week ago) - a structural diff that understands syntax 🟥🟩
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.278](https://github.com/astral-sh/ruff/releases/tag/v0.0.278), 1 week ago) - An extremely fast Python linter, written in Rust.
 - [wez/wezterm](https://github.com/wez/wezterm) ([20230712-072601-f4abf8fd](https://github.com/wez/wezterm/releases/tag/20230712-072601-f4abf8fd), 1 week ago) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
