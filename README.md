@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.49.0](https://github.com/Wilfred/difftastic/releases/tag/0.49.0), today) - a structural diff that understands syntax 🟥🟩
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.34.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.34.1), 1 day ago) - OpenTelemetry Helm Charts
 - [apache/superset](https://github.com/apache/superset) ([2.1.1rc2](https://github.com/apache/superset/releases/tag/2.1.1rc2), 3 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.280](https://github.com/astral-sh/ruff/releases/tag/v0.0.280), 4 days ago) - An extremely fast Python linter, written in Rust.
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.11.0](https://github.com/mitsuhiko/rye/releases/tag/0.11.0), 1 week ago) - An Experimental Package Management Solution for Python
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.48.0](https://github.com/Wilfred/difftastic/releases/tag/0.48.0), 2 weeks ago) - a structural diff that understands syntax 🟥🟩
 
 
 #### ✨ Stats
