@@ -9,9 +9,9 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (6 days ago)
+- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (1 week ago)
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (1 week ago)
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (2 weeks ago)
+- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (3 weeks ago)
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (1 month ago)
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python (2 months ago)
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file). (2 months ago)
@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([3.0.0rc2](https://github.com/apache/superset/releases/tag/3.0.0rc2), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.49.0](https://github.com/Wilfred/difftastic/releases/tag/0.49.0), 1 day ago) - a structural diff that understands syntax 🟥🟩
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.34.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.34.1), 2 days ago) - OpenTelemetry Helm Charts
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.280](https://github.com/astral-sh/ruff/releases/tag/v0.0.280), 5 days ago) - An extremely fast Python linter, written in Rust.
+- [apache/superset](https://github.com/apache/superset) ([3.0.0rc2](https://github.com/apache/superset/releases/tag/3.0.0rc2), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.49.0](https://github.com/Wilfred/difftastic/releases/tag/0.49.0), 2 days ago) - a structural diff that understands syntax 🟥🟩
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.34.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.34.1), 3 days ago) - OpenTelemetry Helm Charts
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.280](https://github.com/astral-sh/ruff/releases/tag/v0.0.280), 6 days ago) - An extremely fast Python linter, written in Rust.
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.11.0](https://github.com/mitsuhiko/rye/releases/tag/0.11.0), 1 week ago) - An Experimental Package Management Solution for Python
 
 
