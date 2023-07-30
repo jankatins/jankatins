@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Textualize/rich](https://github.com/Textualize/rich) ([v13.5.0](https://github.com/Textualize/rich/releases/tag/v13.5.0), today) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [apache/superset](https://github.com/apache/superset) ([3.0.0rc2](https://github.com/apache/superset/releases/tag/3.0.0rc2), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.49.0](https://github.com/Wilfred/difftastic/releases/tag/0.49.0), 2 days ago) - a structural diff that understands syntax 🟥🟩
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.34.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.34.1), 3 days ago) - OpenTelemetry Helm Charts
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.280](https://github.com/astral-sh/ruff/releases/tag/v0.0.280), 6 days ago) - An extremely fast Python linter, written in Rust.
+- [Textualize/rich](https://github.com/Textualize/rich) ([v13.5.0](https://github.com/Textualize/rich/releases/tag/v13.5.0), 1 day ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [apache/superset](https://github.com/apache/superset) ([3.0.0rc2](https://github.com/apache/superset/releases/tag/3.0.0rc2), 3 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.49.0](https://github.com/Wilfred/difftastic/releases/tag/0.49.0), 3 days ago) - a structural diff that understands syntax 🟥🟩
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.34.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.34.1), 4 days ago) - OpenTelemetry Helm Charts
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.280](https://github.com/astral-sh/ruff/releases/tag/v0.0.280), 1 week ago) - An extremely fast Python linter, written in Rust.
 
 
 #### ✨ Stats
