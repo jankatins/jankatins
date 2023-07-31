@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.62.4](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.62.4), today) - OpenTelemetry Helm Charts
 - [Textualize/rich](https://github.com/Textualize/rich) ([v13.5.1](https://github.com/Textualize/rich/releases/tag/v13.5.1), today) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [starship/starship](https://github.com/starship/starship) ([v1.16.0](https://github.com/starship/starship/releases/tag/v1.16.0), 1 day ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [apache/superset](https://github.com/apache/superset) ([3.0.0rc2](https://github.com/apache/superset/releases/tag/3.0.0rc2), 4 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.49.0](https://github.com/Wilfred/difftastic/releases/tag/0.49.0), 4 days ago) - a structural diff that understands syntax 🟥🟩
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.34.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.34.1), 5 days ago) - OpenTelemetry Helm Charts
 
 
 #### ✨ Stats
