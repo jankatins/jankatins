@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Textualize/rich](https://github.com/Textualize/rich) ([v13.5.2](https://github.com/Textualize/rich/releases/tag/v13.5.2), today) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.282](https://github.com/astral-sh/ruff/releases/tag/v0.0.282), today) - An extremely fast Python linter, written in Rust.
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.64.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.64.0), 1 day ago) - OpenTelemetry Helm Charts
-- [Textualize/rich](https://github.com/Textualize/rich) ([v13.5.1](https://github.com/Textualize/rich/releases/tag/v13.5.1), 1 day ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [starship/starship](https://github.com/starship/starship) ([v1.16.0](https://github.com/starship/starship/releases/tag/v1.16.0), 2 days ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [apache/superset](https://github.com/apache/superset) ([3.0.0rc2](https://github.com/apache/superset/releases/tag/3.0.0rc2), 5 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 
