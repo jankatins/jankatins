@@ -9,7 +9,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (2 days ago)
+- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (3 days ago)
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (2 weeks ago)
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (3 weeks ago)
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (2 months ago)
@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.65.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.65.0), 2 days ago) - OpenTelemetry Helm Charts
-- [Textualize/rich](https://github.com/Textualize/rich) ([v13.5.2](https://github.com/Textualize/rich/releases/tag/v13.5.2), 2 days ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.282](https://github.com/astral-sh/ruff/releases/tag/v0.0.282), 2 days ago) - An extremely fast Python linter, written in Rust.
-- [starship/starship](https://github.com/starship/starship) ([v1.16.0](https://github.com/starship/starship/releases/tag/v1.16.0), 4 days ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.65.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.65.0), 3 days ago) - OpenTelemetry Helm Charts
+- [Textualize/rich](https://github.com/Textualize/rich) ([v13.5.2](https://github.com/Textualize/rich/releases/tag/v13.5.2), 3 days ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.282](https://github.com/astral-sh/ruff/releases/tag/v0.0.282), 3 days ago) - An extremely fast Python linter, written in Rust.
+- [starship/starship](https://github.com/starship/starship) ([v1.16.0](https://github.com/starship/starship/releases/tag/v1.16.0), 5 days ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [apache/superset](https://github.com/apache/superset) ([3.0.0rc2](https://github.com/apache/superset/releases/tag/3.0.0rc2), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 
 
