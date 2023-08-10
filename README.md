@@ -9,8 +9,8 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (today)
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (2 weeks ago)
+- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (1 day ago)
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (3 weeks ago)
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (1 month ago)
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (2 months ago)
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python (2 months ago)
@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.284](https://github.com/astral-sh/ruff/releases/tag/v0.0.284), today) - An extremely fast Python linter, written in Rust.
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.65.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.65.1), today) - OpenTelemetry Helm Charts
-- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_11_2](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_11_2), 5 days ago) - A database migrations tool for SQLAlchemy.
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.284](https://github.com/astral-sh/ruff/releases/tag/v0.0.284), 1 day ago) - An extremely fast Python linter, written in Rust.
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.65.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.65.1), 1 day ago) - OpenTelemetry Helm Charts
+- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_11_2](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_11_2), 6 days ago) - A database migrations tool for SQLAlchemy.
 - [Textualize/rich](https://github.com/Textualize/rich) ([v13.5.2](https://github.com/Textualize/rich/releases/tag/v13.5.2), 1 week ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [starship/starship](https://github.com/starship/starship) ([v1.16.0](https://github.com/starship/starship/releases/tag/v1.16.0), 1 week ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
