@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.23.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.23.0), 1 day ago) - OpenTelemetry Helm Charts
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.66.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.66.0), today) - OpenTelemetry Helm Charts
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.284](https://github.com/astral-sh/ruff/releases/tag/v0.0.284), 6 days ago) - An extremely fast Python linter, written in Rust.
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_11_2](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_11_2), 1 week ago) - A database migrations tool for SQLAlchemy.
 - [Textualize/rich](https://github.com/Textualize/rich) ([v13.5.2](https://github.com/Textualize/rich/releases/tag/v13.5.2), 2 weeks ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
