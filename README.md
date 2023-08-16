@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.7](https://github.com/linkml/linkml/releases/tag/v1.5.7), today) - Linked Open Data Modeling Language
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_11_3](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_11_3), today) - A database migrations tool for SQLAlchemy.
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.35.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.35.1), today) - OpenTelemetry Helm Charts
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.50.0](https://github.com/Wilfred/difftastic/releases/tag/0.50.0), today) - a structural diff that understands syntax 🟥🟩
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.284](https://github.com/astral-sh/ruff/releases/tag/v0.0.284), 1 week ago) - An extremely fast Python linter, written in Rust.
-- [Textualize/rich](https://github.com/Textualize/rich) ([v13.5.2](https://github.com/Textualize/rich/releases/tag/v13.5.2), 2 weeks ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 
 
 #### ✨ Stats
