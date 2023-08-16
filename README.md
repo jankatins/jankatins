@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.50.0](https://github.com/Wilfred/difftastic/releases/tag/0.50.0), today) - a structural diff that understands syntax 🟥🟩
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.66.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.66.0), 1 day ago) - OpenTelemetry Helm Charts
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.284](https://github.com/astral-sh/ruff/releases/tag/v0.0.284), 1 week ago) - An extremely fast Python linter, written in Rust.
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_11_2](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_11_2), 1 week ago) - A database migrations tool for SQLAlchemy.
 - [Textualize/rich](https://github.com/Textualize/rich) ([v13.5.2](https://github.com/Textualize/rich/releases/tag/v13.5.2), 2 weeks ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [starship/starship](https://github.com/starship/starship) ([v1.16.0](https://github.com/starship/starship/releases/tag/v1.16.0), 2 weeks ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
 
 #### ✨ Stats
