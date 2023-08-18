@@ -18,15 +18,15 @@
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (3 months ago)
 - [zdharma-continuum/zinit-annex-bin-gem-node](https://github.com/zdharma-continuum/zinit-annex-bin-gem-node) - Unmaintained mirror of zinit-zsh/z-a-bin-gem-node (4 months ago)
 - [mara/mara-metabase](https://github.com/mara/mara-metabase) - Configuration and schema sync for Metabase from Python (4 months ago)
-- [dalibo/pev2](https://github.com/dalibo/pev2) - Postgres Explain Visualizer 2 (4 months ago)
+- [dalibo/pev2](https://github.com/dalibo/pev2) - Postgres Explain Visualizer 2 (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.285](https://github.com/astral-sh/ruff/releases/tag/v0.0.285), today) - An extremely fast Python linter, written in Rust.
-- [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.7](https://github.com/linkml/linkml/releases/tag/v1.5.7), 1 day ago) - Linked Open Data Modeling Language
-- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_11_3](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_11_3), 1 day ago) - A database migrations tool for SQLAlchemy.
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.35.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.35.1), 1 day ago) - OpenTelemetry Helm Charts
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.50.0](https://github.com/Wilfred/difftastic/releases/tag/0.50.0), 1 day ago) - a structural diff that understands syntax 🟥🟩
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.285](https://github.com/astral-sh/ruff/releases/tag/v0.0.285), 1 day ago) - An extremely fast Python linter, written in Rust.
+- [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.7](https://github.com/linkml/linkml/releases/tag/v1.5.7), 2 days ago) - Linked Open Data Modeling Language
+- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_11_3](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_11_3), 2 days ago) - A database migrations tool for SQLAlchemy.
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.35.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.35.1), 2 days ago) - OpenTelemetry Helm Charts
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.50.0](https://github.com/Wilfred/difftastic/releases/tag/0.50.0), 2 days ago) - a structural diff that understands syntax 🟥🟩
 
 
 #### ✨ Stats
