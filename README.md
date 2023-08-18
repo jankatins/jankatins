@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.35.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.35.2), today) - OpenTelemetry Helm Charts
 - [apache/superset](https://github.com/apache/superset) ([2.1.1rc3](https://github.com/apache/superset/releases/tag/2.1.1rc3), today) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.285](https://github.com/astral-sh/ruff/releases/tag/v0.0.285), 1 day ago) - An extremely fast Python linter, written in Rust.
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.7](https://github.com/linkml/linkml/releases/tag/v1.5.7), 2 days ago) - Linked Open Data Modeling Language
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_11_3](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_11_3), 2 days ago) - A database migrations tool for SQLAlchemy.
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.35.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.35.1), 2 days ago) - OpenTelemetry Helm Charts
 
 
 #### ✨ Stats
