@@ -17,16 +17,16 @@
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file). (3 months ago)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (3 months ago)
 - [zdharma-continuum/zinit-annex-bin-gem-node](https://github.com/zdharma-continuum/zinit-annex-bin-gem-node) - Unmaintained mirror of zinit-zsh/z-a-bin-gem-node (4 months ago)
-- [mara/mara-metabase](https://github.com/mara/mara-metabase) - Configuration and schema sync for Metabase from Python (4 months ago)
+- [mara/mara-metabase](https://github.com/mara/mara-metabase) - Configuration and schema sync for Metabase from Python (5 months ago)
 - [dalibo/pev2](https://github.com/dalibo/pev2) - Postgres Explain Visualizer 2 (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [orhun/git-cliff](https://github.com/orhun/git-cliff) ([v1.3.0-rc.0](https://github.com/orhun/git-cliff/releases/tag/v1.3.0-rc.0), today) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.35.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.35.2), 1 day ago) - OpenTelemetry Helm Charts
-- [apache/superset](https://github.com/apache/superset) ([2.1.1rc3](https://github.com/apache/superset/releases/tag/2.1.1rc3), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.285](https://github.com/astral-sh/ruff/releases/tag/v0.0.285), 2 days ago) - An extremely fast Python linter, written in Rust.
-- [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.7](https://github.com/linkml/linkml/releases/tag/v1.5.7), 3 days ago) - Linked Open Data Modeling Language
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) ([v1.3.0-rc.0](https://github.com/orhun/git-cliff/releases/tag/v1.3.0-rc.0), 1 day ago) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.35.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.35.2), 2 days ago) - OpenTelemetry Helm Charts
+- [apache/superset](https://github.com/apache/superset) ([2.1.1rc3](https://github.com/apache/superset/releases/tag/2.1.1rc3), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.285](https://github.com/astral-sh/ruff/releases/tag/v0.0.285), 3 days ago) - An extremely fast Python linter, written in Rust.
+- [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.7](https://github.com/linkml/linkml/releases/tag/v1.5.7), 4 days ago) - Linked Open Data Modeling Language
 
 
 #### ✨ Stats
