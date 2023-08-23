@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.66.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.66.1), 1 day ago) - OpenTelemetry Helm Charts
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.36.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.36.0), today) - OpenTelemetry Helm Charts
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) ([v1.3.0-rc.1](https://github.com/orhun/git-cliff/releases/tag/v1.3.0-rc.1), 3 days ago) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
 - [apache/superset](https://github.com/apache/superset) ([2.1.1rc3](https://github.com/apache/superset/releases/tag/2.1.1rc3), 5 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.285](https://github.com/astral-sh/ruff/releases/tag/v0.0.285), 6 days ago) - An extremely fast Python linter, written in Rust.
