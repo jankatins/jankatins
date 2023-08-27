@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.12.0](https://github.com/mitsuhiko/rye/releases/tag/0.12.0), today) - An Experimental Package Management Solution for Python
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.286](https://github.com/astral-sh/ruff/releases/tag/v0.0.286), 2 days ago) - An extremely fast Python linter, written in Rust.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.51.1](https://github.com/Wilfred/difftastic/releases/tag/0.51.1), 2 days ago) - a structural diff that understands syntax 🟥🟩
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.66.4](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.66.4), 2 days ago) - OpenTelemetry Helm Charts
 - [apache/superset](https://github.com/apache/superset) ([3.0.0rc3](https://github.com/apache/superset/releases/tag/3.0.0rc3), 3 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [orhun/git-cliff](https://github.com/orhun/git-cliff) ([v1.3.0-rc.1](https://github.com/orhun/git-cliff/releases/tag/v1.3.0-rc.1), 1 week ago) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
 
 
 #### ✨ Stats
