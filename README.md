@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.12.0](https://github.com/mitsuhiko/rye/releases/tag/0.12.0), 2 days ago) - An Experimental Package Management Solution for Python
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.13.0](https://github.com/mitsuhiko/rye/releases/tag/0.13.0), today) - An Experimental Package Management Solution for Python
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.286](https://github.com/astral-sh/ruff/releases/tag/v0.0.286), 4 days ago) - An extremely fast Python linter, written in Rust.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.51.1](https://github.com/Wilfred/difftastic/releases/tag/0.51.1), 4 days ago) - a structural diff that understands syntax 🟥🟩
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.66.4](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.66.4), 4 days ago) - OpenTelemetry Helm Charts
