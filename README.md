@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.12.0](https://github.com/zdharma-continuum/zinit/releases/tag/v3.12.0), today) - 🌻 Flexible and fast ZSH plugin manager
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.13.0](https://github.com/mitsuhiko/rye/releases/tag/0.13.0), 1 day ago) - An Experimental Package Management Solution for Python
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.286](https://github.com/astral-sh/ruff/releases/tag/v0.0.286), 5 days ago) - An extremely fast Python linter, written in Rust.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.51.1](https://github.com/Wilfred/difftastic/releases/tag/0.51.1), 5 days ago) - a structural diff that understands syntax 🟥🟩
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.66.4](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.66.4), 5 days ago) - OpenTelemetry Helm Charts
-- [apache/superset](https://github.com/apache/superset) ([3.0.0rc3](https://github.com/apache/superset/releases/tag/3.0.0rc3), 6 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 
 
 #### ✨ Stats
