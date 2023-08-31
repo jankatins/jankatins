@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_12_0](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_12_0), today) - A database migrations tool for SQLAlchemy.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.6](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.6), today) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) ([v1.3.0](https://github.com/orhun/git-cliff/releases/tag/v1.3.0), today) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.12.0](https://github.com/zdharma-continuum/zinit/releases/tag/v3.12.0), 1 day ago) - 🌻 Flexible and fast ZSH plugin manager
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.13.0](https://github.com/mitsuhiko/rye/releases/tag/0.13.0), 2 days ago) - An Experimental Package Management Solution for Python
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.286](https://github.com/astral-sh/ruff/releases/tag/v0.0.286), 6 days ago) - An extremely fast Python linter, written in Rust.
 
 
 #### ✨ Stats
