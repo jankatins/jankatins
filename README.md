@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.287](https://github.com/astral-sh/ruff/releases/tag/v0.0.287), today) - An extremely fast Python linter, written in Rust.
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.67.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.67.0), 1 day ago) - OpenTelemetry Helm Charts
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_12_0](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_12_0), 1 day ago) - A database migrations tool for SQLAlchemy.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.6](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.6), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) ([v1.3.0](https://github.com/orhun/git-cliff/releases/tag/v1.3.0), 1 day ago) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
-- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.12.0](https://github.com/zdharma-continuum/zinit/releases/tag/v3.12.0), 2 days ago) - 🌻 Flexible and fast ZSH plugin manager
 
 
 #### ✨ Stats
