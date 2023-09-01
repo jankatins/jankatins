@@ -9,7 +9,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (5 days ago)
+- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (6 days ago)
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (1 month ago)
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (1 month ago)
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (2 months ago)
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.67.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.67.0), today) - OpenTelemetry Helm Charts
-- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_12_0](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_12_0), today) - A database migrations tool for SQLAlchemy.
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.6](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.6), today) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [orhun/git-cliff](https://github.com/orhun/git-cliff) ([v1.3.0](https://github.com/orhun/git-cliff/releases/tag/v1.3.0), today) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
-- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.12.0](https://github.com/zdharma-continuum/zinit/releases/tag/v3.12.0), 1 day ago) - 🌻 Flexible and fast ZSH plugin manager
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.67.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.67.0), 1 day ago) - OpenTelemetry Helm Charts
+- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_12_0](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_12_0), 1 day ago) - A database migrations tool for SQLAlchemy.
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.6](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.6), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) ([v1.3.0](https://github.com/orhun/git-cliff/releases/tag/v1.3.0), 1 day ago) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.12.0](https://github.com/zdharma-continuum/zinit/releases/tag/v3.12.0), 2 days ago) - 🌻 Flexible and fast ZSH plugin manager
 
 
 #### ✨ Stats
