@@ -9,8 +9,8 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
+- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (today)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (today)
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (1 week ago)
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (1 month ago)
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (1 month ago)
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (3 months ago)
