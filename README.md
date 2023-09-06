@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [zyedidia/micro](https://github.com/zyedidia/micro) ([v2.0.12](https://github.com/zyedidia/micro/releases/tag/v2.0.12), today) - A modern and intuitive terminal-based text editor
 - [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) ([latest](https://github.com/JessicaTegner/pypandoc/releases/tag/latest), 2 days ago) - Thin wrapper for &#34;pandoc&#34; (MIT)
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.287](https://github.com/astral-sh/ruff/releases/tag/v0.0.287), 5 days ago) - An extremely fast Python linter, written in Rust.
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.67.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.67.0), 6 days ago) - OpenTelemetry Helm Charts
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_12_0](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_12_0), 6 days ago) - A database migrations tool for SQLAlchemy.
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.6](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.6), 6 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 
 
 #### ✨ Stats
