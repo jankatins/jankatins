@@ -9,6 +9,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
+- [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (today)
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (5 days ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 week ago)
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (1 month ago)
@@ -18,7 +19,6 @@
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file). (3 months ago)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (3 months ago)
 - [zdharma-continuum/zinit-annex-bin-gem-node](https://github.com/zdharma-continuum/zinit-annex-bin-gem-node) - Unmaintained mirror of zinit-zsh/z-a-bin-gem-node (5 months ago)
-- [mara/mara-metabase](https://github.com/mara/mara-metabase) - Configuration and schema sync for Metabase from Python (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
