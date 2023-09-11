@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.288](https://github.com/astral-sh/ruff/releases/tag/v0.0.288), today) - An extremely fast Python linter, written in Rust.
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.37.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.37.0), 4 days ago) - OpenTelemetry Helm Charts
 - [zyedidia/micro](https://github.com/zyedidia/micro) ([v2.0.12](https://github.com/zyedidia/micro/releases/tag/v2.0.12), 5 days ago) - A modern and intuitive terminal-based text editor
 - [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) ([latest](https://github.com/JessicaTegner/pypandoc/releases/tag/latest), 1 week ago) - Thin wrapper for &#34;pandoc&#34; (MIT)
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.287](https://github.com/astral-sh/ruff/releases/tag/v0.0.287), 1 week ago) - An extremely fast Python linter, written in Rust.
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_12_0](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_12_0), 1 week ago) - A database migrations tool for SQLAlchemy.
 
 
