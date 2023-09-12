@@ -9,8 +9,8 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (1 day ago)
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (6 days ago)
+- [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (2 days ago)
+- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (1 week ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 week ago)
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (1 month ago)
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (2 months ago)
@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.288](https://github.com/astral-sh/ruff/releases/tag/v0.0.288), today) - An extremely fast Python linter, written in Rust.
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.37.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.37.0), 4 days ago) - OpenTelemetry Helm Charts
-- [zyedidia/micro](https://github.com/zyedidia/micro) ([v2.0.12](https://github.com/zyedidia/micro/releases/tag/v2.0.12), 5 days ago) - A modern and intuitive terminal-based text editor
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.288](https://github.com/astral-sh/ruff/releases/tag/v0.0.288), 1 day ago) - An extremely fast Python linter, written in Rust.
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.37.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.37.0), 5 days ago) - OpenTelemetry Helm Charts
+- [zyedidia/micro](https://github.com/zyedidia/micro) ([v2.0.12](https://github.com/zyedidia/micro/releases/tag/v2.0.12), 6 days ago) - A modern and intuitive terminal-based text editor
 - [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) ([latest](https://github.com/JessicaTegner/pypandoc/releases/tag/latest), 1 week ago) - Thin wrapper for &#34;pandoc&#34; (MIT)
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_12_0](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_12_0), 1 week ago) - A database migrations tool for SQLAlchemy.
 
