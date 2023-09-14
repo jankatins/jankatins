@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.8rc1](https://github.com/linkml/linkml/releases/tag/v1.5.8rc1), today) - Linked Open Data Modeling Language
 - [apache/superset](https://github.com/apache/superset) ([3.0.0rc4](https://github.com/apache/superset/releases/tag/3.0.0rc4), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.37.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.37.1), 1 day ago) - OpenTelemetry Helm Charts
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.289](https://github.com/astral-sh/ruff/releases/tag/v0.0.289), 2 days ago) - An extremely fast Python linter, written in Rust.
 - [zyedidia/micro](https://github.com/zyedidia/micro) ([v2.0.12](https://github.com/zyedidia/micro/releases/tag/v2.0.12), 1 week ago) - A modern and intuitive terminal-based text editor
-- [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) ([latest](https://github.com/JessicaTegner/pypandoc/releases/tag/latest), 1 week ago) - Thin wrapper for &#34;pandoc&#34; (MIT)
 
 
 #### ✨ Stats
