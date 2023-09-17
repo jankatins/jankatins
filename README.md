@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Textualize/rich](https://github.com/Textualize/rich) ([v13.5.3](https://github.com/Textualize/rich/releases/tag/v13.5.3), today) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.290](https://github.com/astral-sh/ruff/releases/tag/v0.0.290), 2 days ago) - An extremely fast Python linter, written in Rust.
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.8rc1](https://github.com/linkml/linkml/releases/tag/v1.5.8rc1), 3 days ago) - Linked Open Data Modeling Language
 - [apache/superset](https://github.com/apache/superset) ([3.0.0rc4](https://github.com/apache/superset/releases/tag/3.0.0rc4), 4 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.37.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.37.1), 4 days ago) - OpenTelemetry Helm Charts
-- [zyedidia/micro](https://github.com/zyedidia/micro) ([v2.0.12](https://github.com/zyedidia/micro/releases/tag/v2.0.12), 1 week ago) - A modern and intuitive terminal-based text editor
 
 
 #### ✨ Stats
