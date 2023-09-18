@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([3.0.0](https://github.com/apache/superset/releases/tag/3.0.0), today) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.7](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.7), today) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [Textualize/rich](https://github.com/Textualize/rich) ([v13.5.3](https://github.com/Textualize/rich/releases/tag/v13.5.3), 1 day ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.290](https://github.com/astral-sh/ruff/releases/tag/v0.0.290), 3 days ago) - An extremely fast Python linter, written in Rust.
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.8rc1](https://github.com/linkml/linkml/releases/tag/v1.5.8rc1), 4 days ago) - Linked Open Data Modeling Language
