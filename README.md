@@ -10,7 +10,7 @@
 #### 👩‍💻 Check out what I'm currently working on
 
 - [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (1 week ago)
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (1 week ago)
+- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (2 weeks ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (2 weeks ago)
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (2 months ago)
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (2 months ago)
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.7](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.7), today) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [Textualize/rich](https://github.com/Textualize/rich) ([v13.5.3](https://github.com/Textualize/rich/releases/tag/v13.5.3), 1 day ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.290](https://github.com/astral-sh/ruff/releases/tag/v0.0.290), 3 days ago) - An extremely fast Python linter, written in Rust.
-- [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.8rc1](https://github.com/linkml/linkml/releases/tag/v1.5.8rc1), 4 days ago) - Linked Open Data Modeling Language
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.37.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.37.1), 5 days ago) - OpenTelemetry Helm Charts
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.7](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.7), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [Textualize/rich](https://github.com/Textualize/rich) ([v13.5.3](https://github.com/Textualize/rich/releases/tag/v13.5.3), 2 days ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.290](https://github.com/astral-sh/ruff/releases/tag/v0.0.290), 4 days ago) - An extremely fast Python linter, written in Rust.
+- [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.8rc1](https://github.com/linkml/linkml/releases/tag/v1.5.8rc1), 5 days ago) - Linked Open Data Modeling Language
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.37.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.37.1), 6 days ago) - OpenTelemetry Helm Charts
 
 
 #### ✨ Stats
