@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.25.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.25.0), 1 day ago) - OpenTelemetry Helm Charts
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.25.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.25.1), today) - OpenTelemetry Helm Charts
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.0.0](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.0.0), 1 day ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.7](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.7), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [Textualize/rich](https://github.com/Textualize/rich) ([v13.5.3](https://github.com/Textualize/rich/releases/tag/v13.5.3), 3 days ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
