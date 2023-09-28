@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.68.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.68.1), today) - OpenTelemetry Helm Charts
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.69.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.69.0), today) - OpenTelemetry Helm Charts
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.5.8](https://github.com/linkml/linkml/releases/tag/v1.5.8), 1 day ago) - Linked Open Data Modeling Language
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.0.1](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.0.1), 2 days ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.291](https://github.com/astral-sh/ruff/releases/tag/v0.0.291), 6 days ago) - An extremely fast Python linter, written in Rust.
