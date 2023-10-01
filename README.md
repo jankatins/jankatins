@@ -9,7 +9,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (2 weeks ago)
+- [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (3 weeks ago)
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (3 weeks ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (4 weeks ago)
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (2 months ago)
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Textualize/rich](https://github.com/Textualize/rich) ([v13.6.0](https://github.com/Textualize/rich/releases/tag/v13.6.0), today) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [orhun/git-cliff](https://github.com/orhun/git-cliff) ([v1.3.1](https://github.com/orhun/git-cliff/releases/tag/v1.3.1), today) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
-- [linkml/linkml](https://github.com/linkml/linkml) ([v1.6.1](https://github.com/linkml/linkml/releases/tag/v1.6.1), 1 day ago) - Linked Open Data Modeling Language
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.69.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.69.2), 1 day ago) - OpenTelemetry Helm Charts
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.9](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.9), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [Textualize/rich](https://github.com/Textualize/rich) ([v13.6.0](https://github.com/Textualize/rich/releases/tag/v13.6.0), 1 day ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) ([v1.3.1](https://github.com/orhun/git-cliff/releases/tag/v1.3.1), 1 day ago) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
+- [linkml/linkml](https://github.com/linkml/linkml) ([v1.6.1](https://github.com/linkml/linkml/releases/tag/v1.6.1), 2 days ago) - Linked Open Data Modeling Language
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.69.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.69.2), 2 days ago) - OpenTelemetry Helm Charts
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.9](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.9), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 
 
 #### ✨ Stats
