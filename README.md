@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.25.4](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.25.4), today) - OpenTelemetry Helm Charts
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.14.0](https://github.com/mitsuhiko/rye/releases/tag/0.14.0), 1 day ago) - An Experimental Package Management Solution for Python
 - [Textualize/rich](https://github.com/Textualize/rich) ([v13.6.0](https://github.com/Textualize/rich/releases/tag/v13.6.0), 2 days ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) ([v1.3.1](https://github.com/orhun/git-cliff/releases/tag/v1.3.1), 2 days ago) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.6.1](https://github.com/linkml/linkml/releases/tag/v1.6.1), 3 days ago) - Linked Open Data Modeling Language
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.69.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.69.2), 3 days ago) - OpenTelemetry Helm Charts
 
 
 #### ✨ Stats
