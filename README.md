@@ -9,7 +9,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (1 day ago)
+- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (2 days ago)
 - [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (3 weeks ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 month ago)
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (2 months ago)
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([3.0.1rc1](https://github.com/apache/superset/releases/tag/3.0.1rc1), today) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.15.1](https://github.com/mitsuhiko/rye/releases/tag/0.15.1), today) - An Experimental Package Management Solution for Python
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.292](https://github.com/astral-sh/ruff/releases/tag/v0.0.292), 1 day ago) - An extremely fast Python linter, written in Rust.
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.25.4](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.25.4), 1 day ago) - OpenTelemetry Helm Charts
-- [Textualize/rich](https://github.com/Textualize/rich) ([v13.6.0](https://github.com/Textualize/rich/releases/tag/v13.6.0), 3 days ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [apache/superset](https://github.com/apache/superset) ([3.0.1rc1](https://github.com/apache/superset/releases/tag/3.0.1rc1), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.15.1](https://github.com/mitsuhiko/rye/releases/tag/0.15.1), 1 day ago) - An Experimental Package Management Solution for Python
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.0.292](https://github.com/astral-sh/ruff/releases/tag/v0.0.292), 2 days ago) - An extremely fast Python linter, written in Rust.
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.25.4](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.25.4), 2 days ago) - OpenTelemetry Helm Charts
+- [Textualize/rich](https://github.com/Textualize/rich) ([v13.6.0](https://github.com/Textualize/rich/releases/tag/v13.6.0), 4 days ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 
 
 #### ✨ Stats
