@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.39.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.39.2), today) - OpenTelemetry Helm Charts
 - [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) ([latest](https://github.com/JessicaTegner/pypandoc/releases/tag/latest), today) - Thin wrapper for &#34;pandoc&#34; (MIT)
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.71.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.71.1), 1 day ago) - OpenTelemetry Helm Charts
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.52.0](https://github.com/Wilfred/difftastic/releases/tag/0.52.0), 2 days ago) - a structural diff that understands syntax 🟥🟩
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.15.2](https://github.com/mitsuhiko/rye/releases/tag/0.15.2), 6 days ago) - An Experimental Package Management Solution for Python
 - [apache/superset](https://github.com/apache/superset) ([3.0.1rc1](https://github.com/apache/superset/releases/tag/3.0.1rc1), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
