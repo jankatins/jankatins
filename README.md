@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.39.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.39.2), 1 day ago) - OpenTelemetry Helm Charts
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.72.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.72.0), today) - OpenTelemetry Helm Charts
 - [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) ([latest](https://github.com/JessicaTegner/pypandoc/releases/tag/latest), 1 day ago) - Thin wrapper for &#34;pandoc&#34; (MIT)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.52.0](https://github.com/Wilfred/difftastic/releases/tag/0.52.0), 3 days ago) - a structural diff that understands syntax 🟥🟩
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.15.2](https://github.com/mitsuhiko/rye/releases/tag/0.15.2), 1 week ago) - An Experimental Package Management Solution for Python
