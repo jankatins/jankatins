@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.0.2](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.0.2), today) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.72.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.72.0), 1 day ago) - OpenTelemetry Helm Charts
 - [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) ([latest](https://github.com/JessicaTegner/pypandoc/releases/tag/latest), 2 days ago) - Thin wrapper for &#34;pandoc&#34; (MIT)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.52.0](https://github.com/Wilfred/difftastic/releases/tag/0.52.0), 4 days ago) - a structural diff that understands syntax 🟥🟩
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.15.2](https://github.com/mitsuhiko/rye/releases/tag/0.15.2), 1 week ago) - An Experimental Package Management Solution for Python
-- [apache/superset](https://github.com/apache/superset) ([3.0.1rc1](https://github.com/apache/superset/releases/tag/3.0.1rc1), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 
 
 #### ✨ Stats
