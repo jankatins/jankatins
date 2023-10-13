@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([3.0.1rc2](https://github.com/apache/superset/releases/tag/3.0.1rc2), today) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.10](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.10), today) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.40.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.40.0), today) - OpenTelemetry Helm Charts
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.0.2](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.0.2), 1 day ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
 - [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) ([latest](https://github.com/JessicaTegner/pypandoc/releases/tag/latest), 3 days ago) - Thin wrapper for &#34;pandoc&#34; (MIT)
