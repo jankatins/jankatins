@@ -17,16 +17,16 @@
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (4 months ago)
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python (4 months ago)
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file). (4 months ago)
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (4 months ago)
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (5 months ago)
 - [zdharma-continuum/zinit-annex-bin-gem-node](https://github.com/zdharma-continuum/zinit-annex-bin-gem-node) - Unmaintained mirror of zinit-zsh/z-a-bin-gem-node (6 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.10](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.10), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.40.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.40.0), 1 day ago) - OpenTelemetry Helm Charts
-- [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.0.2](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.0.2), 2 days ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
-- [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) ([latest](https://github.com/JessicaTegner/pypandoc/releases/tag/latest), 4 days ago) - Thin wrapper for &#34;pandoc&#34; (MIT)
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.52.0](https://github.com/Wilfred/difftastic/releases/tag/0.52.0), 6 days ago) - a structural diff that understands syntax 🟥🟩
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.10](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.10), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.40.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.40.0), 2 days ago) - OpenTelemetry Helm Charts
+- [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.0.2](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.0.2), 3 days ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
+- [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) ([latest](https://github.com/JessicaTegner/pypandoc/releases/tag/latest), 5 days ago) - Thin wrapper for &#34;pandoc&#34; (MIT)
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.52.0](https://github.com/Wilfred/difftastic/releases/tag/0.52.0), 1 week ago) - a structural diff that understands syntax 🟥🟩
 
 
 #### ✨ Stats
