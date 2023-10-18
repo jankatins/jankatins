@@ -12,7 +12,7 @@
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (2 weeks ago)
 - [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (1 month ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 month ago)
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (2 months ago)
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (3 months ago)
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (3 months ago)
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (4 months ago)
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python (4 months ago)
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.25.6](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.25.6), today) - OpenTelemetry Helm Charts
-- [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) ([latest](https://github.com/JessicaTegner/pypandoc/releases/tag/latest), today) - Thin wrapper for &#34;pandoc&#34; (MIT)
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.0](https://github.com/astral-sh/ruff/releases/tag/v0.1.0), 1 day ago) - An extremely fast Python linter, written in Rust.
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.10](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.10), 4 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.0.2](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.0.2), 5 days ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.25.6](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.25.6), 1 day ago) - OpenTelemetry Helm Charts
+- [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) ([latest](https://github.com/JessicaTegner/pypandoc/releases/tag/latest), 1 day ago) - Thin wrapper for &#34;pandoc&#34; (MIT)
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.0](https://github.com/astral-sh/ruff/releases/tag/v0.1.0), 2 days ago) - An extremely fast Python linter, written in Rust.
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.10](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.10), 5 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.0.2](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.0.2), 6 days ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
 
 
 #### ✨ Stats
