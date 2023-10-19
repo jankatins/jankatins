@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.25.6](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.25.6), 1 day ago) - OpenTelemetry Helm Charts
-- [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) ([latest](https://github.com/JessicaTegner/pypandoc/releases/tag/latest), 1 day ago) - Thin wrapper for &#34;pandoc&#34; (MIT)
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.0](https://github.com/astral-sh/ruff/releases/tag/v0.1.0), 2 days ago) - An extremely fast Python linter, written in Rust.
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.10](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.10), 5 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.0.2](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.0.2), 6 days ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.25.6](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.25.6), 2 days ago) - OpenTelemetry Helm Charts
+- [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) ([latest](https://github.com/JessicaTegner/pypandoc/releases/tag/latest), 2 days ago) - Thin wrapper for &#34;pandoc&#34; (MIT)
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.0](https://github.com/astral-sh/ruff/releases/tag/v0.1.0), 3 days ago) - An extremely fast Python linter, written in Rust.
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.10](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.10), 6 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.0.2](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.0.2), 1 week ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
 
 
 #### ✨ Stats
