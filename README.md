@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [zyedidia/micro](https://github.com/zyedidia/micro) ([v2.0.13](https://github.com/zyedidia/micro/releases/tag/v2.0.13), today) - A modern and intuitive terminal-based text editor
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.1](https://github.com/astral-sh/ruff/releases/tag/v0.1.1), 2 days ago) - An extremely fast Python linter, written in Rust.
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.11](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.11), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.41.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.41.0), 2 days ago) - OpenTelemetry Helm Charts
-- [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) ([latest](https://github.com/JessicaTegner/pypandoc/releases/tag/latest), 4 days ago) - Thin wrapper for &#34;pandoc&#34; (MIT)
+- [zyedidia/micro](https://github.com/zyedidia/micro) ([v2.0.13](https://github.com/zyedidia/micro/releases/tag/v2.0.13), 1 day ago) - A modern and intuitive terminal-based text editor
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.1](https://github.com/astral-sh/ruff/releases/tag/v0.1.1), 3 days ago) - An extremely fast Python linter, written in Rust.
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.11](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.11), 3 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.41.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.41.0), 3 days ago) - OpenTelemetry Helm Charts
+- [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) ([latest](https://github.com/JessicaTegner/pypandoc/releases/tag/latest), 5 days ago) - Thin wrapper for &#34;pandoc&#34; (MIT)
 
 
 #### ✨ Stats
