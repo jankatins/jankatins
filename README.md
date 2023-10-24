@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.2](https://github.com/astral-sh/ruff/releases/tag/v0.1.2), today) - An extremely fast Python linter, written in Rust.
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.2](https://github.com/astral-sh/ruff/releases/tag/v0.1.2), today) - An extremely fast Python linter and code formatter, written in Rust.
 - [zyedidia/micro](https://github.com/zyedidia/micro) ([v2.0.13](https://github.com/zyedidia/micro/releases/tag/v2.0.13), 3 days ago) - A modern and intuitive terminal-based text editor
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.11](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.11), 5 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.41.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.41.0), 5 days ago) - OpenTelemetry Helm Charts
