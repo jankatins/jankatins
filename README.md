@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.13](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.13), today) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.14](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.14), today) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) ([v1.4.0](https://github.com/orhun/git-cliff/releases/tag/v1.4.0), 2 days ago) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.3](https://github.com/astral-sh/ruff/releases/tag/v0.1.3), 5 days ago) - An extremely fast Python linter and code formatter, written in Rust.
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.73.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.73.1), 5 days ago) - OpenTelemetry Helm Charts
