@@ -9,7 +9,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (3 days ago)
+- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (4 days ago)
 - [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (1 month ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 month ago)
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (3 months ago)
@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [orhun/git-cliff](https://github.com/orhun/git-cliff) ([v1.4.0](https://github.com/orhun/git-cliff/releases/tag/v1.4.0), 1 day ago) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.3](https://github.com/astral-sh/ruff/releases/tag/v0.1.3), 4 days ago) - An extremely fast Python linter and code formatter, written in Rust.
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.73.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.73.1), 4 days ago) - OpenTelemetry Helm Charts
-- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_12_1](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_12_1), 4 days ago) - A database migrations tool for SQLAlchemy.
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) ([v1.4.0](https://github.com/orhun/git-cliff/releases/tag/v1.4.0), 2 days ago) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.3](https://github.com/astral-sh/ruff/releases/tag/v0.1.3), 5 days ago) - An extremely fast Python linter and code formatter, written in Rust.
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.73.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.73.1), 5 days ago) - OpenTelemetry Helm Charts
+- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_12_1](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_12_1), 5 days ago) - A database migrations tool for SQLAlchemy.
 - [zyedidia/micro](https://github.com/zyedidia/micro) ([v2.0.13](https://github.com/zyedidia/micro/releases/tag/v2.0.13), 1 week ago) - A modern and intuitive terminal-based text editor
 
 
