@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.12](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.12), today) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) ([v1.4.0](https://github.com/orhun/git-cliff/releases/tag/v1.4.0), 2 days ago) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.3](https://github.com/astral-sh/ruff/releases/tag/v0.1.3), 5 days ago) - An extremely fast Python linter and code formatter, written in Rust.
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.73.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.73.1), 5 days ago) - OpenTelemetry Helm Charts
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_12_1](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_12_1), 5 days ago) - A database migrations tool for SQLAlchemy.
-- [zyedidia/micro](https://github.com/zyedidia/micro) ([v2.0.13](https://github.com/zyedidia/micro/releases/tag/v2.0.13), 1 week ago) - A modern and intuitive terminal-based text editor
 
 
 #### ✨ Stats
