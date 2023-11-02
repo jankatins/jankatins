@@ -9,6 +9,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
+- [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file). (1 day ago)
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (6 days ago)
 - [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (1 month ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (2 months ago)
@@ -16,7 +17,6 @@
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (3 months ago)
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (5 months ago)
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python (5 months ago)
-- [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file). (5 months ago)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (5 months ago)
 - [zdharma-continuum/zinit-annex-bin-gem-node](https://github.com/zdharma-continuum/zinit-annex-bin-gem-node) - Unmaintained mirror of zinit-zsh/z-a-bin-gem-node (7 months ago)
 
