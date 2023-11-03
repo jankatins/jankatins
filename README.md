@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.42.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.42.0), today) - OpenTelemetry Helm Charts
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.14](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.14), 3 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) ([v1.4.0](https://github.com/orhun/git-cliff/releases/tag/v1.4.0), 5 days ago) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.3](https://github.com/astral-sh/ruff/releases/tag/v0.1.3), 1 week ago) - An extremely fast Python linter and code formatter, written in Rust.
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.73.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.73.1), 1 week ago) - OpenTelemetry Helm Charts
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_12_1](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_12_1), 1 week ago) - A database migrations tool for SQLAlchemy.
 
 
