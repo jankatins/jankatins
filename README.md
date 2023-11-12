@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.42.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.42.1), today) - OpenTelemetry Helm Charts
-- [apache/superset](https://github.com/apache/superset) ([2.1.2rc2](https://github.com/apache/superset/releases/tag/2.1.2rc2), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.5](https://github.com/astral-sh/ruff/releases/tag/v0.1.5), 3 days ago) - An extremely fast Python linter and code formatter, written in Rust.
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.42.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.42.1), 1 day ago) - OpenTelemetry Helm Charts
+- [apache/superset](https://github.com/apache/superset) ([2.1.2rc2](https://github.com/apache/superset/releases/tag/2.1.2rc2), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.5](https://github.com/astral-sh/ruff/releases/tag/v0.1.5), 4 days ago) - An extremely fast Python linter and code formatter, written in Rust.
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.6.2](https://github.com/linkml/linkml/releases/tag/v1.6.2), 1 week ago) - Linked Open Data Modeling Language
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.0.4](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.0.4), 1 week ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
 
