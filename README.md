@@ -9,6 +9,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
+- [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (today)
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file). (2 weeks ago)
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (2 weeks ago)
 - [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (2 months ago)
@@ -18,7 +19,6 @@
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (5 months ago)
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python (5 months ago)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (6 months ago)
-- [zdharma-continuum/zinit-annex-bin-gem-node](https://github.com/zdharma-continuum/zinit-annex-bin-gem-node) - Unmaintained mirror of zinit-zsh/z-a-bin-gem-node (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
