@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.42.3](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.42.3), 1 day ago) - OpenTelemetry Helm Charts
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.74.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.74.0), today) - OpenTelemetry Helm Charts
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.15](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.15), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [Textualize/rich](https://github.com/Textualize/rich) ([v13.7.0](https://github.com/Textualize/rich/releases/tag/v13.7.0), 2 days ago) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.5](https://github.com/astral-sh/ruff/releases/tag/v0.1.5), 1 week ago) - An extremely fast Python linter and code formatter, written in Rust.
