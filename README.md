@@ -9,7 +9,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (2 days ago)
+- [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (3 days ago)
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file). (2 weeks ago)
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (3 weeks ago)
 - [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (2 months ago)
@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [linkml/linkml](https://github.com/linkml/linkml) ([v1.6.3](https://github.com/linkml/linkml/releases/tag/v1.6.3), 1 day ago) - Linked Open Data Modeling Language
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.6](https://github.com/astral-sh/ruff/releases/tag/v0.1.6), 1 day ago) - An extremely fast Python linter and code formatter, written in Rust.
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.74.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.74.0), 1 day ago) - OpenTelemetry Helm Charts
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.15](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.15), 3 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [linkml/linkml](https://github.com/linkml/linkml) ([v1.6.3](https://github.com/linkml/linkml/releases/tag/v1.6.3), 2 days ago) - Linked Open Data Modeling Language
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.6](https://github.com/astral-sh/ruff/releases/tag/v0.1.6), 2 days ago) - An extremely fast Python linter and code formatter, written in Rust.
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.74.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.74.0), 2 days ago) - OpenTelemetry Helm Charts
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.10.15](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.10.15), 4 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.0.4](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.0.4), 2 weeks ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
 
 
