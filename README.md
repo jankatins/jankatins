@@ -9,7 +9,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (6 days ago)
+- [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (1 week ago)
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file). (3 weeks ago)
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (3 weeks ago)
 - [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (2 months ago)
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([3.0.2](https://github.com/apache/superset/releases/tag/3.0.2), today) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.74.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.74.1), 1 day ago) - OpenTelemetry Helm Charts
-- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.12.1](https://github.com/zdharma-continuum/zinit/releases/tag/v3.12.1), 2 days ago) - 🌻 Flexible and fast ZSH plugin manager
-- [linkml/linkml](https://github.com/linkml/linkml) ([v1.6.3](https://github.com/linkml/linkml/releases/tag/v1.6.3), 5 days ago) - Linked Open Data Modeling Language
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.6](https://github.com/astral-sh/ruff/releases/tag/v0.1.6), 5 days ago) - An extremely fast Python linter and code formatter, written in Rust.
+- [apache/superset](https://github.com/apache/superset) ([3.0.2](https://github.com/apache/superset/releases/tag/3.0.2), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.74.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.74.1), 2 days ago) - OpenTelemetry Helm Charts
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.12.1](https://github.com/zdharma-continuum/zinit/releases/tag/v3.12.1), 3 days ago) - 🌻 Flexible and fast ZSH plugin manager
+- [linkml/linkml](https://github.com/linkml/linkml) ([v1.6.3](https://github.com/linkml/linkml/releases/tag/v1.6.3), 6 days ago) - Linked Open Data Modeling Language
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.6](https://github.com/astral-sh/ruff/releases/tag/v0.1.6), 6 days ago) - An extremely fast Python linter and code formatter, written in Rust.
 
 
 #### ✨ Stats
