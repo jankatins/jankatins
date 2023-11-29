@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.11.0](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.11.0), today) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.75.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.75.0), 1 day ago) - OpenTelemetry Helm Charts
-- [apache/superset](https://github.com/apache/superset) ([3.1.0rc1](https://github.com/apache/superset/releases/tag/3.1.0rc1), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.53.1](https://github.com/Wilfred/difftastic/releases/tag/0.53.1), 3 days ago) - a structural diff that understands syntax 🟥🟩
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.12.1](https://github.com/zdharma-continuum/zinit/releases/tag/v3.12.1), 1 week ago) - 🌻 Flexible and fast ZSH plugin manager
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.6.3](https://github.com/linkml/linkml/releases/tag/v1.6.3), 1 week ago) - Linked Open Data Modeling Language
