@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.26.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.26.1), today) - OpenTelemetry Helm Charts
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.1](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.1), today) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.11.0](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.11.0), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.75.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.75.0), 2 days ago) - OpenTelemetry Helm Charts
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.53.1](https://github.com/Wilfred/difftastic/releases/tag/0.53.1), 4 days ago) - a structural diff that understands syntax 🟥🟩
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.12.1](https://github.com/zdharma-continuum/zinit/releases/tag/v3.12.1), 1 week ago) - 🌻 Flexible and fast ZSH plugin manager
 
