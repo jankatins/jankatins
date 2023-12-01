@@ -10,22 +10,22 @@
 #### 👩‍💻 Check out what I'm currently working on
 
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (2 weeks ago)
-- [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file). (4 weeks ago)
+- [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file). (1 month ago)
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (1 month ago)
 - [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (2 months ago)
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (2 months ago)
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (3 months ago)
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (4 months ago)
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (4 months ago)
-- [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (5 months ago)
+- [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (6 months ago)
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python (6 months ago)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (6 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.11.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.11.1), today) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.26.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.26.1), today) - OpenTelemetry Helm Charts
-- [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.1](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.1), today) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.53.1](https://github.com/Wilfred/difftastic/releases/tag/0.53.1), 4 days ago) - a structural diff that understands syntax 🟥🟩
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.11.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.11.1), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.26.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.26.1), 1 day ago) - OpenTelemetry Helm Charts
+- [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.1](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.1), 1 day ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.53.1](https://github.com/Wilfred/difftastic/releases/tag/0.53.1), 5 days ago) - a structural diff that understands syntax 🟥🟩
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) ([v3.12.1](https://github.com/zdharma-continuum/zinit/releases/tag/v3.12.1), 1 week ago) - 🌻 Flexible and fast ZSH plugin manager
 
 
