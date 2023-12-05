@@ -15,18 +15,18 @@
 - [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (2 months ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (3 months ago)
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (4 months ago)
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (4 months ago)
+- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (5 months ago)
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (6 months ago)
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python (6 months ago)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (6 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.76.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.76.0), today) - OpenTelemetry Helm Charts
-- [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.2](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.2), today) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
-- [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.3](https://github.com/cantino/mcfly/releases/tag/v0.8.3), 1 day ago) - Fly through your shell history. Great Scott!
-- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_13_0](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_13_0), 3 days ago) - A database migrations tool for SQLAlchemy.
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.11.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.11.1), 4 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.7](https://github.com/astral-sh/ruff/releases/tag/v0.1.7), 1 day ago) - An extremely fast Python linter and code formatter, written in Rust.
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.76.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.76.0), 1 day ago) - OpenTelemetry Helm Charts
+- [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.2](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.2), 1 day ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
+- [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.3](https://github.com/cantino/mcfly/releases/tag/v0.8.3), 2 days ago) - Fly through your shell history. Great Scott!
+- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_13_0](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_13_0), 4 days ago) - A database migrations tool for SQLAlchemy.
 
 
 #### ✨ Stats
