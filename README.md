@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([2.1.3rc1](https://github.com/apache/superset/releases/tag/2.1.3rc1), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.6.4](https://github.com/linkml/linkml/releases/tag/v1.6.4), 3 days ago) - Linked Open Data Modeling Language
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.7](https://github.com/astral-sh/ruff/releases/tag/v0.1.7), 6 days ago) - An extremely fast Python linter and code formatter, written in Rust.
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.76.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.76.0), 6 days ago) - OpenTelemetry Helm Charts
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.2](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.2), 6 days ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
+- [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.3](https://github.com/cantino/mcfly/releases/tag/v0.8.3), 1 week ago) - Fly through your shell history. Great Scott!
 
 
 #### ✨ Stats
