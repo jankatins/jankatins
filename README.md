@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [linkml/linkml](https://github.com/linkml/linkml) ([v1.6.5](https://github.com/linkml/linkml/releases/tag/v1.6.5), today) - Linked Open Data Modeling Language
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.44.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.44.0), 1 day ago) - OpenTelemetry Helm Charts
-- [linkml/linkml](https://github.com/linkml/linkml) ([v1.6.4](https://github.com/linkml/linkml/releases/tag/v1.6.4), 5 days ago) - Linked Open Data Modeling Language
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.7](https://github.com/astral-sh/ruff/releases/tag/v0.1.7), 1 week ago) - An extremely fast Python linter and code formatter, written in Rust.
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.2](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.2), 1 week ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.3](https://github.com/cantino/mcfly/releases/tag/v0.8.3), 1 week ago) - Fly through your shell history. Great Scott!
