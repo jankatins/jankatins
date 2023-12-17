@@ -14,7 +14,7 @@
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (1 month ago)
 - [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (3 months ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (3 months ago)
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (4 months ago)
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (5 months ago)
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (5 months ago)
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (6 months ago)
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python (6 months ago)
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.44.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.44.2), 1 day ago) - OpenTelemetry Helm Charts
-- [linkml/linkml](https://github.com/linkml/linkml) ([v1.6.6](https://github.com/linkml/linkml/releases/tag/v1.6.6), 1 day ago) - Linked Open Data Modeling Language
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.8](https://github.com/astral-sh/ruff/releases/tag/v0.1.8), 3 days ago) - An extremely fast Python linter and code formatter, written in Rust.
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.16.0](https://github.com/mitsuhiko/rye/releases/tag/0.16.0), 1 day ago) - An Experimental Package Management Solution for Python
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.44.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.44.2), 2 days ago) - OpenTelemetry Helm Charts
+- [linkml/linkml](https://github.com/linkml/linkml) ([v1.6.6](https://github.com/linkml/linkml/releases/tag/v1.6.6), 2 days ago) - Linked Open Data Modeling Language
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.8](https://github.com/astral-sh/ruff/releases/tag/v0.1.8), 4 days ago) - An extremely fast Python linter and code formatter, written in Rust.
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.2](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.2), 1 week ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
-- [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.3](https://github.com/cantino/mcfly/releases/tag/v0.8.3), 1 week ago) - Fly through your shell history. Great Scott!
 
 
 #### ✨ Stats
