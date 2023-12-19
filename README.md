@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.27.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.27.0), today) - OpenTelemetry Helm Charts
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.16.0](https://github.com/mitsuhiko/rye/releases/tag/0.16.0), 3 days ago) - An Experimental Package Management Solution for Python
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.44.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.44.2), 4 days ago) - OpenTelemetry Helm Charts
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.6.6](https://github.com/linkml/linkml/releases/tag/v1.6.6), 4 days ago) - Linked Open Data Modeling Language
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.8](https://github.com/astral-sh/ruff/releases/tag/v0.1.8), 6 days ago) - An extremely fast Python linter and code formatter, written in Rust.
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.2](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.2), 2 weeks ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
