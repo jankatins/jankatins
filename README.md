@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.9](https://github.com/astral-sh/ruff/releases/tag/v0.1.9), today) - An extremely fast Python linter and code formatter, written in Rust.
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_13_1](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_13_1), 1 day ago) - A database migrations tool for SQLAlchemy.
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.27.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.27.0), 2 days ago) - OpenTelemetry Helm Charts
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.16.0](https://github.com/mitsuhiko/rye/releases/tag/0.16.0), 5 days ago) - An Experimental Package Management Solution for Python
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.6.6](https://github.com/linkml/linkml/releases/tag/v1.6.6), 6 days ago) - Linked Open Data Modeling Language
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.8](https://github.com/astral-sh/ruff/releases/tag/v0.1.8), 1 week ago) - An extremely fast Python linter and code formatter, written in Rust.
 
 
 #### ✨ Stats
