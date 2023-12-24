@@ -17,15 +17,15 @@
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (5 months ago)
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (5 months ago)
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (6 months ago)
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python (6 months ago)
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python (7 months ago)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [linkml/linkml](https://github.com/linkml/linkml) ([v1.6.7](https://github.com/linkml/linkml/releases/tag/v1.6.7), 1 day ago) - Linked Open Data Modeling Language
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.9](https://github.com/astral-sh/ruff/releases/tag/v0.1.9), 2 days ago) - An extremely fast Python linter and code formatter, written in Rust.
-- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_13_1](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_13_1), 3 days ago) - A database migrations tool for SQLAlchemy.
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.27.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.27.0), 4 days ago) - OpenTelemetry Helm Charts
+- [linkml/linkml](https://github.com/linkml/linkml) ([v1.6.7](https://github.com/linkml/linkml/releases/tag/v1.6.7), 2 days ago) - Linked Open Data Modeling Language
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.9](https://github.com/astral-sh/ruff/releases/tag/v0.1.9), 3 days ago) - An extremely fast Python linter and code formatter, written in Rust.
+- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_13_1](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_13_1), 4 days ago) - A database migrations tool for SQLAlchemy.
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.27.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.27.0), 5 days ago) - OpenTelemetry Helm Charts
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.16.0](https://github.com/mitsuhiko/rye/releases/tag/0.16.0), 1 week ago) - An Experimental Package Management Solution for Python
 
 
