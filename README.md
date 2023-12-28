@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [starship/starship](https://github.com/starship/starship) ([v1.17.0](https://github.com/starship/starship/releases/tag/v1.17.0), today) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.3](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.3), 2 days ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.4](https://github.com/cantino/mcfly/releases/tag/v0.8.4), 4 days ago) - Fly through your shell history. Great Scott!
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.6.7](https://github.com/linkml/linkml/releases/tag/v1.6.7), 6 days ago) - Linked Open Data Modeling Language
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.9](https://github.com/astral-sh/ruff/releases/tag/v0.1.9), 1 week ago) - An extremely fast Python linter and code formatter, written in Rust.
-- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) ([rel_1_13_1](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_13_1), 1 week ago) - A database migrations tool for SQLAlchemy.
 
 
 #### ✨ Stats
