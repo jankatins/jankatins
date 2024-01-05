@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.11](https://github.com/astral-sh/ruff/releases/tag/v0.1.11), 2 days ago) - An extremely fast Python linter and code formatter, written in Rust.
-- [starship/starship](https://github.com/starship/starship) ([v1.17.1](https://github.com/starship/starship/releases/tag/v1.17.1), 2 days ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.11](https://github.com/astral-sh/ruff/releases/tag/v0.1.11), 3 days ago) - An extremely fast Python linter and code formatter, written in Rust.
+- [starship/starship](https://github.com/starship/starship) ([v1.17.1](https://github.com/starship/starship/releases/tag/v1.17.1), 3 days ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.3](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.3), 1 week ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.4](https://github.com/cantino/mcfly/releases/tag/v0.8.4), 1 week ago) - Fly through your shell history. Great Scott!
-- [linkml/linkml](https://github.com/linkml/linkml) ([v1.6.7](https://github.com/linkml/linkml/releases/tag/v1.6.7), 1 week ago) - Linked Open Data Modeling Language
+- [linkml/linkml](https://github.com/linkml/linkml) ([v1.6.7](https://github.com/linkml/linkml/releases/tag/v1.6.7), 2 weeks ago) - Linked Open Data Modeling Language
 
 
 #### ✨ Stats
