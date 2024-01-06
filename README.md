@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.44.3](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.44.3), today) - OpenTelemetry Helm Charts
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.11](https://github.com/astral-sh/ruff/releases/tag/v0.1.11), 3 days ago) - An extremely fast Python linter and code formatter, written in Rust.
-- [starship/starship](https://github.com/starship/starship) ([v1.17.1](https://github.com/starship/starship/releases/tag/v1.17.1), 3 days ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.44.3](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.44.3), 1 day ago) - OpenTelemetry Helm Charts
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.11](https://github.com/astral-sh/ruff/releases/tag/v0.1.11), 4 days ago) - An extremely fast Python linter and code formatter, written in Rust.
+- [starship/starship](https://github.com/starship/starship) ([v1.17.1](https://github.com/starship/starship/releases/tag/v1.17.1), 4 days ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.3](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.3), 1 week ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.4](https://github.com/cantino/mcfly/releases/tag/v0.8.4), 1 week ago) - Fly through your shell history. Great Scott!
 
