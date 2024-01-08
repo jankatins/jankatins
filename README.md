@@ -12,7 +12,7 @@
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (1 month ago)
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file). (2 months ago)
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (2 months ago)
-- [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (3 months ago)
+- [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (4 months ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (4 months ago)
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (5 months ago)
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (6 months ago)
@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.54.0](https://github.com/Wilfred/difftastic/releases/tag/0.54.0), today) - a structural diff that understands syntax 🟥🟩
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.44.3](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.44.3), 2 days ago) - OpenTelemetry Helm Charts
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.11](https://github.com/astral-sh/ruff/releases/tag/v0.1.11), 5 days ago) - An extremely fast Python linter and code formatter, written in Rust.
-- [starship/starship](https://github.com/starship/starship) ([v1.17.1](https://github.com/starship/starship/releases/tag/v1.17.1), 5 days ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.54.0](https://github.com/Wilfred/difftastic/releases/tag/0.54.0), 1 day ago) - a structural diff that understands syntax 🟥🟩
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.44.3](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.44.3), 3 days ago) - OpenTelemetry Helm Charts
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.11](https://github.com/astral-sh/ruff/releases/tag/v0.1.11), 6 days ago) - An extremely fast Python linter and code formatter, written in Rust.
+- [starship/starship](https://github.com/starship/starship) ([v1.17.1](https://github.com/starship/starship/releases/tag/v1.17.1), 6 days ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.3](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.3), 1 week ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
 
 
