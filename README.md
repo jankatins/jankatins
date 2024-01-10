@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.44.4](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.44.4), 2 days ago) - OpenTelemetry Helm Charts
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.78.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.78.0), today) - OpenTelemetry Helm Charts
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.54.0](https://github.com/Wilfred/difftastic/releases/tag/0.54.0), 3 days ago) - a structural diff that understands syntax 🟥🟩
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.11](https://github.com/astral-sh/ruff/releases/tag/v0.1.11), 1 week ago) - An extremely fast Python linter and code formatter, written in Rust.
 - [starship/starship](https://github.com/starship/starship) ([v1.17.1](https://github.com/starship/starship/releases/tag/v1.17.1), 1 week ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
