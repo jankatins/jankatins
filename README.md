@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.12](https://github.com/astral-sh/ruff/releases/tag/v0.1.12), 1 day ago) - An extremely fast Python linter and code formatter, written in Rust.
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) ([v0.1.13](https://github.com/astral-sh/ruff/releases/tag/v0.1.13), today) - An extremely fast Python linter and code formatter, written in Rust.
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.6.8](https://github.com/linkml/linkml/releases/tag/v1.6.8), 1 day ago) - Linked Open Data Modeling Language
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.45.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.45.0), 1 day ago) - OpenTelemetry Helm Charts
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.54.0](https://github.com/Wilfred/difftastic/releases/tag/0.54.0), 5 days ago) - a structural diff that understands syntax 🟥🟩
