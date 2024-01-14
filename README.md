@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.45.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.45.2), 1 day ago) - OpenTelemetry Helm Charts
-- [linkml/linkml](https://github.com/linkml/linkml) ([v1.6.8](https://github.com/linkml/linkml/releases/tag/v1.6.8), 2 days ago) - Linked Open Data Modeling Language
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.54.0](https://github.com/Wilfred/difftastic/releases/tag/0.54.0), 6 days ago) - a structural diff that understands syntax 🟥🟩
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.45.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.45.2), 2 days ago) - OpenTelemetry Helm Charts
+- [linkml/linkml](https://github.com/linkml/linkml) ([v1.6.8](https://github.com/linkml/linkml/releases/tag/v1.6.8), 3 days ago) - Linked Open Data Modeling Language
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.54.0](https://github.com/Wilfred/difftastic/releases/tag/0.54.0), 1 week ago) - a structural diff that understands syntax 🟥🟩
 - [starship/starship](https://github.com/starship/starship) ([v1.17.1](https://github.com/starship/starship/releases/tag/v1.17.1), 1 week ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.3](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.3), 2 weeks ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
 
