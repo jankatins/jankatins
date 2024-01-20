@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [linkml/linkml](https://github.com/linkml/linkml) ([v1.6.9](https://github.com/linkml/linkml/releases/tag/v1.6.9), today) - Linked Open Data Modeling Language
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.46.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.46.0), 2 days ago) - OpenTelemetry Helm Charts
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.17.0](https://github.com/mitsuhiko/rye/releases/tag/0.17.0), 4 days ago) - An Experimental Package Management Solution for Python
-- [linkml/linkml](https://github.com/linkml/linkml) ([v1.6.8](https://github.com/linkml/linkml/releases/tag/v1.6.8), 1 week ago) - Linked Open Data Modeling Language
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.54.0](https://github.com/Wilfred/difftastic/releases/tag/0.54.0), 1 week ago) - a structural diff that understands syntax 🟥🟩
 - [starship/starship](https://github.com/starship/starship) ([v1.17.1](https://github.com/starship/starship/releases/tag/v1.17.1), 2 weeks ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
