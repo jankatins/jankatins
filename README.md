@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.18.0](https://github.com/mitsuhiko/rye/releases/tag/0.18.0), 1 day ago) - An Experimental Package Management Solution for Python
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.19.0](https://github.com/mitsuhiko/rye/releases/tag/0.19.0), today) - An Experimental Package Management Solution for Python
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.6.9](https://github.com/linkml/linkml/releases/tag/v1.6.9), 1 day ago) - Linked Open Data Modeling Language
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.46.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.46.0), 3 days ago) - OpenTelemetry Helm Charts
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.54.0](https://github.com/Wilfred/difftastic/releases/tag/0.54.0), 2 weeks ago) - a structural diff that understands syntax 🟥🟩
