@@ -9,9 +9,9 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
+- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (today)
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (2 months ago)
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file). (3 months ago)
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (3 months ago)
 - [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (4 months ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (5 months ago)
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (6 months ago)
