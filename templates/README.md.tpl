@@ -2,8 +2,10 @@
 
 <img align="right" src="https://raw.githubusercontent.com/kreuzwerkerbot/kreuzwerkerbot/master/assets/xw.png" width="200">
 
-- 🌱 I'm a Python Software Engineer. If I'm not programming in Python, I dabble in SQL, Rust, and R.I like to automate away all the things which are annoying to do manually but are important to produce great software.
-- 💪 I've done a lot of data engineering work: I code reproducable and tested data pipelines with data models stakeholders can trust to make decisions upon.
+- 🌱 I'm a Python Software Engineer. If I'm not programming in Python, I dabble in SQL, Rust, and R. 
+  I like to automate away all the things which are annoying to do manually but are important to produce great software.
+- 💪 I've done a lot of data engineering work: I code reproducable and tested data pipelines with 
+  data models stakeholders can trust to make decisions upon.
 - 💞️ I like to tinker with my linux environment :-)
 - 📫 You can reach me via mail in English or German
 
