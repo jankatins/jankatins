@@ -24,11 +24,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.4](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.4), today) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.22.0](https://github.com/mitsuhiko/rye/releases/tag/0.22.0), 3 days ago) - a Hassle-Free Python Experience
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.7.2](https://github.com/linkml/linkml/releases/tag/v1.7.2), 4 days ago) - Linked Open Data Modeling Language
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.47.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.47.0), 6 days ago) - OpenTelemetry Helm Charts
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.55.0](https://github.com/Wilfred/difftastic/releases/tag/0.55.0), 1 week ago) - a structural diff that understands syntax 🟥🟩
-- [starship/starship](https://github.com/starship/starship) ([v1.17.1](https://github.com/starship/starship/releases/tag/v1.17.1), 1 month ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
 
 #### ✨ Stats
