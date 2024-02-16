@@ -12,6 +12,7 @@
 #### 👩‍💻 Check out what I'm currently working on
 
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (today)
+- [zanieb/packse](https://github.com/zanieb/packse) - Python packaging scenarios (today)
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (3 months ago)
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file). (3 months ago)
 - [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (5 months ago)
@@ -20,7 +21,6 @@
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (7 months ago)
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (8 months ago)
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - a Hassle-Free Python Experience (8 months ago)
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (9 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
