@@ -24,8 +24,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.29.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.29.0), today) - OpenTelemetry Helm Charts
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.25.0](https://github.com/mitsuhiko/rye/releases/tag/0.25.0), 1 day ago) - a Hassle-Free Python Experience
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.81.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.81.1), 5 days ago) - OpenTelemetry Helm Charts
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.7.4](https://github.com/linkml/linkml/releases/tag/v1.7.4), 5 days ago) - Linked Open Data Modeling Language
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.4](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.4), 1 week ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.55.0](https://github.com/Wilfred/difftastic/releases/tag/0.55.0), 2 weeks ago) - a structural diff that understands syntax 🟥🟩
