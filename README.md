@@ -24,11 +24,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [zanieb/packse](https://github.com/zanieb/packse) ([0.1.0](https://github.com/zanieb/packse/releases/tag/0.1.0), today) - Python packaging scenarios
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.47.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.47.1), 1 day ago) - OpenTelemetry Helm Charts
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.26.0](https://github.com/mitsuhiko/rye/releases/tag/0.26.0), 1 day ago) - a Hassle-Free Python Experience
 - [dalibo/pev2](https://github.com/dalibo/pev2) ([v1.9.1](https://github.com/dalibo/pev2/releases/tag/v1.9.1), 3 days ago) - Postgres Explain Visualizer 2
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.7.4](https://github.com/linkml/linkml/releases/tag/v1.7.4), 1 week ago) - Linked Open Data Modeling Language
-- [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.4](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.4), 1 week ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
 
 
 #### ✨ Stats
