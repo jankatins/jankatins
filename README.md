@@ -24,8 +24,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.82.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.82.0), today) - OpenTelemetry Helm Charts
 - [zanieb/packse](https://github.com/zanieb/packse) ([0.2.0](https://github.com/zanieb/packse/releases/tag/0.2.0), 1 day ago) - Python packaging scenarios
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.47.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.47.1), 2 days ago) - OpenTelemetry Helm Charts
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.26.0](https://github.com/mitsuhiko/rye/releases/tag/0.26.0), 2 days ago) - a Hassle-Free Python Experience
 - [dalibo/pev2](https://github.com/dalibo/pev2) ([v1.9.1](https://github.com/dalibo/pev2/releases/tag/v1.9.1), 4 days ago) - Postgres Explain Visualizer 2
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.7.4](https://github.com/linkml/linkml/releases/tag/v1.7.4), 1 week ago) - Linked Open Data Modeling Language
