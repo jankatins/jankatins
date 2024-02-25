@@ -11,7 +11,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (6 days ago)
+- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (1 week ago)
 - [zanieb/packse](https://github.com/zanieb/packse) - Python packaging scenarios (1 week ago)
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (3 months ago)
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file). (3 months ago)
@@ -24,10 +24,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [zanieb/packse](https://github.com/zanieb/packse) ([0.2.0](https://github.com/zanieb/packse/releases/tag/0.2.0), today) - Python packaging scenarios
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.47.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.47.1), 1 day ago) - OpenTelemetry Helm Charts
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.26.0](https://github.com/mitsuhiko/rye/releases/tag/0.26.0), 1 day ago) - a Hassle-Free Python Experience
-- [dalibo/pev2](https://github.com/dalibo/pev2) ([v1.9.1](https://github.com/dalibo/pev2/releases/tag/v1.9.1), 3 days ago) - Postgres Explain Visualizer 2
+- [zanieb/packse](https://github.com/zanieb/packse) ([0.2.0](https://github.com/zanieb/packse/releases/tag/0.2.0), 1 day ago) - Python packaging scenarios
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.47.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.47.1), 2 days ago) - OpenTelemetry Helm Charts
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) ([0.26.0](https://github.com/mitsuhiko/rye/releases/tag/0.26.0), 2 days ago) - a Hassle-Free Python Experience
+- [dalibo/pev2](https://github.com/dalibo/pev2) ([v1.9.1](https://github.com/dalibo/pev2/releases/tag/v1.9.1), 4 days ago) - Postgres Explain Visualizer 2
 - [linkml/linkml](https://github.com/linkml/linkml) ([v1.7.4](https://github.com/linkml/linkml/releases/tag/v1.7.4), 1 week ago) - Linked Open Data Modeling Language
 
 
