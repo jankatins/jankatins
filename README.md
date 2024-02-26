@@ -11,6 +11,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
+- [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#) (today)
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (1 week ago)
 - [zanieb/packse](https://github.com/zanieb/packse) - Python packaging scenarios (1 week ago)
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (3 months ago)
@@ -20,7 +21,6 @@
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (7 months ago)
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (7 months ago)
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (8 months ago)
-- [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience (9 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -28,7 +28,7 @@
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.48.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.48.0), today) - OpenTelemetry Helm Charts
 - [zanieb/packse](https://github.com/zanieb/packse) ([0.2.0](https://github.com/zanieb/packse/releases/tag/0.2.0), 2 days ago) - Python packaging scenarios
 - [dalibo/pev2](https://github.com/dalibo/pev2) ([v1.9.1](https://github.com/dalibo/pev2/releases/tag/v1.9.1), 5 days ago) - Postgres Explain Visualizer 2
-- [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.4](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.4), 2 weeks ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
+- [grpc/grpc](https://github.com/grpc/grpc) ([v1.62.0](https://github.com/grpc/grpc/releases/tag/v1.62.0), 6 days ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
 
 
 #### ✨ Stats
