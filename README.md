@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.82.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.82.0), 1 day ago) - OpenTelemetry Helm Charts
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.48.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.48.0), today) - OpenTelemetry Helm Charts
 - [zanieb/packse](https://github.com/zanieb/packse) ([0.2.0](https://github.com/zanieb/packse/releases/tag/0.2.0), 2 days ago) - Python packaging scenarios
 - [astral-sh/rye](https://github.com/astral-sh/rye) ([0.26.0](https://github.com/astral-sh/rye/releases/tag/0.26.0), 3 days ago) - a Hassle-Free Python Experience
 - [dalibo/pev2](https://github.com/dalibo/pev2) ([v1.9.1](https://github.com/dalibo/pev2/releases/tag/v1.9.1), 5 days ago) - Postgres Explain Visualizer 2
