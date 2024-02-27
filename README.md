@@ -11,7 +11,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#) (today)
+- [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#) (1 day ago)
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (1 week ago)
 - [zanieb/packse](https://github.com/zanieb/packse) - Python packaging scenarios (1 week ago)
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (3 months ago)
@@ -24,11 +24,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [astral-sh/rye](https://github.com/astral-sh/rye) ([0.27.0](https://github.com/astral-sh/rye/releases/tag/0.27.0), today) - a Hassle-Free Python Experience
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.48.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.48.0), today) - OpenTelemetry Helm Charts
-- [zanieb/packse](https://github.com/zanieb/packse) ([0.2.0](https://github.com/zanieb/packse/releases/tag/0.2.0), 2 days ago) - Python packaging scenarios
-- [dalibo/pev2](https://github.com/dalibo/pev2) ([v1.9.1](https://github.com/dalibo/pev2/releases/tag/v1.9.1), 5 days ago) - Postgres Explain Visualizer 2
-- [grpc/grpc](https://github.com/grpc/grpc) ([v1.62.0](https://github.com/grpc/grpc/releases/tag/v1.62.0), 6 days ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
+- [astral-sh/rye](https://github.com/astral-sh/rye) ([0.27.0](https://github.com/astral-sh/rye/releases/tag/0.27.0), 1 day ago) - a Hassle-Free Python Experience
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.48.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.48.0), 1 day ago) - OpenTelemetry Helm Charts
+- [zanieb/packse](https://github.com/zanieb/packse) ([0.2.0](https://github.com/zanieb/packse/releases/tag/0.2.0), 3 days ago) - Python packaging scenarios
+- [dalibo/pev2](https://github.com/dalibo/pev2) ([v1.9.1](https://github.com/dalibo/pev2/releases/tag/v1.9.1), 6 days ago) - Postgres Explain Visualizer 2
+- [grpc/grpc](https://github.com/grpc/grpc) ([v1.62.0](https://github.com/grpc/grpc/releases/tag/v1.62.0), 1 week ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
 
 
 #### ✨ Stats
