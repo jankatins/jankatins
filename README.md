@@ -24,11 +24,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.5](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.5), today) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
 - [astral-sh/rye](https://github.com/astral-sh/rye) ([0.27.0](https://github.com/astral-sh/rye/releases/tag/0.27.0), 2 days ago) - a Hassle-Free Python Experience
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.48.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.48.0), 2 days ago) - OpenTelemetry Helm Charts
 - [zanieb/packse](https://github.com/zanieb/packse) ([0.2.0](https://github.com/zanieb/packse/releases/tag/0.2.0), 4 days ago) - Python packaging scenarios
 - [dalibo/pev2](https://github.com/dalibo/pev2) ([v1.9.1](https://github.com/dalibo/pev2/releases/tag/v1.9.1), 1 week ago) - Postgres Explain Visualizer 2
-- [grpc/grpc](https://github.com/grpc/grpc) ([v1.62.0](https://github.com/grpc/grpc/releases/tag/v1.62.0), 1 week ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
 
 
 #### ✨ Stats
