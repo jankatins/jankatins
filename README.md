@@ -24,8 +24,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.3](https://github.com/astral-sh/packse/releases/tag/0.3.3), today) - Python packaging scenarios
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.56.1](https://github.com/Wilfred/difftastic/releases/tag/0.56.1), today) - a structural diff that understands syntax 🟥🟩
+- [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.4](https://github.com/astral-sh/packse/releases/tag/0.3.4), today) - Python packaging scenarios
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.56.1](https://github.com/Wilfred/difftastic/releases/tag/0.56.1), 1 day ago) - a structural diff that understands syntax 🟥🟩
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.5](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.5), 1 week ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
 - [astral-sh/rye](https://github.com/astral-sh/rye) ([0.27.0](https://github.com/astral-sh/rye/releases/tag/0.27.0), 1 week ago) - a Hassle-Free Python Experience
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.48.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.48.0), 1 week ago) - OpenTelemetry Helm Charts
