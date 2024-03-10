@@ -11,9 +11,9 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (today)
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 day ago)
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#) (1 week ago)
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (2 weeks ago)
+- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (3 weeks ago)
 - [astral-sh/packse](https://github.com/astral-sh/packse) - Python packaging scenarios (3 weeks ago)
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (3 months ago)
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file). (4 months ago)
@@ -24,10 +24,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grpc/grpc](https://github.com/grpc/grpc) ([v1.62.1](https://github.com/grpc/grpc/releases/tag/v1.62.1), 1 day ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
-- [astral-sh/rye](https://github.com/astral-sh/rye) ([0.28.0](https://github.com/astral-sh/rye/releases/tag/0.28.0), 2 days ago) - a Hassle-Free Python Experience
-- [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.7](https://github.com/astral-sh/packse/releases/tag/0.3.7), 2 days ago) - Python packaging scenarios
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.56.1](https://github.com/Wilfred/difftastic/releases/tag/0.56.1), 3 days ago) - a structural diff that understands syntax 🟥🟩
+- [grpc/grpc](https://github.com/grpc/grpc) ([v1.62.1](https://github.com/grpc/grpc/releases/tag/v1.62.1), 2 days ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
+- [astral-sh/rye](https://github.com/astral-sh/rye) ([0.28.0](https://github.com/astral-sh/rye/releases/tag/0.28.0), 3 days ago) - a Hassle-Free Python Experience
+- [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.7](https://github.com/astral-sh/packse/releases/tag/0.3.7), 3 days ago) - Python packaging scenarios
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.56.1](https://github.com/Wilfred/difftastic/releases/tag/0.56.1), 4 days ago) - a structural diff that understands syntax 🟥🟩
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.5](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.5), 1 week ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
 
 
