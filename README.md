@@ -24,11 +24,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.83.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.83.0), today) - OpenTelemetry Helm Charts
 - [astral-sh/rye](https://github.com/astral-sh/rye) ([0.29.0](https://github.com/astral-sh/rye/releases/tag/0.29.0), today) - a Hassle-Free Python Experience
 - [grpc/grpc](https://github.com/grpc/grpc) ([v1.62.1](https://github.com/grpc/grpc/releases/tag/v1.62.1), 3 days ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
 - [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.7](https://github.com/astral-sh/packse/releases/tag/0.3.7), 4 days ago) - Python packaging scenarios
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.0.0](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.0.0), 5 days ago) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.56.1](https://github.com/Wilfred/difftastic/releases/tag/0.56.1), 5 days ago) - a structural diff that understands syntax 🟥🟩
 
 
 #### ✨ Stats
