@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.8](https://github.com/astral-sh/packse/releases/tag/0.3.8), today) - Python packaging scenarios
+- [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.9](https://github.com/astral-sh/packse/releases/tag/0.3.9), today) - Python packaging scenarios
 - [grpc/grpc](https://github.com/grpc/grpc) ([v1.61.2](https://github.com/grpc/grpc/releases/tag/v1.61.2), 3 days ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.49.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.49.0), 3 days ago) - OpenTelemetry Helm Charts
 - [astral-sh/rye](https://github.com/astral-sh/rye) ([0.29.0](https://github.com/astral-sh/rye/releases/tag/0.29.0), 3 days ago) - a Hassle-Free Python Experience
