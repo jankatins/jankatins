@@ -24,11 +24,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.50.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.50.0), today) - OpenTelemetry Helm Charts
-- [astral-sh/rye](https://github.com/astral-sh/rye) ([0.30.0](https://github.com/astral-sh/rye/releases/tag/0.30.0), 1 day ago) - a Hassle-Free Python Experience
-- [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.6](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.6), 1 day ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
-- [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.1.0](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.1.0), 1 day ago) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
-- [dalibo/pev2](https://github.com/dalibo/pev2) ([v1.10.0](https://github.com/dalibo/pev2/releases/tag/v1.10.0), 2 days ago) - Postgres Explain Visualizer 2
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.50.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.50.0), 1 day ago) - OpenTelemetry Helm Charts
+- [astral-sh/rye](https://github.com/astral-sh/rye) ([0.30.0](https://github.com/astral-sh/rye/releases/tag/0.30.0), 2 days ago) - a Hassle-Free Python Experience
+- [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.6](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.6), 2 days ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
+- [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.1.0](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.1.0), 2 days ago) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
+- [dalibo/pev2](https://github.com/dalibo/pev2) ([v1.10.0](https://github.com/dalibo/pev2/releases/tag/v1.10.0), 3 days ago) - Postgres Explain Visualizer 2
 
 
 #### ✨ Stats
