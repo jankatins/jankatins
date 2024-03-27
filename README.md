@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.52.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.52.2), 2 days ago) - OpenTelemetry Helm Charts
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.52.3](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.52.3), today) - OpenTelemetry Helm Charts
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.2.0](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.2.0), 3 days ago) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
 - [starship/starship](https://github.com/starship/starship) ([v1.18.1](https://github.com/starship/starship/releases/tag/v1.18.1), 3 days ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [astral-sh/rye](https://github.com/astral-sh/rye) ([0.31.0](https://github.com/astral-sh/rye/releases/tag/0.31.0), 5 days ago) - a Hassle-Free Python Experience
