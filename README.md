@@ -24,10 +24,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.3.0](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.3.0), today) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
 - [starship/starship](https://github.com/starship/starship) ([v1.18.2](https://github.com/starship/starship/releases/tag/v1.18.2), 3 days ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [astral-sh/rye](https://github.com/astral-sh/rye) ([0.32.0](https://github.com/astral-sh/rye/releases/tag/0.32.0), 3 days ago) - a Hassle-Free Python Experience
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.86.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.86.0), 4 days ago) - OpenTelemetry Helm Charts
-- [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.2.0](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.2.0), 1 week ago) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.6](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.6), 1 week ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
 
 
