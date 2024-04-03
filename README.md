@@ -20,15 +20,15 @@
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file). (5 months ago)
 - [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (6 months ago)
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (8 months ago)
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (8 months ago)
+- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (9 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.3.1](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.3.1), today) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.57.0](https://github.com/Wilfred/difftastic/releases/tag/0.57.0), today) - a structural diff that understands syntax 🟥🟩
-- [starship/starship](https://github.com/starship/starship) ([v1.18.2](https://github.com/starship/starship/releases/tag/v1.18.2), 4 days ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [astral-sh/rye](https://github.com/astral-sh/rye) ([0.32.0](https://github.com/astral-sh/rye/releases/tag/0.32.0), 4 days ago) - a Hassle-Free Python Experience
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.86.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.86.0), 5 days ago) - OpenTelemetry Helm Charts
+- [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.3.1](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.3.1), 1 day ago) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.57.0](https://github.com/Wilfred/difftastic/releases/tag/0.57.0), 1 day ago) - a structural diff that understands syntax 🟥🟩
+- [starship/starship](https://github.com/starship/starship) ([v1.18.2](https://github.com/starship/starship/releases/tag/v1.18.2), 5 days ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [astral-sh/rye](https://github.com/astral-sh/rye) ([0.32.0](https://github.com/astral-sh/rye/releases/tag/0.32.0), 5 days ago) - a Hassle-Free Python Experience
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.86.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.86.0), 6 days ago) - OpenTelemetry Helm Charts
 
 
 #### ✨ Stats
