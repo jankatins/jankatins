@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.86.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.86.2), today) - OpenTelemetry Helm Charts
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.53.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.53.1), today) - OpenTelemetry Helm Charts
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.3.1](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.3.1), 3 days ago) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.57.0](https://github.com/Wilfred/difftastic/releases/tag/0.57.0), 3 days ago) - a structural diff that understands syntax 🟥🟩
 - [starship/starship](https://github.com/starship/starship) ([v1.18.2](https://github.com/starship/starship/releases/tag/v1.18.2), 1 week ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
