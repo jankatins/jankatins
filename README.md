@@ -11,7 +11,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (6 days ago)
+- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (1 week ago)
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests. (1 month ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 month ago)
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#) (1 month ago)
@@ -24,10 +24,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grpc/grpc](https://github.com/grpc/grpc) ([v1.62.2](https://github.com/grpc/grpc/releases/tag/v1.62.2), 1 day ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
-- [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.6.2](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.6.2), 1 day ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
-- [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.4.0](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.4.0), 1 day ago) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.55.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.55.2), 2 days ago) - OpenTelemetry Helm Charts
+- [grpc/grpc](https://github.com/grpc/grpc) ([v1.62.2](https://github.com/grpc/grpc/releases/tag/v1.62.2), 2 days ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
+- [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.6.2](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.6.2), 2 days ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
+- [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.4.0](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.4.0), 2 days ago) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.55.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.55.2), 3 days ago) - OpenTelemetry Helm Charts
 - [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.14](https://github.com/astral-sh/packse/releases/tag/0.3.14), 1 week ago) - Python packaging scenarios
 
 
