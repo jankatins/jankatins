@@ -24,10 +24,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grpc/grpc](https://github.com/grpc/grpc) ([v1.63.0](https://github.com/grpc/grpc/releases/tag/v1.63.0), 3 days ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.90.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.90.1), 4 days ago) - OpenTelemetry Helm Charts
-- [astral-sh/rye](https://github.com/astral-sh/rye) ([0.33.0](https://github.com/astral-sh/rye/releases/tag/0.33.0), 5 days ago) - a Hassle-Free Python Experience
-- [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.15](https://github.com/astral-sh/packse/releases/tag/0.3.15), 5 days ago) - Python packaging scenarios
+- [grpc/grpc](https://github.com/grpc/grpc) ([v1.63.0](https://github.com/grpc/grpc/releases/tag/v1.63.0), 4 days ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.90.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.90.1), 5 days ago) - OpenTelemetry Helm Charts
+- [astral-sh/rye](https://github.com/astral-sh/rye) ([0.33.0](https://github.com/astral-sh/rye/releases/tag/0.33.0), 6 days ago) - a Hassle-Free Python Experience
+- [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.15](https://github.com/astral-sh/packse/releases/tag/0.3.15), 6 days ago) - Python packaging scenarios
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.6.2](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.6.2), 1 week ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
 
 
