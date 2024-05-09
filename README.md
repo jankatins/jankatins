@@ -12,7 +12,7 @@
 #### 👩‍💻 Check out what I'm currently working on
 
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (3 weeks ago)
-- [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests. (1 month ago)
+- [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests. (2 months ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (2 months ago)
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#) (2 months ago)
 - [astral-sh/packse](https://github.com/astral-sh/packse) - Python packaging scenarios (2 months ago)
@@ -24,8 +24,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grpc/grpc](https://github.com/grpc/grpc) ([v1.64.0-pre1](https://github.com/grpc/grpc/releases/tag/v1.64.0-pre1), 1 day ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.56.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.56.1), 2 days ago) - OpenTelemetry Helm Charts
+- [grpc/grpc](https://github.com/grpc/grpc) ([v1.64.0-pre1](https://github.com/grpc/grpc/releases/tag/v1.64.0-pre1), 2 days ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.56.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.56.1), 3 days ago) - OpenTelemetry Helm Charts
 - [astral-sh/rye](https://github.com/astral-sh/rye) ([0.33.0](https://github.com/astral-sh/rye/releases/tag/0.33.0), 2 weeks ago) - a Hassle-Free Python Experience
 - [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.15](https://github.com/astral-sh/packse/releases/tag/0.3.15), 2 weeks ago) - Python packaging scenarios
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.6.2](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.6.2), 3 weeks ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
