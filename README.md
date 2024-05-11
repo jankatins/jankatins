@@ -24,11 +24,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.58.0](https://github.com/Wilfred/difftastic/releases/tag/0.58.0), today) - a structural diff that understands syntax 🟥🟩
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.5](https://github.com/cantino/mcfly/releases/tag/v0.8.5), today) - Fly through your shell history. Great Scott!
 - [grpc/grpc](https://github.com/grpc/grpc) ([v1.64.0-pre2](https://github.com/grpc/grpc/releases/tag/v1.64.0-pre2), 2 days ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.57.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.57.0), 2 days ago) - OpenTelemetry Helm Charts
 - [astral-sh/rye](https://github.com/astral-sh/rye) ([0.33.0](https://github.com/astral-sh/rye/releases/tag/0.33.0), 2 weeks ago) - a Hassle-Free Python Experience
-- [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.15](https://github.com/astral-sh/packse/releases/tag/0.3.15), 2 weeks ago) - Python packaging scenarios
 
 
 #### ✨ Stats
