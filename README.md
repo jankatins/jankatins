@@ -26,9 +26,9 @@
 
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.5.0](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.5.0), 3 days ago) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.92.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.92.0), 1 week ago) - OpenTelemetry Helm Charts
-- [astral-sh/rye](https://github.com/astral-sh/rye) ([0.34.0](https://github.com/astral-sh/rye/releases/tag/0.34.0), 1 week ago) - a Hassle-Free Python Experience
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.6](https://github.com/cantino/mcfly/releases/tag/v0.8.6), 1 week ago) - Fly through your shell history. Great Scott!
 - [grpc/grpc](https://github.com/grpc/grpc) ([v1.64.0](https://github.com/grpc/grpc/releases/tag/v1.64.0), 1 week ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
+- [starship/starship](https://github.com/starship/starship) ([v1.19.0](https://github.com/starship/starship/releases/tag/v1.19.0), 1 week ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
 
 #### ✨ Stats
