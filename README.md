@@ -24,9 +24,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grpc/grpc](https://github.com/grpc/grpc) ([v1.63.1](https://github.com/grpc/grpc/releases/tag/v1.63.1), today) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.61.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.61.0), today) - OpenTelemetry Helm Charts
-- [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.5.0](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.5.0), 4 days ago) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
+- [grpc/grpc](https://github.com/grpc/grpc) ([v1.63.1](https://github.com/grpc/grpc/releases/tag/v1.63.1), 1 day ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.61.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.61.0), 1 day ago) - OpenTelemetry Helm Charts
+- [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.5.0](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.5.0), 5 days ago) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.6](https://github.com/cantino/mcfly/releases/tag/v0.8.6), 1 week ago) - Fly through your shell history. Great Scott!
 - [starship/starship](https://github.com/starship/starship) ([v1.19.0](https://github.com/starship/starship/releases/tag/v1.19.0), 2 weeks ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
