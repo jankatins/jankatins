@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.16](https://github.com/astral-sh/packse/releases/tag/0.3.16), today) - Python packaging scenarios
+- [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.17](https://github.com/astral-sh/packse/releases/tag/0.3.17), today) - Python packaging scenarios
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.9.0](https://github.com/cantino/mcfly/releases/tag/v0.9.0), 3 days ago) - Fly through your shell history. Great Scott!
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.5.1](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.5.1), 4 days ago) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
 - [grpc/grpc](https://github.com/grpc/grpc) ([v1.64.1](https://github.com/grpc/grpc/releases/tag/v1.64.1), 5 days ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
