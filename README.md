@@ -24,10 +24,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.7.2](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.7.2), 1 day ago) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
-- [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.30](https://github.com/astral-sh/packse/releases/tag/0.3.30), 1 day ago) - Python packaging scenarios
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.32.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.32.1), 4 days ago) - OpenTelemetry Helm Charts
-- [grpc/grpc](https://github.com/grpc/grpc) ([v1.65.0](https://github.com/grpc/grpc/releases/tag/v1.65.0), 2 weeks ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
+- [grpc/grpc](https://github.com/grpc/grpc) ([v1.65.1](https://github.com/grpc/grpc/releases/tag/v1.65.1), 1 day ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
+- [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.7.2](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.7.2), 2 days ago) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
+- [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.30](https://github.com/astral-sh/packse/releases/tag/0.3.30), 2 days ago) - Python packaging scenarios
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.32.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.32.1), 5 days ago) - OpenTelemetry Helm Charts
 - [starship/starship](https://github.com/starship/starship) ([v1.19.0](https://github.com/starship/starship/releases/tag/v1.19.0), 2 months ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
 
