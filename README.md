@@ -11,7 +11,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests. (2 weeks ago)
+- [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests. (3 weeks ago)
 - [isotopp/isotopp.github.io](https://github.com/isotopp/isotopp.github.io) - https://blog.koehntopp.info, previously named https://isotopp.github.io (1 month ago)
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (1 month ago)
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (3 months ago)
@@ -24,10 +24,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.32.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.32.2), today) - OpenTelemetry Helm Charts
-- [grpc/grpc](https://github.com/grpc/grpc) ([v1.65.1](https://github.com/grpc/grpc/releases/tag/v1.65.1), 2 days ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
-- [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.7.2](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.7.2), 3 days ago) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
-- [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.30](https://github.com/astral-sh/packse/releases/tag/0.3.30), 3 days ago) - Python packaging scenarios
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.32.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.32.2), 1 day ago) - OpenTelemetry Helm Charts
+- [grpc/grpc](https://github.com/grpc/grpc) ([v1.65.1](https://github.com/grpc/grpc/releases/tag/v1.65.1), 3 days ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
+- [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.7.2](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.7.2), 4 days ago) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
+- [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.30](https://github.com/astral-sh/packse/releases/tag/0.3.30), 4 days ago) - Python packaging scenarios
 - [starship/starship](https://github.com/starship/starship) ([v1.19.0](https://github.com/starship/starship/releases/tag/v1.19.0), 2 months ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
 
