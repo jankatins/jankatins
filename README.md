@@ -20,7 +20,6 @@
 - [astral-sh/packse](https://github.com/astral-sh/packse) - Python packaging scenarios (5 months ago)
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file). (8 months ago)
 - [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (10 months ago)
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
