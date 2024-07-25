@@ -23,10 +23,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.31](https://github.com/astral-sh/packse/releases/tag/0.3.31), today) - Python packaging scenarios
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.7](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.7), 2 days ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
 - [grpc/grpc](https://github.com/grpc/grpc) ([v1.65.1](https://github.com/grpc/grpc/releases/tag/v1.65.1), 1 week ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.7.2](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.7.2), 1 week ago) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
-- [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.30](https://github.com/astral-sh/packse/releases/tag/0.3.30), 1 week ago) - Python packaging scenarios
 - [starship/starship](https://github.com/starship/starship) ([v1.19.0](https://github.com/starship/starship/releases/tag/v1.19.0), 2 months ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
 
