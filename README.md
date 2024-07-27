@@ -23,7 +23,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [starship/starship](https://github.com/starship/starship) ([v1.20.0](https://github.com/starship/starship/releases/tag/v1.20.0), 1 day ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [starship/starship](https://github.com/starship/starship) ([v1.20.1](https://github.com/starship/starship/releases/tag/v1.20.1), today) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [grpc/grpc](https://github.com/grpc/grpc) ([v1.65.2](https://github.com/grpc/grpc/releases/tag/v1.65.2), 1 day ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
 - [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.31](https://github.com/astral-sh/packse/releases/tag/0.3.31), 2 days ago) - Python packaging scenarios
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.7](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.7), 4 days ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
