@@ -11,8 +11,8 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (today)
-- [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup (today)
+- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (1 day ago)
+- [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup (1 day ago)
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests. (1 month ago)
 - [isotopp/isotopp.github.io](https://github.com/isotopp/isotopp.github.io) - https://blog.koehntopp.info, previously named https://isotopp.github.io (1 month ago)
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (2 months ago)
@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grpc/grpc](https://github.com/grpc/grpc) ([v1.66.0-pre2](https://github.com/grpc/grpc/releases/tag/v1.66.0-pre2), 1 day ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
+- [grpc/grpc](https://github.com/grpc/grpc) ([v1.66.0-pre2](https://github.com/grpc/grpc/releases/tag/v1.66.0-pre2), 2 days ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
 - [starship/starship](https://github.com/starship/starship) ([v1.20.1](https://github.com/starship/starship/releases/tag/v1.20.1), 1 week ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.31](https://github.com/astral-sh/packse/releases/tag/0.3.31), 1 week ago) - Python packaging scenarios
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.7](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.7), 1 week ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
