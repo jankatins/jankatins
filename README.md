@@ -11,8 +11,8 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (3 days ago)
-- [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup (3 days ago)
+- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (4 days ago)
+- [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup (4 days ago)
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests. (1 month ago)
 - [isotopp/isotopp.github.io](https://github.com/isotopp/isotopp.github.io) - https://blog.koehntopp.info, previously named https://isotopp.github.io (1 month ago)
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (2 months ago)
@@ -24,8 +24,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.32](https://github.com/astral-sh/packse/releases/tag/0.3.32), today) - Python packaging scenarios
-- [grpc/grpc](https://github.com/grpc/grpc) ([v1.66.0-pre2](https://github.com/grpc/grpc/releases/tag/v1.66.0-pre2), 4 days ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
+- [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.32](https://github.com/astral-sh/packse/releases/tag/0.3.32), 1 day ago) - Python packaging scenarios
+- [grpc/grpc](https://github.com/grpc/grpc) ([v1.66.0-pre2](https://github.com/grpc/grpc/releases/tag/v1.66.0-pre2), 5 days ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
 - [starship/starship](https://github.com/starship/starship) ([v1.20.1](https://github.com/starship/starship/releases/tag/v1.20.1), 1 week ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.7](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.7), 2 weeks ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.7.2](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.7.2), 3 weeks ago) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
