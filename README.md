@@ -18,17 +18,17 @@
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (2 months ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (5 months ago)
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#) (5 months ago)
-- [astral-sh/packse](https://github.com/astral-sh/packse) - Python packaging scenarios (5 months ago)
+- [astral-sh/packse](https://github.com/astral-sh/packse) - Python packaging scenarios (6 months ago)
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file). (9 months ago)
 - [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.34](https://github.com/astral-sh/packse/releases/tag/0.3.34), 4 days ago) - Python packaging scenarios
-- [grpc/grpc](https://github.com/grpc/grpc) ([v1.66.0-pre3](https://github.com/grpc/grpc/releases/tag/v1.66.0-pre3), 6 days ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
+- [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.34](https://github.com/astral-sh/packse/releases/tag/0.3.34), 5 days ago) - Python packaging scenarios
+- [grpc/grpc](https://github.com/grpc/grpc) ([v1.66.0-pre3](https://github.com/grpc/grpc/releases/tag/v1.66.0-pre3), 1 week ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
 - [starship/starship](https://github.com/starship/starship) ([v1.20.1](https://github.com/starship/starship/releases/tag/v1.20.1), 2 weeks ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.2.7](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.2.7), 3 weeks ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
-- [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.7.2](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.7.2), 4 weeks ago) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
+- [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.7.2](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.7.2), 1 month ago) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
 
 
 #### ✨ Stats
