@@ -18,7 +18,6 @@
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#) (6 months ago)
 - [astral-sh/packse](https://github.com/astral-sh/packse) - Python packaging scenarios (7 months ago)
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file). (10 months ago)
-- [jankatins/yep](https://github.com/jankatins/yep) - yep: yet another package manager for local cli commands (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
