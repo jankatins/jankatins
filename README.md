@@ -14,14 +14,14 @@
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests. (3 months ago)
 - [isotopp/isotopp.github.io](https://github.com/isotopp/isotopp.github.io) - https://blog.koehntopp.info, previously named https://isotopp.github.io (3 months ago)
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (4 months ago)
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (6 months ago)
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (7 months ago)
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#) (7 months ago)
 - [astral-sh/packse](https://github.com/astral-sh/packse) - Python packaging scenarios (7 months ago)
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file). (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grpc/grpc](https://github.com/grpc/grpc) ([v1.66.2](https://github.com/grpc/grpc/releases/tag/v1.66.2), 6 days ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
+- [grpc/grpc](https://github.com/grpc/grpc) ([v1.66.2](https://github.com/grpc/grpc/releases/tag/v1.66.2), 1 week ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.8.1](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.8.1), 1 month ago) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
 - [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.34](https://github.com/astral-sh/packse/releases/tag/0.3.34), 1 month ago) - Python packaging scenarios
 - [starship/starship](https://github.com/starship/starship) ([v1.20.1](https://github.com/starship/starship/releases/tag/v1.20.1), 2 months ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
