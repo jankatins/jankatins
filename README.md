@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [P403n1x87/austin](https://github.com/P403n1x87/austin) ([v3.7.0](https://github.com/P403n1x87/austin/releases/tag/v3.7.0), 1 day ago) - Python frame stack sampler for CPython
-- [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.8.2](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.8.2), 1 day ago) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
+- [P403n1x87/austin](https://github.com/P403n1x87/austin) ([v3.7.0](https://github.com/P403n1x87/austin/releases/tag/v3.7.0), 2 days ago) - Python frame stack sampler for CPython
+- [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.8.2](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.8.2), 2 days ago) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
 - [grpc/grpc](https://github.com/grpc/grpc) ([v1.67.0](https://github.com/grpc/grpc/releases/tag/v1.67.0), 1 week ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
 - [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.34](https://github.com/astral-sh/packse/releases/tag/0.3.34), 2 months ago) - Python packaging scenarios
 - [starship/starship](https://github.com/starship/starship) ([v1.20.1](https://github.com/starship/starship/releases/tag/v1.20.1), 2 months ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
