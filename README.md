@@ -16,14 +16,14 @@
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests. (3 months ago)
 - [isotopp/isotopp.github.io](https://github.com/isotopp/isotopp.github.io) - https://blog.koehntopp.info, previously named https://isotopp.github.io (4 months ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (7 months ago)
-- [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#) (7 months ago)
+- [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#) (8 months ago)
 - [astral-sh/packse](https://github.com/astral-sh/packse) - Python packaging scenarios (8 months ago)
 - [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file). (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.3.0](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.3.0), 3 days ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
-- [starship/starship](https://github.com/starship/starship) ([v1.21.1](https://github.com/starship/starship/releases/tag/v1.21.1), 4 days ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [so1n/protobuf_to_pydantic](https://github.com/so1n/protobuf_to_pydantic) ([v0.3.0](https://github.com/so1n/protobuf_to_pydantic/releases/tag/v0.3.0), 4 days ago) - Generate a pydantic.BaseModel with parameter verification function from the Python Message object(by the Protobuf file).
+- [starship/starship](https://github.com/starship/starship) ([v1.21.1](https://github.com/starship/starship/releases/tag/v1.21.1), 5 days ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [P403n1x87/austin](https://github.com/P403n1x87/austin) ([v3.7.0](https://github.com/P403n1x87/austin/releases/tag/v3.7.0), 1 week ago) - Python frame stack sampler for CPython
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.8.2](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.8.2), 1 week ago) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
 - [grpc/grpc](https://github.com/grpc/grpc) ([v1.67.0](https://github.com/grpc/grpc/releases/tag/v1.67.0), 2 weeks ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
