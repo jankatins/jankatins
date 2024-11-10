@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.39](https://github.com/astral-sh/packse/releases/tag/0.3.39), 5 days ago) - Python packaging scenarios
+- [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.39](https://github.com/astral-sh/packse/releases/tag/0.3.39), 6 days ago) - Python packaging scenarios
 - [grpc/grpc](https://github.com/grpc/grpc) ([v1.68.0-pre1](https://github.com/grpc/grpc/releases/tag/v1.68.0-pre1), 1 week ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
 - [starship/starship](https://github.com/starship/starship) ([v1.21.1](https://github.com/starship/starship/releases/tag/v1.21.1), 3 weeks ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [P403n1x87/austin](https://github.com/P403n1x87/austin) ([v3.7.0](https://github.com/P403n1x87/austin/releases/tag/v3.7.0), 3 weeks ago) - Python frame stack sampler for CPython
