@@ -10,7 +10,7 @@
 #### 👩‍💻 Check out what I'm currently working on
 
 - [truenas/apps](https://github.com/truenas/apps) -  (3 weeks ago)
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (4 weeks ago)
+- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (1 month ago)
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (1 month ago)
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup (3 months ago)
 - [P403n1x87/austin](https://github.com/P403n1x87/austin) - Python frame stack sampler for CPython (4 months ago)
