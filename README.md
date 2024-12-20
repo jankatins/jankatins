@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.42](https://github.com/astral-sh/packse/releases/tag/0.3.42), 3 days ago) - Python packaging scenarios
+- [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.42](https://github.com/astral-sh/packse/releases/tag/0.3.42), 4 days ago) - Python packaging scenarios
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.9.0](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.9.0), 1 week ago) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
 - [grpc/grpc](https://github.com/grpc/grpc) ([v1.69.0-pre1](https://github.com/grpc/grpc/releases/tag/v1.69.0-pre1), 1 week ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
 - [starship/starship](https://github.com/starship/starship) ([v1.21.1](https://github.com/starship/starship/releases/tag/v1.21.1), 2 months ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
