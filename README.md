@@ -9,7 +9,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [truenas/apps](https://github.com/truenas/apps) -  (1 month ago)
+- [truenas/apps](https://github.com/truenas/apps) -  (2 months ago)
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (2 months ago)
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (2 months ago)
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup (4 months ago)
@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grpc/grpc](https://github.com/grpc/grpc) ([v1.69.0](https://github.com/grpc/grpc/releases/tag/v1.69.0), 5 days ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
-- [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.42](https://github.com/astral-sh/packse/releases/tag/0.3.42), 1 week ago) - Python packaging scenarios
+- [grpc/grpc](https://github.com/grpc/grpc) ([v1.69.0](https://github.com/grpc/grpc/releases/tag/v1.69.0), 6 days ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
+- [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.42](https://github.com/astral-sh/packse/releases/tag/0.3.42), 2 weeks ago) - Python packaging scenarios
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.9.0](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.9.0), 2 weeks ago) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
 - [starship/starship](https://github.com/starship/starship) ([v1.21.1](https://github.com/starship/starship/releases/tag/v1.21.1), 2 months ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [P403n1x87/austin](https://github.com/P403n1x87/austin) ([v3.7.0](https://github.com/P403n1x87/austin/releases/tag/v3.7.0), 2 months ago) - Python frame stack sampler for CPython
