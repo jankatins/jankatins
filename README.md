@@ -17,12 +17,12 @@
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests. (6 months ago)
 - [isotopp/isotopp.github.io](https://github.com/isotopp/isotopp.github.io) - https://blog.koehntopp.info, previously named https://isotopp.github.io (7 months ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (10 months ago)
-- [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#) (10 months ago)
+- [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#) (11 months ago)
 - [astral-sh/packse](https://github.com/astral-sh/packse) - Python packaging scenarios (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.45](https://github.com/astral-sh/packse/releases/tag/0.3.45), 6 days ago) - Python packaging scenarios
+- [astral-sh/packse](https://github.com/astral-sh/packse) ([0.3.45](https://github.com/astral-sh/packse/releases/tag/0.3.45), 1 week ago) - Python packaging scenarios
 - [starship/starship](https://github.com/starship/starship) ([v1.22.1](https://github.com/starship/starship/releases/tag/v1.22.1), 1 week ago) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [grpc/grpc](https://github.com/grpc/grpc) ([v1.70.0-pre1](https://github.com/grpc/grpc/releases/tag/v1.70.0-pre1), 1 week ago) - The C based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#)
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.9.0](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.9.0), 1 month ago) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
