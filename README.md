@@ -11,7 +11,7 @@
 
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (1 month ago)
 - [truenas/apps](https://github.com/truenas/apps) -  (5 months ago)
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (5 months ago)
+- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (6 months ago)
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup (8 months ago)
 - [P403n1x87/austin](https://github.com/P403n1x87/austin) - Python frame stack sampler for CPython (9 months ago)
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests. (9 months ago)
@@ -19,7 +19,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.10.0](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.10.0), 2 weeks ago) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
+- [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) ([testcontainers-v4.10.0](https://github.com/testcontainers/testcontainers-python/releases/tag/testcontainers-v4.10.0), 3 weeks ago) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
 - [P403n1x87/austin](https://github.com/P403n1x87/austin) ([v3.7.0](https://github.com/P403n1x87/austin/releases/tag/v3.7.0), 6 months ago) - Python frame stack sampler for CPython
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) ([1.0.1](https://github.com/jankatins/pr-workflow-example/releases/tag/1.0.1), 2 years ago) - 
 
