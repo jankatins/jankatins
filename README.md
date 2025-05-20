@@ -9,7 +9,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (6 days ago)
+- [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (1 week ago)
 - [truenas/apps](https://github.com/truenas/apps) -  (6 months ago)
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (6 months ago)
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup (9 months ago)
