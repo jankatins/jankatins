@@ -11,10 +11,10 @@
 
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (1 month ago)
 - [DenktMit-eG/rustcloak-operator](https://github.com/DenktMit-eG/rustcloak-operator) - Yet another Keycloak Operator for Kubernetes (1 month ago)
-- [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (1 month ago)
+- [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (2 months ago)
 - [truenas/apps](https://github.com/truenas/apps) -  (8 months ago)
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup (11 months ago)
-- [P403n1x87/austin](https://github.com/P403n1x87/austin) - Python frame stack sampler for CPython (11 months ago)
+- [P403n1x87/austin](https://github.com/P403n1x87/austin) - Python frame stack sampler for CPython (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
