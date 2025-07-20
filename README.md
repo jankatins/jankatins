@@ -14,7 +14,6 @@
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (2 months ago)
 - [truenas/apps](https://github.com/truenas/apps) -  (8 months ago)
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup (11 months ago)
-- [P403n1x87/austin](https://github.com/P403n1x87/austin) - Python frame stack sampler for CPython (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
