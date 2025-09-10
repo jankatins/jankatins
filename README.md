@@ -10,7 +10,7 @@
 #### 👩‍💻 Check out what I'm currently working on
 
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (1 week ago)
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (3 weeks ago)
+- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (4 weeks ago)
 - [DenktMit-eG/rustcloak-operator](https://github.com/DenktMit-eG/rustcloak-operator) - Yet another Keycloak Operator for Kubernetes (3 months ago)
 - [truenas/apps](https://github.com/truenas/apps) -  (10 months ago)
 
