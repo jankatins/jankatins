@@ -11,7 +11,7 @@
 
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (1 week ago)
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (2 weeks ago)
-- [DenktMit-eG/rustcloak-operator](https://github.com/DenktMit-eG/rustcloak-operator) - Yet another Keycloak Operator for Kubernetes (5 months ago)
+- [DenktMit-eG/rustcloak-operator](https://github.com/DenktMit-eG/rustcloak-operator) - Yet another Keycloak Operator for Kubernetes (6 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
