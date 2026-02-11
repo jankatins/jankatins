@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DenktMit-eG/rustcloak-operator](https://github.com/DenktMit-eG/rustcloak-operator) ([v0.4.0](https://github.com/DenktMit-eG/rustcloak-operator/releases/tag/v0.4.0), 2 days ago) - Yet another Keycloak Operator for Kubernetes
+- [DenktMit-eG/rustcloak-operator](https://github.com/DenktMit-eG/rustcloak-operator) ([v0.4.1](https://github.com/DenktMit-eG/rustcloak-operator/releases/tag/v0.4.1), today) - Yet another Keycloak Operator for Kubernetes
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) ([1.0.1](https://github.com/jankatins/pr-workflow-example/releases/tag/1.0.1), 3 years ago) - 
 
 
