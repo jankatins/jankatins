@@ -9,14 +9,14 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust (4 days ago)
+- [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust (5 days ago)
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (4 months ago)
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (5 months ago)
 - [DenktMit-eG/rustcloak-operator](https://github.com/DenktMit-eG/rustcloak-operator) - Yet another Keycloak Operator for Kubernetes (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [rvben/rumdl](https://github.com/rvben/rumdl) ([v0.1.67](https://github.com/rvben/rumdl/releases/tag/v0.1.67), today) - Fast Markdown linter and formatter written in Rust
+- [rvben/rumdl](https://github.com/rvben/rumdl) ([v0.1.67](https://github.com/rvben/rumdl/releases/tag/v0.1.67), 1 day ago) - Fast Markdown linter and formatter written in Rust
 - [DenktMit-eG/rustcloak-operator](https://github.com/DenktMit-eG/rustcloak-operator) ([v0.4.1](https://github.com/DenktMit-eG/rustcloak-operator/releases/tag/v0.4.1), 1 month ago) - Yet another Keycloak Operator for Kubernetes
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) ([1.0.1](https://github.com/jankatins/pr-workflow-example/releases/tag/1.0.1), 3 years ago) - 
 
