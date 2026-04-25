@@ -16,7 +16,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [rvben/rumdl](https://github.com/rvben/rumdl) ([v0.1.81](https://github.com/rvben/rumdl/releases/tag/v0.1.81), 1 day ago) - Fast Markdown linter and formatter written in Rust
+- [rvben/rumdl](https://github.com/rvben/rumdl) ([v0.1.82](https://github.com/rvben/rumdl/releases/tag/v0.1.82), today) - Fast Markdown linter and formatter written in Rust
 - [DenktMit-eG/rustcloak-operator](https://github.com/DenktMit-eG/rustcloak-operator) ([v0.4.1](https://github.com/DenktMit-eG/rustcloak-operator/releases/tag/v0.4.1), 2 months ago) - Yet another Keycloak Operator for Kubernetes
 - [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) ([1.0.1](https://github.com/jankatins/pr-workflow-example/releases/tag/1.0.1), 3 years ago) - 
 
