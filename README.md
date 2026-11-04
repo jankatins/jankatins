@@ -16,7 +16,6 @@
 #### 🔭 Latest releases I've contributed to
 
 - [rvben/rumdl](https://github.com/rvben/rumdl) ([v0.3.2](https://github.com/rvben/rumdl/releases/tag/v0.3.2), 1 week ago) - Fast Markdown linter and formatter written in Rust
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) ([1.0.1](https://github.com/jankatins/pr-workflow-example/releases/tag/1.0.1), 4 years ago) - 
 
 
 #### ✨ Stats
