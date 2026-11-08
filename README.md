@@ -11,7 +11,6 @@
 
 - [jankatins/katzien.de](https://github.com/jankatins/katzien.de) - My private homepage (2 months ago)
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust (7 months ago)
-- [jankatins/pr-workflow-example](https://github.com/jankatins/pr-workflow-example) -  (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
