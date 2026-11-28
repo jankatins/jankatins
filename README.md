@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [rvben/rumdl](https://github.com/rvben/rumdl) ([v0.3.8](https://github.com/rvben/rumdl/releases/tag/v0.3.8), today) - Fast Markdown linter and formatter written in Rust
+- [rvben/rumdl](https://github.com/rvben/rumdl) ([v0.3.8](https://github.com/rvben/rumdl/releases/tag/v0.3.8), 1 day ago) - Fast Markdown linter and formatter written in Rust
 
 
 #### ✨ Stats
